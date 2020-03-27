@@ -1,1 +1,1 @@
-# Mathematics-Tutorial
+<p><strong><a title="Mathematics" href="https://en.wikipedia.org/wiki/Mathematics">Mathematics</a></strong>&nbsp;is a field of study that investigates topics including number, space, structure, and change. For more on the relationship between&nbsp;<a title="Mathematics" href="https://en.wikipedia.org/wiki/Mathematics">mathematics</a>&nbsp;and&nbsp;<a title="Science" href="https://en.wikipedia.org/wiki/Science">science</a>, refer to the article on&nbsp;<a title="Science" href="https://en.wikipedia.org/wiki/Science#Mathematics">science</a>.</p>
