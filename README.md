@@ -309,49 +309,49 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(77).pdf" style="text-decoration:none;">Maths Hacks: 100 Clever Ways To Help You Understand And Remember The Most Important Theories</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(78).pdf" style="text-decoration:none;">CHEMISTRY Experiments for Children</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(79).pdf" style="text-decoration:none;">Essentials of Computational Chemistry: Theories and Models</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(80).pdf" style="text-decoration:none;">Basic Chemistry: Concepts and Exercises</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(79).pdf" style="text-decoration:none;">Entertaining Mathematical Puzzles</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(80).pdf" style="text-decoration:none;">A Handbook for Designing: Mathematics Laboratory in Schools</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(81).pdf" style="text-decoration:none;">Principles and Practice of Analytical Chemistry</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(82).pdf" style="text-decoration:none;">The Chemistry Maths Book</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(81).pdf" style="text-decoration:none;">Math Wonders to Inspire Teachers and Students</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(82).pdf" style="text-decoration:none;">McGraw-Hill's Conquering SAT Math</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(83).pdf" style="text-decoration:none;">Fundamental Chemistry for O Level Teaching Guide</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(84).pdf" style="text-decoration:none;">Amino Acids, Peptides and Proteins in Organic Chemistry</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(83).pdf" style="text-decoration:none;">Magical Book On Quicker Maths</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(84).pdf" style="text-decoration:none;">No Bullshit Guide to Math and Physics</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(85).pdf" style="text-decoration:none;">Instant Notes: Inorganic Chemistry</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(85).pdf" style="text-decoration:none;">GRE Math Bible</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(86).pdf" style="text-decoration:none;">Laboratory Manual for General Chemistry</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(87).pdf" style="text-decoration:none;">An Introduction to Environmental Chemistry</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(86).pdf" style="text-decoration:none;">Options Math for Traders: How to Pick the Best Option Strategies for Your Market Outlook</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(87).pdf" style="text-decoration:none;">Pathfinder to Olympiad Mathematics</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(88).pdf" style="text-decoration:none;">Inorganic and Applied Chemistry</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(89).pdf" style="text-decoration:none;">Food Lipids: Chemistry, Nutrition, and Biotechnology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(88).pdf" style="text-decoration:none;">Poker Math That Matters: Simplifying the Secrets of No-Limit Hold'em</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(89).pdf" style="text-decoration:none;">Pre-Algebra Essentials For Dummies</a></li>
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(90).pdf" style="text-decoration:none;">Medicinal Chemistry of Bioactive Natural Products</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(91).pdf" style="text-decoration:none;">Advances in Inorganic Chemistry</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(90).pdf" style="text-decoration:none;">Printable Math Fun Board Games And Brain Teasers </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(91).pdf" style="text-decoration:none;">Problem-Solving Strategies</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(92).pdf" style="text-decoration:none;">Cambridge IGCSE Chemistry (0620) Past and specimen paper questions and answers</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(92).pdf" style="text-decoration:none;">Advanced Level Mathematics Pure Mathematics I</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(93).pdf" style="text-decoration:none;">Advanced Topics in Forensic DNA Typing: Methodology</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(94).pdf" style="text-decoration:none;">The Chemistry of Natural Products: Main Lectures Presented at the Fourth International Symposium on the Chemistry of Natural Products Held in Stockholm</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(95).pdf" style="text-decoration:none;">Schaum's Outline of Theory and Problems of Beginning Chemistry</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(94).pdf" style="text-decoration:none;">An Elementary Treatise On The Dynamics Of A Particle With Solution Manual</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(95).rar" style="text-decoration:none;">SAT Math For Dummies</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(96).pdf" style="text-decoration:none;"> Solutions Manual to Accompany Inorganic Chemistry</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(97).pdf" style="text-decoration:none;">Solving Problems: A Chemistry Handbook</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(96).pdf" style="text-decoration:none;"> Saxon Math 5/4</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(97).pdf" style="text-decoration:none;">The Secrets of Mental Math</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(98).pdf" style="text-decoration:none;">Organic Chemistry II For Dummies</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(99).pdf" style="text-decoration:none;">A Dictionary of Chemistry</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(98).pdf" style="text-decoration:none;">Secrets of Mental Math: The Mathemagician's Guide to Lightning Calculation and Amazing Math Tricks</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(99).pdf" style="text-decoration:none;">Skill Sharpeners Math, Grade 1 </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(100).pdf" style="text-decoration:none;"> Essentials of Inorganic Chemistry: For Students of Pharmacy, Pharmaceutical Sciences and Medicinal Chemistry</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(101).pdf" style="text-decoration:none;">Organic Chemistry of Explosives</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(100).pdf" style="text-decoration:none;"> Speed Math for Kids: The Fast, Fun Way To Do Basic Calculations</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(101).pdf" style="text-decoration:none;">Sports Math: An Introductory Course In The Mathematics Of Sports Science And Sports Analytics</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(102).pdf" style="text-decoration:none;">Nomenclature of Inorganic Chemistry</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(103).pdf" style="text-decoration:none;">Polymer Chemistry: A Practical Approach</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(102).pdf" style="text-decoration:none;">Statistics Without Maths for Psychology</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(103).pdf" style="text-decoration:none;"> 4-6 Grade Math Centers</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(104).pdf" style="text-decoration:none;">Fundamentals of Medicinal Chemistry</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(105).pdf" style="text-decoration:none;">Textbook of medicinal chemistry Volume 1</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(104).pdf" style="text-decoration:none;">Teach Your Child Math: Making Math Fun for the Both of You</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(105).pdf" style="text-decoration:none;">Teaching the Common Core Math Standards with Hands-On Activities</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(106).pdf" style="text-decoration:none;">ISC Practical Chemistry Volume 1 for Class XI</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(106).pdf" style="text-decoration:none;">Technical Math For Dummies</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(107).pdf" style="text-decoration:none;">The Basics of Chemistry</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(108).pdf" style="text-decoration:none;">Most Likely Question Bank for Chemistry ICSE class 10</a></li>
