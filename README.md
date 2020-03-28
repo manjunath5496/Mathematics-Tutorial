@@ -360,16 +360,16 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(110).pdf" style="text-decoration:none;">The Math Handbook: Everyday Math Made Simple</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(111).pdf" style="text-decoration:none;">The Mathematics That Every Secondary School Math Teacher Needs to Know</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(112).pdf" style="text-decoration:none;">Experiments in General Chemistry Featuring MeasureNet</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(113).pdf" style="text-decoration:none;">Physical Chemistry in Brief</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(112).pdf" style="text-decoration:none;">Become a MathHacker</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(113).pdf" style="text-decoration:none;">The Power of Vedic Maths</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(114).pdf" style="text-decoration:none;">Ace General Chemistry I and II: The Easy Guide to Ace General Chemistry I and II</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(114).pdf" style="text-decoration:none;">The Real Estate Math Handbook: Simplified Solutions For The Real Estate Investor</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(115).pdf" style="text-decoration:none;">Concise Physical Chemistry</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(116).pdf" style="text-decoration:none;">Instant Notes: Analytical Chemistry</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(117).pdf" style="text-decoration:none;">Fundamentals of Heterocyclic Chemistry: Importance in Nature and in the Synthesis of Pharmaceuticals</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(115).pdf" style="text-decoration:none;">The Spider Network: The Wild Story of a Math Genius, a Gang of Backstabbing Bankers, and One of the Greatest Scams in Financial History</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(116).pdf" style="text-decoration:none;"> The Usborne Illustrated Dictionary of Maths</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(117).pdf" style="text-decoration:none;">The Handy Math Answer Book</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(118).pdf" style="text-decoration:none;">Quantities, Units and Symbols in Physical Chemistry</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(118).pdf" style="text-decoration:none;">visual math: See How Math Makes Sense</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(119).pdf" style="text-decoration:none;">Eat Right for Your Metabolism: The Individualized Diet Plan to Balance Body Chemistry, Lose Weight, and Prevent Disease </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(120).pdf" style="text-decoration:none;">Chemistry Essentials For Dummies </a></li>
 
