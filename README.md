@@ -419,7 +419,7 @@
 </ul>
 
 </br>
-
+<hr>
 <ul>
 <li><a title="" href="https://en.wikipedia.org/wiki/Lists_of_mathematics_topics">Lists of mathematics topics</a></li>
 <li><a title="Areas of mathematics" href="https://en.wikipedia.org/wiki/Areas_of_mathematics">Areas of mathematics</a></li>
