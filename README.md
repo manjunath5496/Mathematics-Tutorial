@@ -286,28 +286,27 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(64).pdf" style="text-decoration:none;">Math Puzzles and Brainteasers, Grades 6-8: Over 300 Puzzles that Teach Math and Problem-Solving Skills</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(65).rar" style="text-decoration:none;">Math Smart (Princeton Review)</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(66).pdf" style="text-decoration:none;">5 Steps to a 5 AP Chemistry 2014-2015</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(66).pdf" style="text-decoration:none;">Math Starters!</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(67).pdf" style="text-decoration:none;">
-Bioinorganic Chemistry: A Short Course</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(68).pdf" style="text-decoration:none;">Concise Inorganic Chemistry</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(67).pdf" style="text-decoration:none;"> Math Wise! Over 100 Hands-On Activities that Promote Real Math Understanding, Grades K–8</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(68).pdf" style="text-decoration:none;">Math Word Problems For Dummies</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(69).pdf" style="text-decoration:none;">Solutions Manual for Mathematics for Physical Chemistry</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(69).pdf" style="text-decoration:none;">Math Workout for the GRE (Graduate School Test Preparation)</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(70).pdf" style="text-decoration:none;">Encyclopedia of Chemistry </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(71).pdf" style="text-decoration:none;">Essentials of Pharmaceutical Chemistry</a></li>
-
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(70).pdf" style="text-decoration:none;">Everything Kids' Math Puzzles Book: Brain Teasers, Games, And Activites For Hours Of Fun </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(71).pdf" style="text-decoration:none;">Mathability: Awaken The Math Genius in Your Child</a></li>
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(72).pdf" style="text-decoration:none;">Lippincott Biochemistry</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(73).pdf" style="text-decoration:none;">Chemistry Workbook For Dummies</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(74).pdf" style="text-decoration:none;">Oxidation and Antioxidants in Organic Chemistry and Biology</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(75).pdf" style="text-decoration:none;">Essentials of Organic Chemistry</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(72).pdf" style="text-decoration:none;"> GMAT Club Math Book </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(73).pdf" style="text-decoration:none;">Mathematical Mindsets: Unleashing Students' Potential Through Creative Math, Inspiring Messages and Innovative Teaching</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(76).pdf" style="text-decoration:none;">The Organometallic Chemistry of the Transition Metals</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(74).pdf" style="text-decoration:none;">NCERT Exemplar Problems for Class 12 Maths</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(75).pdf" style="text-decoration:none;">Water Treatment Operations: Math Concepts and Calculations</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(77).pdf" style="text-decoration:none;">Environmental Pollution and Control</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(76).pdf" style="text-decoration:none;">Maths for Economics</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(77).pdf" style="text-decoration:none;">Maths Hacks: 100 Clever Ways To Help You Understand And Remember The Most Important Theories</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(78).pdf" style="text-decoration:none;">CHEMISTRY Experiments for Children</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(79).pdf" style="text-decoration:none;">Essentials of Computational Chemistry: Theories and Models</a></li>                              
