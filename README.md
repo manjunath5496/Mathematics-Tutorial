@@ -352,13 +352,13 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(105).pdf" style="text-decoration:none;">Teaching the Common Core Math Standards with Hands-On Activities</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(106).pdf" style="text-decoration:none;">Technical Math For Dummies</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(107).pdf" style="text-decoration:none;">The Basics of Chemistry</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(107).pdf" style="text-decoration:none;">The Joy of X: A Guided Tour of Math, from One to Infinity</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(108).pdf" style="text-decoration:none;">Most Likely Question Bank for Chemistry ICSE class 10</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(108).pdf" style="text-decoration:none;">The Little Green Math Book: 30 Powerful Principles for Building Math and Numeracy Skills</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(109).pdf" style="text-decoration:none;">The Organic Chemistry of Drug Synthesis</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(110).pdf" style="text-decoration:none;">CliffsAP Chemistry</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(111).pdf" style="text-decoration:none;">Statistics and Chemometrics for Analytical Chemistry</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(109).pdf" style="text-decoration:none;">The Magic of Math: Solving for x and Figuring Out Why</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(110).pdf" style="text-decoration:none;">The Math Handbook: Everyday Math Made Simple</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(111).pdf" style="text-decoration:none;">The Mathematics That Every Secondary School Math Teacher Needs to Know</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(112).pdf" style="text-decoration:none;">Experiments in General Chemistry Featuring MeasureNet</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(113).pdf" style="text-decoration:none;">Physical Chemistry in Brief</a></li>
