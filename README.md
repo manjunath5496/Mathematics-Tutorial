@@ -307,7 +307,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(76).pdf" style="text-decoration:none;">Maths for Economics</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(77).pdf" style="text-decoration:none;">Maths Hacks: 100 Clever Ways To Help You Understand And Remember The Most Important Theories</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(78).pdf" style="text-decoration:none;">CHEMISTRY Experiments for Children</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(78).pdf" style="text-decoration:none;">A First Course In Mathematical Logic And Set Theory</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(79).pdf" style="text-decoration:none;">Entertaining Mathematical Puzzles</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(80).pdf" style="text-decoration:none;">A Handbook for Designing: Mathematics Laboratory in Schools</a></li>
@@ -331,7 +331,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(91).pdf" style="text-decoration:none;">Problem-Solving Strategies</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(92).pdf" style="text-decoration:none;">Advanced Level Mathematics Pure Mathematics I</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(93).pdf" style="text-decoration:none;">Advanced Topics in Forensic DNA Typing: Methodology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(93).pdf" style="text-decoration:none;">A Friendly Introduction to Number Theory</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(94).pdf" style="text-decoration:none;">An Elementary Treatise On The Dynamics Of A Particle With Solution Manual</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(95).rar" style="text-decoration:none;">SAT Math For Dummies</a></li>
@@ -370,47 +370,50 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(117).pdf" style="text-decoration:none;">The Handy Math Answer Book</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(118).pdf" style="text-decoration:none;">visual math: See How Math Makes Sense</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(119).pdf" style="text-decoration:none;">Eat Right for Your Metabolism: The Individualized Diet Plan to Balance Body Chemistry, Lose Weight, and Prevent Disease </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(120).pdf" style="text-decoration:none;">Chemistry Essentials For Dummies </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(119).pdf" style="text-decoration:none;">A History of Pi</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(120).pdf" style="text-decoration:none;">A Mathematician's Apology</a></li>
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(121).pdf" style="text-decoration:none;"> Pharmaceutical Chemistry</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(122).rar" style="text-decoration:none;">Heterocyclic Chemistry</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(123).rar" style="text-decoration:none;">Functional Food and Health</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(121).pdf" style="text-decoration:none;"> A Primer for Mathematics Competitions</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(122).pdf" style="text-decoration:none;">Chaos: Making a New Science</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(123).pdf" style="text-decoration:none;">Does God Play Dice: The New Mathematics of Chaos</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(124).rar" style="text-decoration:none;">March's Advanced Organic Chemistry: Reactions, Mechanisms, and Structure</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(125).rar" style="text-decoration:none;">Advanced Problems in Physical Chemistry for Competitive Examinations</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(126).rar" style="text-decoration:none;">Physical Chemistry (Gilbert W. Castellan) </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(124).pdf" style="text-decoration:none;">e: The Story of a Number</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(125).pdf" style="text-decoration:none;">zero: The Biography of a Dangerous Idea</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(126).pdf" style="text-decoration:none;">Euclid's Elements of Geometry  </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(127).rar" style="text-decoration:none;">Wilson and Gisvold's Textbook of Organic Medicinal and Pharmaceutical Chemistry</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(128).pdf" style="text-decoration:none;">Elements of Physical Chemistry</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(129).pdf" style="text-decoration:none;">Handbook of Industrial Chemistry</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(127).pdf" style="text-decoration:none;">Fermat's Last Theorem</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(128).pdf" style="text-decoration:none;">Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(129).pdf" style="text-decoration:none;">Functional Equations and How to Solve Them</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(130).pdf" style="text-decoration:none;">Shriver and Atkins Inorganic Chemistry </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(131).pdf" style="text-decoration:none;">The Science of Cooking: Understanding the Biology and Chemistry Behind Food and Cooking </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(130).pdf" style="text-decoration:none;">Gödel, Escher, Bach: An Eternal Golden Braid </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(131).pdf" style="text-decoration:none;">Geometry and the Imagination </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(132).pdf" style="text-decoration:none;">The Chemical History of a Candle</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(133).pdf" style="text-decoration:none;">Halogens and Noble Gases</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(134).pdf" style="text-decoration:none;">Periodic Tales: A Cultural History of the Elements, from Arsenic to Zinc </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(132).pdf" style="text-decoration:none;">Handbook of Mathematical Induction: Theory and Applications </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(133).pdf" style="text-decoration:none;">How to Solve It – A New Aspect of Mathematical Method</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(134).pdf" style="text-decoration:none;">How to Think Like a Mathematician </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(135).pdf" style="text-decoration:none;">The Periodic Table: A Field Guide to the Elements</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(135).pdf" style="text-decoration:none;">How Mathematicians Think</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(136).pdf" style="text-decoration:none;">Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(137).pdf" style="text-decoration:none;">The Chemical Bond: Chemical Bonding Across the Periodic Table</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(138).pdf" style="text-decoration:none;">The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(139).pdf" style="text-decoration:none;">The Last Sorcerers: The Path from Alchemy to the Periodic Table</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(140).pdf" style="text-decoration:none;">The Periodic Table: Its Story and Its Significance </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(141).pdf" style="text-decoration:none;">Uncle Tungsten: Memories of a Chemical Boyhood </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(136).pdf" style="text-decoration:none;">Is God a mathematician?</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(137).pdf" style="text-decoration:none;">Journey through Genius: The Great Theorems of Mathematics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(138).pdf" style="text-decoration:none;">Mathematics of Financial Markets </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(139).pdf" style="text-decoration:none;">Men of Mathematics: The Lives and Achievements of the Great Mathematicians from Zeno to Poincaré </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(140).pdf" style="text-decoration:none;">Mr Hopkins' Men: Cambridge Reform and British Mathematics in the 19th Century </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(141).pdf" style="text-decoration:none;">FLATLAND: A Romance of Many Dimensions</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(142).pdf" style="text-decoration:none;">The 13th Element: The Sordid Tale of Murder, Fire, and Phosphorus </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(143).pdf" style="text-decoration:none;">The Elements of Murder: A History of Poison</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(144).pdf" style="text-decoration:none;">Secrets of Methamphetamine Manufacture</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(145).pdf" style="text-decoration:none;">Carbohydrate Chemistry, Volume 26 </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(142).pdf" style="text-decoration:none;">Pi: A Biography of the World's Most Mysterious Number </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(143).pdf" style="text-decoration:none;">Prime Obsession: Bernhard Riemann and the Greatest Unsolved Problem in Mathematics </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(144).pdf" style="text-decoration:none;">Proofs from THE BOOK</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(145).pdf" style="text-decoration:none;">The Drunkard's Walk [How Randomness Rules Our Life] </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(146).pdf" style="text-decoration:none;">Atoms, Molecules and Matter: The Stuff of Chemistry</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(147).pdf" style="text-decoration:none;">Napoleon's Buttons: How 17 Molecules Changed History</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(148).pdf" style="text-decoration:none;">A Short History of Nearly Everything </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(146).pdf" style="text-decoration:none;">The Man Who Loved Only Numbers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(147).pdf" style="text-decoration:none;">The Music of the Primes: Why an Unsolved Problem in Mathematics Matters</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(148).pdf" style="text-decoration:none;">Thinking in Problems: How Mathematicians Find Creative Solutions </a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(149).pdf" style="text-decoration:none;">A Mathematician's Lament: How School Cheats Us Out of Our Most Fascinating and Imaginative Art Form</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(150).pdf" style="text-decoration:none;">A Mathematician Plays the Stock Market</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/myh(151).pdf" style="text-decoration:none;">Infinite Powers: How Calculus Reveals the Secrets of the Universe </a></li>
 
 
 </ul>
