@@ -430,6 +430,12 @@
 </ul>
 </br>
 
+<ul>
+<li><a href="https://manjunath5496.github.io/math-quiz/math.html">Mathematics Quiz</a></li>
+</ul>
+
+</br>
+
 <h2 id="Mathematicians">16 Famous and Greatest Mathematicians </h2>
 
 <p>[1]<a href="https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss" rel="nofollow">&nbsp;Carl Friedrich Gauss</a></p>
