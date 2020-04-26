@@ -662,7 +662,7 @@
 <p>Death: March 415 AD (aged 44&ndash;65),&nbsp; Alexandria, Province of Egypt, Eastern Roman Empire</p>
 <p>Known for: the production of a new edition of Euclid's Elements</p>
 
-
+</br>
 
 
 
