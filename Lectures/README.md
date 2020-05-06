@@ -944,11 +944,6 @@
 <li><a href="MIT18_03SCF11_s0_2text.pdf">Variables and Parameters (PDF)</a></li>
 <li><a href="MIT18_03SCF11_s0_3text.pdf">Notations for Derivatives (PDF)</a></li>
 <li><a href="MIT18_03SCF11_s0_4text.pdf">Differential Equations (PDF)</a></li>
-</ul>
-
-</br>
-
-<ul class="arrow">
 <li><a href="MIT18_03SCF11_s0_5quizq.pdf">Solution to an ODE (PDF)</a></li>
 <li><a href="MIT18_03SCF11_s0_5quizc.pdf">Choices (PDF)</a></li>
 <li><a href="MIT18_03SCF11_s0_5quiza.pdf">Answer (PDF)</a></li>
@@ -956,5 +951,26 @@
 
 </br>
 
+<p> <strong>Assignments: problem sets with solutions</strong> </p>
+<ul class="arrow">
+<li><a href="MIT18_03SCF11_s1_0intro.pdf">The Most Important DE (PDF)</a></li>
+<li><a href="MIT18_03SCF11_s1_1text.pdf">Other Basic Examples (PDF)</a></li>
+<li><a href="MIT18_03SCF11_s1_2text.pdf">Separation of Variables (PDF)</a></li>
+<li><a href="MIT18_03SCF11_s1_3quizq.pdf">Separation of Variables (PDF)</a></li>
+<li><a href="MIT18_03SCF11_s1_3quizc.pdf">Choices (PDF)</a></li>
+<li><a href="MIT18_03SCF11_s1_3quiza.pdf">Answer (PDF)</a></li>
+<li><a href="MIT18_03SCF11_s1_4quizq.pdf">Is it Separable? (PDF)</a></li>
+<li><a href="MIT18_03SCF11_s1_4quizc.pdf">Choices (PDF)</a></li>
+<li><a href="MIT18_03SCF11_s1_4quiza.pdf">Answer (PDF)</a></li>
+<li><a href="MIT18_03SCF11_s1_5text.pdf">Solutions that Blow Up: The Domain of a Solution (PDF)</a></li>
+<li><a href="MIT18_03SCF11_s1_6text.pdf">Modeling by First Order Linear ODE's (PDF)</a></li>
+<li><a href="MIT18_03SCF11_rec_01s1.pdf">Practice Problem (PDF)</a></li>
+<li><a href="MIT18_03SCF11_rec_01s1_sol.pdf">Solution (PDF)</a></li>
+<li><a href="MIT18_03SCF11_ps1_s1q.pdf">Problem Set Part I (PDF)</a></li>
+<li><a href="MIT18_03SCF11_ps1_s1s.pdf">Problem Set Part I Solutions (PDF)</a></li>
+<li><a href="MIT18_03SCF11_ps1_II_s1q.pdf">Problem Set Part II (PDF)</a></li>
+<li><a href="MIT18_03SCF11_ps1_II_s1s.pdf">Problem Set Part II Solutions (PDF)</a></li>
+</ul>
+</br>
 
 
