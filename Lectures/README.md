@@ -973,4 +973,10 @@
 </ul>
 </br>
 
-
+<p> <strong>Exams and solutions</strong> </p>
+<ul class="arrow">
+<li><a href="MIT18_03SCF11_prex1.pdf">Practice Exam 1 and Solutions (PDF)</a></li>
+<li><a href="MIT18_03SCF11_ex1.pdf">Exam 1 (PDF)</a></li>
+<li><a href="MIT18_03SCF11_ex1s.pdf">Exam 1 Solutions (PDF)</a></li>
+</ul>
+</br>
