@@ -1,6 +1,6 @@
 <ul>
 <li class="title"><a href="#course1">Single Variable Calculus</a></li>
- <li class="title"><a href="#course2">Physics II: Electricity and Magnetism</a></li> 
+ <li class="title"><a href="#course2">Calculus with Theory</a></li> 
   <li class="title"><a href="#course3">Physics II: Electricity and Magnetism with an Experimental Focus </a></li> 
   <li class="title"><a href="#course4">Physics III: Vibrations and Waves </a></li>
    <li class="title"><a href="#course5">Physics III </a></li>
@@ -252,5 +252,74 @@
 </tbody>
 </table>
 </br>
+<h2 id ="course2">Calculus with Theory</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><a name="Integers_and_exponents"></a>Integers and exponents (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_014F10_ChAnotes.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><a name="Square_roots"></a>Square roots, and the existence of irrational numbers (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_014F10_ChBnotes.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><a name="The_Riemann_condition"></a>The Riemann condition (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_014F10_ChCnotes.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><a name="Properties_of_integrals"></a>Properties of integrals (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_014F10_ChDnotes.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><a name="Integrability_of_bounded_piecewise"></a>Integrability of bounded piecewise-monotonic functions (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_014F10_ChEnotes.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><a name="Continuity_of_the_square_root_function"></a>Continuity of the square root function (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_014F10_ChFnotes.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><a name="Rational_exponents"></a>Rational exponents &ndash; an application of the intermediate-value theorem (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_014F10_ChGnotes.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><a name="The_small_span_theorem"></a>The small span theorem and the extreme-value theorem (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_014F10_ChHnotes.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><a name="Theorem_and_proof"></a>Theorem and proof (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_014F10_ChInotes.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><a name="Exercises_on_derivatives"></a>Exercises on derivatives (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_014F10_ChJnotes.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><a name="The_fundamental_theorems_of_calculus"></a>The fundamental theorems of calculus (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_014F10_ChKnotes.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><a name="The_trigonometric_functions"></a>The trigonometric functions (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_014F10_ChLnotes.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><a name="The_exponential_and_logarithm_functions"></a>The exponential and logarithm functions (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_014F10_ChMnotes.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><a name="Integration"></a>Integration (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_014F10_ChNnotes.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><a name="Taylor_s_formula"></a>Taylor's formula (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_014F10_ChOnotes.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><a name="L_Hopital_s_rule_for_0_0"></a>L'Hopital's rule for 0/0 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_014F10_ChPnotes.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><a name="Notes_on_error_estimates"></a>Notes on error estimates (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_014F10_ChQnotes.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><a name="The_basic_theorems_on_power_series"></a>The basic theorems on power series (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_014F10_ChRnotes.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><a name="A_family_of_non-analytic_functions"></a>A family of non-analytic functions (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_014F10_ChSnotes.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><a name="Fourier_Series"></a>Fourier Series (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_014F10_ChTnotes.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
 
 
