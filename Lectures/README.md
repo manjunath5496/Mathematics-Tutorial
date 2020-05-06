@@ -557,5 +557,40 @@
 </tbody>
 </table>
 </br>
-
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Practice exam 1A (<a href="prac1a.pdf">PDF</a>)</td>
+<td>(<a href="prac1asol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Practice exam 1B (<a href="prac1b.pdf">PDF</a>)</td>
+<td>(<a href="prac1bsol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Practice exam 2A (<a href="prac2a.pdf">PDF</a>)</td>
+<td>(<a href="prac2asol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Practice exam 2B (<a href="prac2b.pdf">PDF</a>)</td>
+<td>(<a href="prac2bsol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Practice exam 3A (<a href="prac3a.pdf">PDF</a>)</td>
+<td>(<a href="prac3asol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Practice exam 3B (<a href="prac3b.pdf">PDF</a>)</td>
+<td>(<a href="prac3bsol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Practice exam 4A (<a href="prac4a.pdf">PDF</a>)</td>
+<td>(<a href="prac4asol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Practice exam 4B (<a href="prac4b.pdf">PDF</a>)</td>
+<td>(<a href="prac4bsol.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
