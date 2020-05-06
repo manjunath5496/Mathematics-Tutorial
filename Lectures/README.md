@@ -850,3 +850,68 @@
 </br>
 
 
+
+<p> <strong>Assignments: problem sets with solutions </strong> </p>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Problem set 1 (<a href="MIT18_024S11_Pset1.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_024S11_soln_pset1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 2 (<a href="MIT18_024S11_Pset2.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_024S11_soln-pset2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 3 (<a href="MIT18_024S11_Pset3.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_024S11_soln-pset3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 4 (<a href="MIT18_024S11_Pset4.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_024S11_soln-pset4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 5 (<a href="MIT18_024S11_Pset5.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_024S11_soln-pset5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 6 (<a href="MIT18_024S11_Pset6.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_024S11_soln-pset6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 7 (<a href="MIT18_024S11_Pset7.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_024S11_soln-pset7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 8 (<a href="MIT18_024S11_Pset8.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_024S11_soln-pset8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 9 (<a href="MIT18_024S11_Pset9.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_024S11_soln-pset9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 10 (<a href="MIT18_024S11_Pset10.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_024S11_soln-pset10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 11 (<a href="MIT18_024S11_Pset11.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_024S11_soln-pset11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 12 (<a href="MIT18_024S11_Pset12.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_024S11_soln-pset12.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
+
+
+
+
+
