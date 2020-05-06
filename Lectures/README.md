@@ -321,5 +321,57 @@
 </br>
 <p>This course is taught based upon the lecture notes of James Raymond Munkres, Professor of Mathematics, Emeritus. The notes are available as individual chapters, or as one file&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s105" /><a href="MIT18_014F10_course_notes.pdf" data-smd-id="s106">PDF - 3.3MB</a>).</span></p>
 </br>
+<p><strong>Assignments: problem sets with solutions</strong></p>
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Problem set 1 (<a href="MIT18_014F10_pset1.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_014F10_pset1sols.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 2 (<a href="MIT18_014F10_pset2.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_014F10_pset2sols.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 3 (<a href="MIT18_014F10_pset3.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_014F10_pset3sols.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 4 (<a href="MIT18_014F10_pset4.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_014F10_pset4sols.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 5 (<a href="MIT18_014F10_pset5.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_014F10_pset5sols.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 6 (<a href="MIT18_014F10_pset6.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_014F10_pset6sols.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 7 (<a href="MIT18_014F10_pset7.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_014F10_pset7sols.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 8 (<a href="MIT18_014F10_pset8.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_014F10_pset8sols.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 9 (<a href="MIT18_014F10_pset9.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_014F10_pset9sols.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 10 (<a href="MIT18_014F10_pset10.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_014F10_pset10sols.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 11 - part I (<a href="MIT18_014F10_pset11a.pdf">PDF</a>), part II (<a href="MIT18_014F10_pset11b.pdf">PDF</a>)</td>
+<td>Parts I and II (<a href="MIT18_014F10_pset11sols.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
 
 
