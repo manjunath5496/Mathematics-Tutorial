@@ -795,5 +795,52 @@
 </tbody>
 </table>
 </br>
+<p> <strong>Exams and solutions </strong> </p>
 
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>
+<p>Practice exam (<a href="MIT18_022F10_pra_1t.pdf">PDF</a>)</p>
+<p>Exam (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_022F10_Exam_1.pdf">PDF</a>)</p>
+</td>
+<td>
+<p>Practice exam solution (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_022F10_pra_1_model.pdf">PDF</a>)</p>
+<p>Exam solution (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_022F10_mid_1_model.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Practice exam (<a href="MIT18_022F10_pra_2t.pdf">PDF</a>)</p>
+<p>Exam (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_022F10_Exam_2.pdf">PDF</a>)</p>
+</td>
+<td>
+<p><span class="nobr">Practice exam solution (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_022F10_pra_2_model.pdf">PDF - 1.1MB</a>)</span></p>
+<p><span class="nobr">Exam solution (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_022F10_mid_2_model.pdf">PDF - 1.0MB</a>)</span></p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>Practice exam (<a href="MIT18_022F10_pra_3t.pdf">PDF</a>)</p>
+<p>Exam (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_022F10_Exam_3.pdf">PDF</a>)</p>
+</td>
+<td>
+<p>Practice exam solution (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_022F10_pra_3_model.pdf">PDF</a>)</p>
+<p>Exam solution (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_022F10_mid_3_model.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Practice final exam (<a href="MIT18_022F10_prft.pdf">PDF</a>)</p>
+<p>Final exam&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_022F10_Fin_Exam.pdf">PDF - 1.3</a>)</span></p>
+</td>
+<td>
+<p>Practice final exam solutions&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_022F10_prf_model.pdf">PDF - 1.6MB</a>)</span></p>
+<p>Final exam solutions&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_022F10_fin_model.pdf">PDF - 1.7MB</a>)</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+</br>
 
