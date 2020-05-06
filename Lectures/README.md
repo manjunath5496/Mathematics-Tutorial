@@ -319,7 +319,7 @@
 </tbody>
 </table>
 </br>
-
-
+<p>This course is taught based upon the lecture notes of James Raymond Munkres, Professor of Mathematics, Emeritus. The notes are available as individual chapters, or as one file&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s105" /><a href="MIT18_014F10_course_notes.pdf" data-smd-id="s106">PDF - 3.3MB</a>).</span></p>
+</br>
 
 
