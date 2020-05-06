@@ -1,7 +1,7 @@
 <ul>
 <li class="title"><a href="#course1">Single Variable Calculus</a></li>
  <li class="title"><a href="#course2">Calculus with Theory</a></li> 
-  <li class="title"><a href="#course3">Physics II: Electricity and Magnetism with an Experimental Focus </a></li> 
+  <li class="title"><a href="#course3">Multivariable Calculus </a></li> 
   <li class="title"><a href="#course4">Physics III: Vibrations and Waves </a></li>
    <li class="title"><a href="#course5">Physics III </a></li>
   <li class="title"><a href="#course6">Relativity</a></li>
@@ -408,3 +408,9 @@
 </tbody>
 </table>
 </br>
+<h2 id ="course3">Multivariable Calculus </h2>
+
+
+
+
+
