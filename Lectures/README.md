@@ -4,7 +4,7 @@
   <li class="title"><a href="#course3">Multivariable Calculus </a></li> 
   <li class="title"><a href="#course4">Calculus of Several Variables </a></li>
    <li class="title"><a href="#course5">Multivariable Calculus with Theory </a></li>
-  <li class="title"><a href="#course6">Relativity</a></li>
+  <li class="title"><a href="#course6">Differential Equations</a></li>
    <li class="title"><a href="#course7">Quantum Physics I </a></li>
     <li class="title"><a href="#course8">Statistical Physics I </a></li>
  <li class="title"><a href="#course9">Quantum Physics II </a></li>
@@ -934,6 +934,25 @@
 </tr>
 </tbody>
 </table>
+
+</br>
+
+<h2 id ="course6">Differential Equations </h2>
+
+<ul class="arrow">
+<li><a href="MIT18_03SCF11_s0_1text.pdf">The Exponential Function (PDF)</a></li>
+<li><a href="MIT18_03SCF11_s0_2text.pdf">Variables and Parameters (PDF)</a></li>
+<li><a href="MIT18_03SCF11_s0_3text.pdf">Notations for Derivatives (PDF)</a></li>
+<li><a href="MIT18_03SCF11_s0_4text.pdf">Differential Equations (PDF)</a></li>
+</ul>
+
+</br>
+
+<ul class="arrow">
+<li><a href="MIT18_03SCF11_s0_5quizq.pdf">Solution to an ODE (PDF)</a></li>
+<li><a href="MIT18_03SCF11_s0_5quizc.pdf">Choices (PDF)</a></li>
+<li><a href="MIT18_03SCF11_s0_5quiza.pdf">Answer (PDF)</a></li>
+</ul>
 
 </br>
 
