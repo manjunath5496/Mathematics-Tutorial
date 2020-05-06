@@ -907,11 +907,35 @@
 </table>
 </br>
 
+<p> <strong>Exams and solutions</strong> </p>
 
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>
+<p>Practice Exam 1 (<a href="MIT18_024S11_PracticeExam1.pdf">PDF</a>)</p>
+<p>Practice Exam 1 Solutions (<a href="MIT18_024S11_PracExam1Sol.pdf">PDF</a>)</p>
+</td>
+<td>Exam 1 (<a href="MIT18_024S11_Exam1.pdf">PDF</a>)</td>
+<td>Exam 1 solutions (<a href="MIT18_024S11_Exam1Solutns.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Practice Exam 2 (<a href="MIT18_024S11_PracticeExam2.pdf">PDF</a>)</p>
+<p>Practice Exam 2 Solutions (<a href="MIT18_024S11_PracExam2Sol.pdf">PDF</a>)</p>
+</td>
+<td>Exam 2 (<a href="MIT18_024S11_Exam2.pdf">PDF</a>)</td>
+<td>Exam 2 solutions (<a href="MIT18_024S11_Exam2solutns.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Practice Problems for the Final Exam (<a href="MIT18_024S11_FnlExmPrepMat.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
 
-
-
-
+</br>
 
 
 
