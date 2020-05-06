@@ -374,4 +374,37 @@
 </br>
 
 
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>
+<p>Practice exam 1 (<a href="MIT18_014F10_pr_ex1.pdf">PDF</a>)</p>
+<p>Practice exam 1 solutions (<a href="MIT18_014F10_pr_ex1_sols.pdf">PDF</a>)</p>
+</td>
+<td>Exam 1 (<a href="MIT18_014F10_ex1.pdf">PDF</a>)</td>
+<td>Exam 1 solutions (<a href="MIT18_014F10_ex1_sols.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Practice exam 2 (<a href="MIT18_014F10_pr_ex2.pdf">PDF</a>)</p>
+<p>Practice exam 2 solutions (<a href="MIT18_014F10_pr_ex2_sols.pdf">PDF</a>)</p>
+</td>
+<td>Exam 2 (<a href="MIT18_014F10_ex2.pdf">PDF</a>)</td>
+<td>Exam 2 solutions (<a href="MIT18_014F10_ex2_sols.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Practice exam 3 (<a href="MIT18_014F10_pr_ex3.pdf">PDF</a>)</p>
+<p>Practice exam 3 solutions (<a href="MIT18_014F10_pr_ex3_sols.pdf">PDF</a>)</p>
+</td>
+<td>Exam 3 (<a href="MIT18_014F10_ex3.pdf">PDF</a>)</td>
+<td>Exam 3 solutions (<a href="MIT18_014F10_ex3_sols.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Practice problems for the final exam (<a href="MIT18_014F10_final_pr_ex.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
