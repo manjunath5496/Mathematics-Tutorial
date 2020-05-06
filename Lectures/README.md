@@ -411,6 +411,151 @@
 <h2 id ="course3">Multivariable Calculus </h2>
 
 
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>I. Vectors and matrices</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Vectors</td>
+<td rowspan="3">Week 1 summary (<a href="lec_week1.pdf">PDF</a>)</td>
+</tr>
+<tr class="whiye-row">
+<td>Dot product</td>
+</tr>
+<tr class="alt-row">
+<td>Determinants; cross product</td>
+</tr>
+<tr class="row">
+<td>Matrices; inverse matrices</td>
+<td rowspan="3">Week 2 summary (<a href="lec_week2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Square systems; equations of planes</td>
+</tr>
+<tr class="row">
+<td>Parametric equations for lines and curves</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Velocity, acceleration</p>
+<p>Kepler's second law</p>
+</td>
+<td rowspan="2">Week 3 summary (<a href="lec_week3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Review</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>II. Partial derivatives</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Level curves; partial derivatives; tangent plane approximation</td>
+<td rowspan="3">Week 4 summary (<a href="lec_week4.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Max-min problems; least squares</td>
+</tr>
+<tr class="alt-row">
+<td>Second derivative test; boundaries and infinity</td>
+</tr>
+<tr class="row">
+<td>Differentials; chain rule</td>
+<td rowspan="3">Week 5 summary (<a href="lec_week5.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Gradient; directional derivative; tangent plane</td>
+</tr>
+<tr class="row">
+<td>Lagrange multipliers</td>
+</tr>
+<tr class="alt-row">
+<td>Non-independent variables</td>
+<td rowspan="2">Week 6 summary (<a href="lec_week6.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Partial differential equations; review</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>III. Double integrals and line integrals in the plane</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Double integrals</td>
+<td rowspan="2">Week 7 summary (<a href="lec_week7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Double integrals in polar coordinates; applications</td>
+</tr>
+<tr class="row">
+<td>Change of variables</td>
+<td rowspan="3">Week 8 summary (<a href="lec_week8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Vector fields and line integrals in the plane</td>
+</tr>
+<tr class="row">
+<td>Path independence and conservative fields</td>
+</tr>
+<tr class="alt-row">
+<td>Gradient fields and potential functions</td>
+<td rowspan="3">Week 9 summary (<a href="lec_week9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Green's theorem</td>
+</tr>
+<tr class="alt-row">
+<td>Flux; normal form of Green's theorem</td>
+</tr>
+<tr class="row">
+<td>Simply connected regions; review</td>
+<td>Week 10 summary (<a href="lec_week10.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>IV. Triple integrals and surface integrals in 3-space</strong></td>
+</tr>
+<tr class="row">
+<td>Triple integrals in rectangular and cylindrical coordinates</td>
+<td>Week 10 summary (<a href="lec_week10.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Spherical coordinates; surface area</td>
+<td rowspan="3">Week 11 summary (<a href="lec_week11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Vector fields in 3D; surface integrals and flux</td>
+</tr>
+<tr class="alt-row">
+<td>Divergence theorem</td>
+</tr>
+<tr class="row">
+<td>Divergence theorem (cont.): applications and proof</td>
+<td>Week 12 summary (<a href="lec_week12.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Line integrals in space, curl, exactness and potentials</td>
+<td rowspan="3">Week 13 summary (<a href="lec_week13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Stokes' theorem</td>
+</tr>
+<tr class="alt-row">
+<td>Stokes' theorem (cont.); review</td>
+</tr>
+<tr class="row">
+<td>
+<p>Topological considerations</p>
+<p>Maxwell's equations</p>
+</td>
+<td rowspan="3">Week 14 summary (<a href="lec_week14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Final review</td>
+</tr>
+<tr class="row">
+<td>Final review (cont.)</td>
+</tr>
+</tbody>
+</table>
+</br>
 
 
