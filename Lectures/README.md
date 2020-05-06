@@ -3,7 +3,7 @@
  <li class="title"><a href="#course2">Calculus with Theory</a></li> 
   <li class="title"><a href="#course3">Multivariable Calculus </a></li> 
   <li class="title"><a href="#course4">Calculus of Several Variables </a></li>
-   <li class="title"><a href="#course5">Physics III </a></li>
+   <li class="title"><a href="#course5">Multivariable Calculus with Theory </a></li>
   <li class="title"><a href="#course6">Relativity</a></li>
    <li class="title"><a href="#course7">Quantum Physics I </a></li>
     <li class="title"><a href="#course8">Statistical Physics I </a></li>
@@ -843,4 +843,13 @@
 </table>
 
 </br>
+<h2 id ="course5">Multivariable Calculus with Theory </h2>
+
+<p>Course notes as one file&nbsp;<span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_024s11_ChA_Fnotes.pdf">PDF - 15.7MB</a>)</span></p>
+
+</br>
+
+
+
+
 
