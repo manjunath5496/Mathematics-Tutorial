@@ -740,5 +740,60 @@
 
 </br>
 
+<p> <strong>Assignments: problem sets with solutions </strong> </p>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Problem set 1 (<a href="MIT18_022F10_h1.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_022F10_model1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 2 (<a href="MIT18_022F10_h2.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_022F10_model2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 3 (<a href="MIT18_022F10_h3.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_022F10_model3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 4 (<a href="MIT18_022F10_h4.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_022F10_model4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 5 (<a href="MIT18_022F10_h5.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_022F10_model5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 6 (<a href="MIT18_022F10_h6.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_022F10_model6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 7 (<a href="MIT18_022F10_h7.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_022F10_model7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 8 (<a href="MIT18_022F10_h8.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_022F10_model8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 9 (<a href="MIT18_022F10_h9.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_022F10_model9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 10 (<a href="MIT18_022F10_h10.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_022F10_model10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 11 (<a href="MIT18_022F10_h11.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_022F10_model11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 12 (<a href="MIT18_022F10_h12.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_022F10_model12.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
 
 
