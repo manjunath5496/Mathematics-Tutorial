@@ -2,7 +2,7 @@
 <li class="title"><a href="#course1">Single Variable Calculus</a></li>
  <li class="title"><a href="#course2">Calculus with Theory</a></li> 
   <li class="title"><a href="#course3">Multivariable Calculus </a></li> 
-  <li class="title"><a href="#course4">Physics III: Vibrations and Waves </a></li>
+  <li class="title"><a href="#course4">Calculus of Several Variables </a></li>
    <li class="title"><a href="#course5">Physics III </a></li>
   <li class="title"><a href="#course6">Relativity</a></li>
    <li class="title"><a href="#course7">Quantum Physics I </a></li>
@@ -594,3 +594,151 @@
 </tbody>
 </table>
 </br>
+<h2 id ="course4">Single Variable Calculus </h2>
+
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Vectors in R<sup>2</sup>&nbsp;and R<sup>3</sup></td>
+<td>(<a href="MIT18_022F10_l_1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Dot product</td>
+<td>(<a href="MIT18_022F10_l_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Cross product</td>
+<td>(<a href="MIT18_022F10_l_3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Planes and distances</td>
+<td>(<a href="MIT18_022F10_l_4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><em>n</em>-dimensional space</td>
+<td>(<a href="MIT18_022F10_l_5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Cylindrical and spherical coordinates</td>
+<td>(<a href="MIT18_022F10_l_6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Functions</td>
+<td>(<a href="MIT18_022F10_l_7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Limits</td>
+<td>(<a href="MIT18_022F10_l_8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The Derivative</td>
+<td>(<a href="MIT18_022F10_l_9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>More about derivatives</td>
+<td>(<a href="MIT18_022F10_l_10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Higher derivatives</td>
+<td>(<a href="MIT18_022F10_l_11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Chain rule</td>
+<td>(<a href="MIT18_022F10_l_12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Implicit functions</td>
+<td>(<a href="MIT18_022F10_l_13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Parametrised curves</td>
+<td>(<a href="MIT18_022F10_l_14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Arclength</td>
+<td>(<a href="MIT18_022F10_l_15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Moving frames</td>
+<td>(<a href="MIT18_022F10_l_16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Vector fields</td>
+<td>(<a href="MIT18_022F10_l_17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Div grad curl and all that</td>
+<td>(<a href="MIT18_022F10_l_18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Taylor polynomials</td>
+<td>(<a href="MIT18_022F10_l_19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Maxima and minima: I</td>
+<td>(<a href="MIT18_022F10_l_20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Maxima and minima: II</td>
+<td>(<a href="MIT18_022F10_l_21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Double integrals</td>
+<td>(<a href="MIT18_022F10_l_22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Inclusion-exclusion</td>
+<td>(<a href="MIT18_022F10_l_23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Triple integrals</td>
+<td>(<a href="MIT18_022F10_l_24.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Change of coordinates: I</td>
+<td>(<a href="MIT18_022F10_l_25.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Change of coordinates: II</td>
+<td>(<a href="MIT18_022F10_l_26.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Line integrals</td>
+<td>(<a href="MIT18_022F10_l_27.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Manifolds with boundary</td>
+<td>(<a href="MIT18_022F10_l_28.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Conservative vector fields revisited</td>
+<td>(<a href="MIT18_022F10_l_29.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Surface integrals</td>
+<td>(<a href="MIT18_022F10_l_30.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Flux</td>
+<td>(<a href="MIT18_022F10_l_31.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Stokes theorem</td>
+<td>(<a href="MIT18_022F10_l_32.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Gauss theorem</td>
+<td>(<a href="MIT18_022F10_l_33.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Forms on R<sup>n</sup></td>
+<td>(<a href="MIT18_022F10_l_34.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
+
