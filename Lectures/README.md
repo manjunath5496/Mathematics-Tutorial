@@ -38,7 +38,7 @@
      <li class="title"><a href="#course37">Topics in Algebraic Combinatorics</a></li>
     <li class="title"><a href="#course38">Topics in Applied Mathematics: Waves and Imaging</a></li>
  <li class="title"><a href="#course39">Wavelets, Filter Banks and Applications</a></li>
-  <li class="title"><a href="#course40">Reducing the Danger of Nuclear Weapons and Proliferation</a></li>
+  <li class="title"><a href="#course40">Introduction to Numerical Analysis</a></li>
    <li class="title"><a href="#course41">The Early Universe</a></li>
 </ul>
 </br>
@@ -4146,8 +4146,32 @@
 </table>
 </br>
 
+<h2 id ="course40">Single Variable Calculus </h2>
 
-
-
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_330S12_Chapter1.pdf">Series and Sequences (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_330S12_Chapter2.pdf">Integrals as Sums and Derivatives as Differences (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_330S12_Chapter3.pdf">Interpolation (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_330S12_Chapter4.pdf">Nonlinear Equations (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_330S12_Chapter5.pdf">Methods for Ordinary Differential Equations (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_330S12_Chapter6.pdf">Fourier Analysis (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_330S12_Chapter7.pdf">Spectral Interpolation, Differentiation, Quadrature (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
 
