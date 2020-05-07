@@ -4983,8 +4983,85 @@
 
 </br>
 
+<p> <strong>Assignments: problem sets with solutions</strong> </p>
 
 
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem Set 1 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/ps1_366_06.pdf">PDF</a>)</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/ps1_366_06_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 2 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/ps2_366_06.pdf">PDF</a>)</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/ps2_366_06_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 3 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/ps3_366_06.pdf">PDF</a>)</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/ps3_366_06_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 4 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/ps4_366_06.pdf">PDF</a>)</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/ps4_366_06_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 5 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/ps5_366_06.pdf">PDF</a>)</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/ps5_366_06_sol.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 
 
+<table>
+<thead>
+<tr style="height: 13px;">
+<th style="height: 13px;" scope="col">ASSIGNMENTS</th>
+<th style="height: 13px;" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row" style="height: 83px;">
+<td style="height: 83px;">Problem Set 1 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/ps1_366_05.pdf">PDF</a>)</td>
+<td style="height: 83px;">
+<p>Asymptotics of Rayleigh's Random Walk, Central Limit Theorem, Gram-Charlier Expansion</p>
+<p>Exact Solution for the Position of Cauchy's Random Walk with Non-identical Steps</p>
+<p>Computer Simulation of Pearson's Random Walk to find the Fraction of Time Spent in the Right Half Plane ("Arcsine Law") and the First Quadrant</p>
+</td>
+</tr>
+<tr class="alt-row" style="height: 120px;">
+<td style="height: 120px;">Problem Set 2 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/ps2_366_05.pdf">PDF</a>)</td>
+<td style="height: 120px;">
+<p>Percentile Order Statistics, Asymptotics of the Median Versus the Mean</p>
+<p>Computer Simulation of the Winding Angle for Pearson's Random Walk, Logarithmic Scaling and Limiting Distribution</p>
+<p>Globally-valid Saddle-point Asymptotics for a Random Walk with Exponentially Distributed Displacements</p>
+<p>The Void Model for Granular Drainage, Continuum Limits for the Void Density (Mean Flow Profile) and the Position a Tracer Particle, Exact Similarity Solutions for Parabolic Flow to a Point Orifice</p>
+</td>
+</tr>
+<tr class="row" style="height: 83px;">
+<td style="height: 83px;">Problem Set 3 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/ps3_366_05.pdf">PDF</a>)</td>
+<td style="height: 83px;">
+<p>Modified Kramers-Moyall Expansion for a General Discrete Markov Process</p>
+<p>Black-Scholes Formula for a Call Option, Interpretation as Risk Neutral Valuation, Put-call Parity</p>
+<p>Continuum Limit of Bouchaud-Sornette Theory for Options with Residual Risk (Corrections to the Black-Scholes Equation)</p>
+</td>
+</tr>
+<tr class="alt-row" style="height: 107px;">
+<td style="height: 107px;">Problem Set 4 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/ps4_366_05.pdf">PDF</a>)</td>
+<td style="height: 107px;">
+<p>Linear Polymer Structure, Random Walk with Exponentially Decaying Correlations, Depending on Temperature</p>
+<p>Polymer Surface Adsorption, First Passage to a Plane, Levy Flight for Adsorption Sites, Scalings with the Chain Length</p>
+<p>Solution to the Telegrapher's Equation, Fourier-Laplace Transform, Wave and Diffusion Limits, Exact Green Function</p>
+<p>Inelastic Diffusion, Random Walk with Exponentially Decaying Steps, Approach to the Central Limit Theorem</p>
+</td>
+</tr>
+</tbody>
+</table>
 
+</br>
