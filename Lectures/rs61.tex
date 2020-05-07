@@ -1,0 +1,196 @@
+\documentclass[11pt]{amsart}
+
+
+\newcommand{\R}{\mathbb R}
+\newcommand{\Z}{\mathbb Z}
+\newcommand{\la}{\langle}
+\newcommand{\ra}{\rangle}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{remark}[theorem]{Remark}
+\newtheorem{example}[theorem]{Example}
+
+\begin{document}
+\title{Cartan matrices, Dynkin diagrams and classification}
+\author{Your name here}
+\date{\today}
+\maketitle
+
+%\thispagestyle{empty}
+
+{\Large  18.099 - 18.06 CI.} 
+
+{Due on Monday, May 10 in class.} 
+
+\vspace{1cm} 
+
+{\it Write a paper proving the statements and working through the examples 
+formulated below. Add your own examples, asides and discussions 
+whenever necessary. }
+
+Let $V$ be a Euclidean space, that is  
+a finite dimensional real linear space with a symmetric 
+positive definite inner product $\la, \ra$. 
+
+Recall that for a root system $\Delta$ in  
+$V$, there exists a simple root system 
+$\Pi \subset \Delta$ (not unique), which is a basis in $V$, 
+and a positive root system $\Delta^+$ 
+such that any positive root is a linear combination of simple roots with 
+nonnegative integer coefficients. 
+
+Below we will assume that the root system $\Delta$ is reduced (that is, 
+for any $\alpha \in \Delta$, $2\alpha \notin \Delta$). 
+
+For a given pair $(\Pi, \Delta)$ with a fixed enumeration of simple roots 
+$\{ \alpha_1, \alpha_2, \ldots, \alpha_l \}$, where $l = \dim(V)$, 
+we defined in \cite{5}  
+the Cartan matrix $A$ by setting  
+$$ A_{ij} = \frac{2\langle \alpha_i, \alpha_j \rangle}{\langle \alpha_i, 
+\alpha_i \rangle}.$$ 
+
+An abstract Cartan matrix is an $l\times l$ matrix with the following 
+properties: 
+\begin{enumerate} 
+\item{all entries $A_{ij}$ are integers;}
+\item{$A_{ii}=2$ for all $i$;}
+\item{$A_{ij} \leq 0$ for all $i \neq j$;}
+\item{$A_{ij}=0$ if and only if $A_{ji}=0$;}
+\item{there exists a diagonal matrix $D$ with positive entries such 
+that $DAD^{-1}$ is symmetric positive definite.}
+\end{enumerate}
+
+A Cartan matrix is irreducible if it is not isomorphic (conjugate by 
+a product of permutation matrices) 
+to a block diagonal matrix with more than one block.  
+
+We know that a  Cartan matrix determines the simple root system uniquely 
+up to isomorphism (\cite{5}). 
+Recall that two root systems $\Delta$ and $\Delta'$ in 
+$V$ are isomorphic if there exists a linear automorphism of $V$ that 
+maps $\Delta$ onto $\Delta'$ preserving the numbers $n(\alpha, \beta)$ 
+for all $\alpha, \beta \in \Delta$. 
+The goal of this paper is to show that any abstract Cartan matrix 
+determines a unique reduced root system up to isomorphism. 
+This provides a tool for classification of abstract root systems. 
+The proof requires several steps. 
+
+\begin{theorem} \label{W}
+Let $\Pi = \{\alpha_1, \alpha_2, \ldots , \alpha_l \} 
+\subset \Delta$ be a set of simple roots in a reduced root system 
+$\Delta$. For any root $\alpha \in \Delta$, there exists an element 
+$\alpha_j \in \Pi$ such that $\alpha = w(\alpha_j)$, where 
+$w$ is a composition of reflections with respect to simple roots in $\Pi$. 
+\end{theorem} 
+Hint: First assume that $\alpha = \sum_{i=1}^l n_i \alpha_i$ 
+is a positive root and proceed by induction in the number $\sum_{i=1}^l n_i$
+(the level of a root). 
+Use Theorem 5 in \cite{4} to find an 
+element $\alpha_k \in \Pi$ such that the reflection with respect to 
+$\alpha_k$ maps $\alpha$ to a positive root with a smaller 
+level. This is the induction step. 
+Then extend the result for the negative roots, using that 
+the reflection with respect to $\alpha_i \in \Pi$ maps $\alpha_i$ to 
+$-\alpha_i$. 
+
+\begin{theorem} The set $\{\alpha_1, \alpha_2, \ldots, \alpha_l \}$ 
+of simple roots determines the set of all roots in a reduced root system. 
+\end{theorem} 
+Hint: use Theorem \ref{W}. 
+
+The last Theorem together with Theorem 11 in \cite{5} shows that 
+an abstract Cartan matrix corresponds to at most one 
+reduced root system, up to isomorphism. 
+Using the properties of abstract Cartan matrices, 
+it is possible to further show that \emph{every} 
+abstract Cartan matrix determines a
+reduced abstract root system.  Consequently, it is possible to classify 
+all reduced root systems based on the properties of Cartan matrices. 
+Here is an example in dimension $3$.
+
+\begin{example} Find all $3\times3$ abstract Cartan matrices up to 
+isomorphism and 
+construct the corresponding root systems. Using examples in 
+\cite{2,3,4,5}, identify the type of a root system whenever possible. 
+\end{example} 
+
+Hint: Start with the block diagonal Cartan matrices with more than 
+one block. The properties (1)-(4) of an abstract Cartan matrix 
+together with the conditions on the numbers 
+$n(\alpha, \beta)= \frac{2\langle \beta, \alpha \rangle}{\langle 
+\alpha, \alpha \rangle}$ for 
+simple roots, discussed at the end of \cite{2}, provide 
+sufficient information to classify all such Cartan 
+matrices. For the irreducible $3\times 3$ Cartan matrices, use that 
+all upper left determinants of a positive definite matrix are positive.  
+
+
+A similar argument in higher dimensions eventually leads 
+to a complete classification 
+of the abstract (reduced) root systems in Euclidean spaces. 
+
+{\it  Continue this paper with a review of literature (without proofs) on 
+abstract root systems, in particular define the Dynkin diagram of a root 
+system and formulate the complete classification of abstract irreducible 
+root systems. Suggested sources: \cite{6}, \S 5.12-5.15, 
+\cite{7}, \S 5.8-5.9, \cite{8}, \S 4.5. Any one of these sourses will be   
+sufficient.}
+
+
+
+
+
+
+\begin{thebibliography}{2}
+
+\bibitem[2]{2} Your classmate, {\it Abstract root systems}, 
+preprint, MIT, 2004. 
+
+\bibitem[3]{3} Your classmate, {\it Simple and positive roots},
+preprint, MIT, 2004.
+
+\bibitem[4]{4} Your classmate, {\it Properties of simple roots},
+preprint, MIT, 2004.
+
+\bibitem[5]{5} Your classmate, {\it Cartan matrix of a root system},
+preprint, MIT, 2004.
+
+\bibitem[6]{6} J.-P. Serre, {\it Complex semisimple Lie algebras}, 
+New York, Springer-Verlag, 1987
+
+\bibitem[7]{7} W.A. De Graaf, {\it Lie algebras: theory and algorithms}, 
+Amsterdam, New York, Elsevier, 2000 
+
+\bibitem[8]{8} N. Jacobson, {\it Lie algebras}, New York, Dover, 1979
+
+\end{thebibliography}
+
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

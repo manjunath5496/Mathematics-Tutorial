@@ -1,0 +1,244 @@
+\documentclass[11pt]{amsart}
+
+
+\newcommand{\R}{\mathbb R}
+\newcommand{\Z}{\mathbb Z}
+\newcommand{\la}{\langle}
+\newcommand{\ra}{\rangle}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{remark}[theorem]{Remark}
+\newtheorem{example}[theorem]{Example}
+
+\begin{document}
+\title{Cartan matrix of a root system}
+\author{Your name here}
+\date{\today}
+\maketitle
+
+%\thispagestyle{empty}
+
+{\Large  18.099 - 18.06 CI.} 
+
+{Due on Monday, May 10 in class.} 
+
+\vspace{1cm} 
+
+{\it Write a paper proving the statements and working through the examples 
+formulated below. Add your own 
+examples, asides and discussions whenever needed. }
+
+Let $V$ be a Euclidean space, that is  
+a finite dimensional real linear space with a symmetric 
+positive definite inner product $\la, \ra$. 
+
+Recall that for a root system $\Delta$ in  
+$V$, there exists a simple root system 
+$\Pi \subset \Delta$ (not unique), such that  \begin{enumerate}
+\item{ $\Pi$ is a basis in $V$;}
+\item{Each root $\beta \in \Delta$ can be written as a linear 
+combination of elements of $\Pi$ with integer coefficients of the same sign.}
+\end{enumerate} 
+ The root $\beta$ is 
+positive if the coefficients are nonnegative, and negative otherwise. 
+The set of all positive roots (the positive root system) 
+associated to $\Pi$ is denoted $\Delta^+$. 
+
+Below we will assume that the root system $\Delta$ is reduced (that is, 
+for any $\alpha \in \Delta$, $2\alpha \notin \Delta$). 
+
+We shall associate a ``Cartan matrix'' to the system $\Pi \subset \Delta$ 
+and derive some properties of this matrix. An abstract Cartan matrix will 
+be any square matrix with this list of properties. 
+It turns out that 
+an abstract Cartan matrix essentially determines the root system. 
+In this paper we will work toward making this 
+statement precise and proving it. The problem of classification of 
+root systems is reduced then to the classification of the Cartan matrices. 
+
+\begin{definition} Let $\Pi \subset \Delta$ be a chosen set of simple roots 
+in 
+the root system $\Delta$, and suppose that the simple roots are enumerated 
+by $\{ \alpha_1, \alpha_2, \ldots, \alpha_l \}$, where $l = \dim(V)$. 
+The \emph{Cartan matrix} of $(\Pi, \Delta)$ is the $l\times l$ matrix $A$ with 
+$$ A_{ij} = \frac{2\langle \alpha_i, \alpha_j \rangle}{\langle \alpha_i, 
+\alpha_i \rangle}.$$ 
+\end{definition}
+
+The Cartan matrix clearly depends on the enumeration of $\Pi$, but this 
+dependence can be easily sorted out. Recall that a permutaion matrix $P^{ij}$ 
+is a square matrix with $1 \leq i \neq j \leq l$, which is obtained from 
+the identity matrix by exchanging rows $i$ and $j$. Note that a permutation 
+matrix is always nonsingular. 
+We need the following easy fact from linear algebra:
+
+\begin{theorem} For any $l\times l$ matrix $B$, $B' = P^{ij} B (P^{ij})^{-1}$ 
+is the matrix $B$ with $i$-th and $j$-th rows and columns exchanged. 
+\end{theorem}  
+
+\begin{corollary} Let $A$ be the Cartan matrix associated to $(\Pi, \Delta)$ 
+with a fixed enumeration of the elements of $\Pi$, and let $A'$ be the 
+Cartan matrix of the same root system with $\alpha_i$ and $\alpha_j$ 
+exchanged in the enumeration of the simple roots. Then 
+$A' = P^{ij} A (P^{ij})^{-1}$. 
+\end{corollary}
+
+\begin{definition} Two Cartan matrices are \emph{isomorphic} if they are 
+conjugate by a product of permutation matrices. 
+\end{definition} 
+
+To understand the properties of $A$, we start with some examples. 
+
+\begin{example} Let $(\Pi, \Delta)$ be the root system of type $A_n$ 
+(see Example 10, \cite{2})
+with the simple roots enumerated as listed there. Find the Cartan matrix 
+of this system. 
+\end{example} 
+
+\begin{example} Let $\Delta$ be a root system of the type $B_4$ 
+with the root vectors $\{ \pm e_i \pm e_j\}_{i \neq j} \cup \{ \pm e_i \}$, 
+where $\{e_i\}_{i=1}^4$ is an orthonormal basis in $\R^n$. Check that 
+  $\Pi = \{ e_1 - e_2, e_2 - e_3, e_3 -e_4, e_4 \}$ is 
+a set of simple roots, and $\Delta^+ = \{ e_i \pm e_j\}_{i<j}\cup \{e_i\}$ 
+- the associated set of positive roots in $\Delta$. 
+Find the Cartan matrix of this root system.    
+\end{example} 
+
+We summarize the observed properties in the following statement. 
+Recall that a square 
+matrix $B$ is symmetric if $B_{ij}=B_{ji}$ for all $i,j$. A symmetric 
+matrix $C$ is positive definite if $\langle C \cdot x, x \rangle >0$ for 
+any nonzero $x \in V$. 
+
+\begin{theorem} \label{A}
+The Cartan matrix $A$ of a root system $(\Pi, \Delta)$ has 
+the following properties: 
+\begin{enumerate} 
+\item{all entries $A_{ij}$ are integers;}
+\item{$A_{ii}=2$ for all $i$;}
+\item{$A_{ij} \leq 0$ for all $i \neq j$;}
+\item{$A_{ij}=0$ if and only if $A_{ji}=0$;}
+\item{there exists a diagonal matrix $D$ with positive entries such 
+that $DAD^{-1}$ is symmetric positive definite.}
+\end{enumerate}
+\end{theorem} 
+Hint: The only nontrivial statement is the last one. Try 
+$D= diag(|\alpha_1|, \ldots |\alpha_l| )$, where $|\alpha_i|= 
+\langle \alpha_i, \alpha_i \rangle^{1/2}$ is the length of a simple root.
+
+\begin{example} Recall that two root systems in the same vector space 
+are \emph{isomorphic} if they can be mapped to each other by a linear  
+transformation preserving angles between the 
+roots and relative lengths within each irreducible component. 
+Classify the reduced root systems in $V= \R^2$ 
+(follow the method indicated at the end of \cite{1}). Choose a 
+simple root system in each case and find the Cartan matrix. Whenever 
+necessary, conjugate by a diagonal matrix $D$ and check that the result 
+is symmetric positive definite. Note that $DAD^{-1}$ may have non-integer 
+entries. Is the matrix $D$ determined uniquely by the condition (5) in 
+Theorem \ref{A}?
+\end{example} 
+
+Recall from \cite{1} that a root system is \emph{irreducible} if it 
+doesn't admit a decomposition into two root systems 
+$\Delta = \Delta' \cup \Delta''$, where each element of $\Delta' $ 
+is orthogonal to each element of $\Delta''$. If $\Delta = \Delta' \cup 
+\Delta''$ and $\Delta'$ is irreducible, then it is an irreducible component 
+of $\Delta$. A root system is said to be reducible if it is not irreducible. 
+Irreducibility of a root system can be detected on the level of Cartan 
+matrices. 
+
+
+\begin{theorem} A reduced root system is reducible if and only if 
+for some choice of a simple root system and some enumeration of indices, 
+the Cartan matrix is block diagonal with more than one block. 
+\end{theorem} 
+Hint:  The nontrivial part is to show that a root 
+system corresponding to a block diagonal Cartan matrix $A$ is reducible. 
+Suppose that $A$ has two blocks corresponding to the simple roots 
+$\{\alpha_1, \ldots, \alpha_r \}$ and $\{\alpha_{r+1}, \ldots, \alpha_l\}$ 
+respectively.  
+For any $\alpha =\sum_{i=1}^l n_i \alpha_i \in \Delta $ you need to 
+show that $\alpha$ belongs to one of the irreducible components of $\Delta$ 
+spanned by the simple 
+roots from one of the blocks. Assume that $\alpha$ is positive and proceed 
+by induction in the number $\sum_{i=1}^l n_i$. You might need the property 
+of root systems given in Theorem 10(2) in \cite{1}. 
+
+A Cartan matrix such that any isomorphic Cartan
+matrix has a single block
+is said to be irreducible. 
+Now we are ready to answer the question of uniqueness of $D$ in general. 
+\begin{theorem} \label{D} 
+The matrix $D$ is determined uniquely up to a scalar 
+multiple on each block of $A$.
+\end{theorem} 
+
+Hint: Straightforward linear algebra. 
+Suppose there are two diagonal matrices $D$ and $D'$ which 
+symmetrize a Cartan matrix $A$, and compare the entries. 
+
+Note that by Theorem \ref{A} (5), 
+in the case that $A$ is irreducible, the matrix 
+$D$ gives   
+the relative lengths of the simple roots. Then the matrix elements 
+of $A$ determine the relative angles between any two simple roots. We deduce 
+the following 
+
+\begin{corollary} The Cartan matrix for a set of simple roots determines 
+that set of simple roots 
+uniquely up to a root system isomorphism on $V$;
+that is, up to a scalar multiple of an orthogonal transformation 
+on each irreducible component.
+\end{corollary} 
+
+\begin{example} Let $\Delta = \Delta' \cup \Delta''$ be the union of 
+the root systems $\Delta'$ of type $A_1$ and $\Delta''$ of type $B_2$.
+(See Example 5 above for $A_n$ and Example 3 in \cite{3} for $B_2$). 
+Find the Cartan matrix of this root system, and use a diagonal 
+matrix $D$ to symmetrize it. 
+\end{example} 
+
+
+\begin{thebibliography}{2}
+
+\bibitem[1]{1} Your classmate, {\it Abstract root systems}, 
+preprint, MIT, 2004. 
+
+\bibitem[2]{2} Your classmate, {\it Simple and positive roots},
+preprint, MIT, 2004.
+
+\bibitem[3]{3} Your classmate, {\it Properties of simple roots},
+preprint, MIT, 2004.
+
+\end{thebibliography}
+
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

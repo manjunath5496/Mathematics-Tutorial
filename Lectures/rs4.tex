@@ -1,0 +1,230 @@
+\documentclass[11pt]{amsart}
+
+
+\newcommand{\R}{\mathbb R}
+\newcommand{\Z}{\mathbb Z}
+\newcommand{\la}{\langle}
+\newcommand{\ra}{\rangle}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{remark}[theorem]{Remark}
+\newtheorem{example}[theorem]{Example}
+
+\begin{document}
+\title{Properties of simple roots}
+\author{Your name here}
+\date{\today}
+\maketitle
+
+%\thispagestyle{empty}
+
+{\Large  18.099 - 18.06 CI.} 
+
+{Due on Monday, May 10 in class.} 
+
+\vspace{1cm} 
+
+{\it Write a paper proving the statements and working through the examples 
+formulated below. Add your own 
+examples, asides and discussions whenever needed. }
+
+
+
+Let $V$ be a Euclidean space, that is 
+a finite dimensional real linear space with a symmetric 
+positive definite inner product $\la, \ra$. 
+
+Recall that for a root system $\Delta$ in  
+$V$,
+a subset $\Pi \subset \Delta$ is a set of simple roots (a simple root system)
+if \begin{enumerate}
+\item{ $\Pi$ is a basis in $V$;}
+\item{Each root $\beta \in \Delta$ can be written as a linear 
+combination of elements of $\Pi$ with integer coefficients of the same sign,
+i.e.
+$$ \beta = \sum_{\alpha \in \Pi} m_\alpha \alpha $$
+with all $m_\alpha \geq 0$ or all $m_\alpha \leq 0$.} 
+\end{enumerate} 
+ The root $\beta$ is 
+positive if the coefficients are nonnegative, and negative otherwise. 
+The set of all positive roots (positive root system) 
+associated to $\Pi$ is denoted $\Delta^+$. 
+
+Below we will assume that the root system $\Delta$ is reduced, that is, 
+for any $\alpha \in \Delta, 2 \alpha \notin \Delta$.
+
+\begin{theorem} \label{sim-pos} 
+In a given $\Delta$, a set of simple roots $\Pi \subset \Delta$ 
+and the associated set of positive roots 
+$\Delta^+ \subset \Delta$ determine each other uniquely.
+\end{theorem} 
+Hint: easy. Use the explicit construction of $\Pi \subset \Delta^+$ given 
+in \cite{3}.
+
+The question of existence of sets of simple roots  for any abstract root 
+system $\Delta$ is settled in \cite{3}.  Theorem \ref{sim-pos} 
+shows that once $\Pi$ is chosen $\Delta^+$ is unique. 
+In this paper we want to address the question of the possible choices for 
+$\Pi \subset \Delta$. We start with a couple of examples. 
+
+\begin{example} \label{A2}
+ The root system of the type $A_2$ consists of the six vectors 
+$\{e_i -e_j \}_{i\neq j}$ in the plane orthogonal to the line $e_1 +e_2 +e_3$ 
+where $\{e_1, e_2, e_3\}$ is an orthonormal basis in $\R^3$.
+Present the vectors of this root system in a standard orthonormal basis of 
+the plane. Find possible simple root systems $\Pi \subset \Delta$ and 
+the associated sets of positive roots $\Delta^+$, 
+$\Pi \subset \Delta^+ \subset \Delta$.  
+Check that any two simple root systems 
+$\Pi \subset \Delta$ can be mapped to each other  by an orthogonal 
+transformation (see \cite{1} for definition) of $V$, and that the same 
+transformation maps the associated sets of positive roots.    
+\end{example}   
+
+\begin{example} \label{B2} 
+Consider the root system of the type $B_2$ in $V= \R^2$: it consists of eight 
+vectors $\{\pm e_1 \pm e_2, \pm e_1, \pm e_2 \}$. Find possible simple 
+root systems $\Pi \subset \Delta$ and check that they can be obtained from 
+any chosen one by an orthogonal transformation of $\R^2$. Check that 
+the same transformation maps the associated sets of positive roots to each 
+other. 
+\end{example} 
+
+We start working towards a result generalizing our observations. 
+Recall the definition of a reflection associated to an element $\alpha \in V$ 
+(cf. \cite{1}):
+$$ s_\alpha(x) = x - \frac{2\langle x, \alpha \rangle}{\langle \alpha, \alpha 
+\rangle}\alpha .$$ 
+It is an orthogonal transformation of $V$. 
+
+\begin{theorem} Let $\Pi \subset \Delta$ be a set of simple roots, associated 
+to the set of positive roots $\Delta^+$. For any $\alpha \in \Delta$, 
+the set obtained by reflection $s_\alpha(\Pi)$ is a simple root system   
+with the associated positive root system $s_\alpha (\Delta^+)$. 
+\end{theorem} 
+
+To understand better the passage from $\Delta^+$ to $s_\alpha(\Delta^+)$, 
+we consider the special case when $\alpha$ is a simple root. Then 
+$\Delta^+$ and $s_\alpha(\Delta^+)$ differ by only one root: 
+
+\begin{theorem} \label{sa}
+Let $\Pi \subset \Delta$ be a simple root system, 
+contained in a positive root set $\Delta^+$. If $\alpha \in \Pi$, then 
+the reflection $s_\alpha$ maps the set $\Delta^+ \setminus \{\alpha\}$ to 
+itself.     
+\end{theorem} 
+
+\begin{corollary} Any two positive root systems in $\Delta$ can be obtained 
+from each other by a composition of reflections with respect to the roots 
+in $\Delta$. 
+\end{corollary} 
+
+Hint: Let $\Delta^+_1 $ and $\Delta^+_2$ be two positive root systems. 
+Recall that the negative roots $\Delta^-_i$ are the negatives of 
+the elements in $\Delta^+_i$, $i=1,2$ (see \cite{3}). 
+Use induction on the number of elements in the intersection 
+$\Delta^+_1 \cap \Delta^-_2$. Theorem \ref{sa} provides a way to decrease 
+this number by one. 
+
+The statements above show that although a set of simple roots 
+is not unique for a given $\Delta$, they are related to each other by 
+a simple orthogonal transformation of the space $V$. In particular, 
+the angles and relative lengths of simple roots in any two simple 
+root systems in $\Delta$ are the same. 
+The next theorem proves another useful 
+property of simple roots. 
+
+\begin{theorem} \label{seq}
+Let $\Pi \subset \Delta^+$ be a simple and a positive 
+root systems in $\Delta$.  
+Any positive root $\beta \in \Delta^+$ can be written as a sum 
+$$ \beta = \alpha_1 + \alpha_2 + \ldots + \alpha_k, $$
+where $\alpha_i \in \Pi$ for all $i =1, \ldots , k$ (repetitions are allowed). 
+Moreover, 
+it can be done so that each partial sum 
+$$ \alpha_1 + \ldots + \alpha_m, \;\; 1 \leq m \leq k $$ 
+is also a root.      
+\end{theorem} 
+
+Hint: Choose $t \in V$ such that $\langle t, \alpha \rangle =1$ for 
+all $\alpha \in \Pi$. Prove that such $t$ exists and that the number 
+$r=\langle t, \beta \rangle $ 
+is a positive integer for any $\beta \in \Delta^+$. Using Lemma 7 in 
+\cite{3}, show that $\langle \alpha, \beta \rangle >0$ for some 
+$\alpha \in \Pi$. 
+Then proceed by induction on $r$. Theorem 10(1) in \cite{2} allows 
+us to reduce $r$ by one.  
+
+\begin{example} Let $\Delta$ be the root system in $V= \R^2$  
+such that the angle between the simple roots is $\frac{5\pi}{6}$.
+This condition determines $\Delta$ completely (this is the root system 
+of the type $G_2$). 
+ Construct and sketch the simple roots, 
+positive roots, and the whole root system $\Delta$. Apply 
+Theorem \ref{seq} in this case to present each positive root 
+as a sum of simple roots. 
+\end{example} 
+
+Recall that two root systems $\Delta$ and $\Delta'$ are \emph{isomorphic} 
+if there exists an linear automorphism of $V$ that maps 
+$\Delta$ onto $\Delta'$ and preserves the integers
+$\frac{2\la \beta, \alpha\ra}{\la \alpha, \alpha\ra}i$. 
+A root system is irreducible if it 
+cannot be decomposed as a disjoint union of two root systems 
+$\Delta = \Delta' \cup \Delta''$ of smaller dimension, so that each 
+element of $\Delta'$ is orthogonal to each element of $\Delta''$. 
+
+\begin{example} Up to isomorphism, there are just three reduced irreducible 
+root systems in $V=\R^3$, of the types $A_3$, $B_3$ and $C_3$ 
+(see Example 5 in \cite{2}, Examples 10 and 11 in \cite{3} for 
+definitions). Find the other possible reduced root systems in $V= \R^3$ (they 
+can be represented as a union of two or more root systems in 
+smaller dimensions). 
+\end{example}
+Hint: Note that the only reduced root system in $\R$ 
+is of the type $A_1$. A classification of root systems in $\R^2$
+can be carried out as indicated at the end of \cite{2}.
+
+
+\begin{thebibliography}{2}
+
+\bibitem[1]{1} Your classmate, {\it Reflections in a Euclidean space}, 
+preprint, MIT, 2004.
+
+\bibitem[2]{2} Your classmate, {\it Abstract root systems}, 
+preprint, MIT, 2004. 
+
+\bibitem[3]{3} Your classmate, {\it Simple and positive roots},
+preprint, MIT, 2004.
+
+\end{thebibliography}
+
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

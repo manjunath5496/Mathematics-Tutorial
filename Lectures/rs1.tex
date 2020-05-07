@@ -1,0 +1,233 @@
+\documentclass[11pt]{amsart}
+
+
+\newcommand{\R}{\mathbb R}
+\newcommand{\la}{\langle}
+\newcommand{\ra}{\rangle}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{remark}[theorem]{Remark}
+\newtheorem{example}[theorem]{Example}
+
+\begin{document}
+\title{Reflections in a Euclidean space}
+\author{Your name here}
+\date{\today}
+\maketitle
+
+%\thispagestyle{empty}
+
+{\Large  18.099 - 18.06 CI.} 
+
+{Due on Monday, May 10 in class.} 
+
+\vspace{1cm} 
+
+{\it Write a paper proving the statements formulated below. Add your own 
+examples, asides and discussions whenever needed. }
+
+
+Let $V$ be a finite dimensional real linear space. 
+
+\begin{definition} 
+A function $\la , \ra : V \times V \to \R$ is a \emph{bilinear form} on $V$ 
+if for all $x_1, x_2, x, y_1, y_2, y \in V$ and all $k \in \R$, 
+ $$ \la x_1 + k x_2, y \ra = \la x_1, y \ra + k \la x_2, y \ra ,\;{\rm and} $$
+ $$ \la x, y_1 + k y_2 \ra = \la x, y_1 \ra + k \la x, y_2 \ra .$$
+\end{definition}
+
+\begin{definition} \label{inpr} 
+A bilinear form $\la , \ra$ in $V$ is \emph{symmetric} if 
+$\la x, y \ra = \la y, x \ra$ for all $x, y \in V$. A symmetric bilinear 
+form is \emph{nondegenerate} 
+if $\la a, x \ra =0 $ for all $x \in V$ implies $a =0$. 
+It is \emph{positive definite} if $\la x,x \ra >0$ for
+any nonzero $x \in V$. 
+An \emph{inner product} on $V$ is   
+a symmetric positive definite bilinear form on $V$.  
+\end{definition}
+
+\begin{theorem} Define a bilinear form on $V = \R^n$ by 
+$\la e_i, e_j \ra = \delta_{ij}$, where $\{ e_i\}_{i=1}^n$ is a basis in $V$. 
+Then $\la , \ra$ is an inner product in $V$. 
+\end{theorem} 
+
+\begin{definition} A \emph{Euclidean space} is a finite dimensional real 
+linear space with an inner product. 
+\end{definition} 
+
+\begin{theorem} Any $n$-dimensional Euclidean space $V$ 
+has a basis $\{ e_i \}_{i=1}^n$
+such that $\la e_i , e_j \ra = \delta_{ij}$. 
+\end{theorem} 
+Hint: Use the Gram-Schmidt orthogonalization process. 
+
+Below $V = \R^n$ is a Euclidean space with the inner product $\la, \ra$. 
+
+\begin{definition} Two vectors $x, y \in V$ are \emph{orthogonal} if 
+$\la x, y \ra =0$. Two subspaces $U,W \in V$ are orthogonal if 
+$\la x, y \ra =0$ for all $x \in U$ and $y \in W$. 
+\end{definition} 
+
+Check that if $U$ and $W$ are orthogonal subspaces in $V$, then 
+$\dim(U) + \dim(W) = \dim (U+W)$. 
+
+\begin{definition} The \emph{orthogonal complement} of the subspace $U \subset V$ 
+is the subspace $U^\perp = \{ y \in V : \la x,y \ra =0, \;{\rm for} \; 
+{\rm all} \; x \in U\}$.  
+\end{definition} 
+
+\begin{definition} A \emph{hyperplane} $H_x \subset V$ is the orthogonal 
+complement to the one-dimensional subspace in $V$ spanned by $x \in V$. 
+\end{definition} 
+
+\begin{theorem}(Cauchy-Schwartz). For any $x, y \in V$, 
+$$ \la x, y \ra^2 \leq \la x, x \ra \cdot \la y, y \ra ,$$ 
+and equality holds if and only if the vectors $x$ and $y$ 
+are linearly dependent. 
+\end{theorem} 
+
+%\begin{definition} For any $x \in V$, the number 
+%$|| x ||^2 = \la x, x \ra $ is the square of the length of $x$. 
+%\end{definition}
+
+%\begin{corollary}(Triangle inequality). For any $x,y \in V$, 
+%$$ || x + y || \leq || x || + || y ||. $$
+%\end{corollary}
+      
+We will be interested in the linear mappings that respect inner products. 
+
+\begin{definition} An \emph{orthogonal operator} in $V$ is a linear 
+automorphism \\ $f : V \to V $ such that $\la f(x), f(y) \ra = \la x,y \ra$ 
+for all $x,y \in V$. 
+\end{definition} 
+
+\begin{theorem} \label{O(V)}
+If $f_1, f_2$ are orthogonal operators in $V$, then 
+so are the inverses $f_1^{-1}$ and 
+$f_2^{-1}$ and the composition $f_1 \circ f_2$.
+The identity mapping is orthogonal. 
+\end{theorem}
+
+\begin{remark} The above theorem says that orthogonal operators in a 
+Euclidean space form a group, that is, a set closed with respect 
+to compositions, containing an inverse to each element, and containing an 
+identity operator. 
+\end{remark} 
+
+\begin{example}  \label{O(2)}
+Describe the set of $2 \times 2$ matrices of all orthogonal operators  
+in $\R^2$, and check that they form a group with respect to the matrix 
+multiplication. 
+\end{example} 
+
+Now we are ready to introduce the notion of a reflection in a Euclidean space. 
+A reflection in $V$ is a linear mapping $s : V \to V$ which sends some 
+nonzero vector $\alpha \in V$ to its negative and fixes pointwise the 
+hyperplane $H_\alpha$ orthogonal to $\alpha$. To indicate this vector, 
+we will write $s = s_\alpha$. The use of Greek letters for vectors   
+is traditional in this context.  
+
+\begin{definition} A \emph{reflection} 
+in $V$ with respect to a vector $\alpha \in V$ 
+is defined by the formula: 
+$$ s_\alpha (x) = 
+x -\frac{2 \la x, \alpha \ra }{\la \alpha, \alpha \ra}\alpha. $$
+\end{definition} 
+
+\begin{theorem} \label{s_a}
+With the above definition, we have: \begin{enumerate}
+\item{
+$s_\alpha (\alpha ) = -\alpha$ and $s_\alpha(x) = x$ for any 
+$x \in H_\alpha$;}
+\item{ $s_\alpha$ is an orthogonal operator;}
+\item{ $s_\alpha^2 = Id $.} 
+\end{enumerate} 
+\end{theorem}
+
+Therefore, reflections generate a group: their compositions are orthogonal 
+operators by Theorem \ref{O(V)}, and an inverse of a reflection 
+is equal to itself by Theorem \ref{s_a}. 
+Below we consider some basic examples of subgroups of orthogonal operators 
+obtained by repeated application of reflections. 
+
+%{\it Optional: show that 
+%a finite set of reflections generates a finite subgroup of all orthogonal 
+%operators in $V$}. 
+
+\begin{example} Consider the group $S_n$ of permutations 
+of $n$ numbers. It is generated by transpositions $t_{ij}$ where 
+$i \neq j$ are two numbers between $1$ and $n$, and $t_{ij}$ sends 
+$i$ to $j $ and $j $ to $i$, while preserving all other numbers. The 
+compositions of all such transpositions form $S_n$. Define a set 
+of linear mappings $T_{ij} : \R^n \to \R^n$ in an  
+orthonormal basis $\{e_i \}_{i=1}^n$ by 
+$$T_{ij} e_i = e_j ; \;\; T_{ij} e_j = e_i; \;\; T_{ij}e_k =e_k, k \neq i,j.$$ 
+Then, since any element $\sigma \in S_n$ is a composition of transpositions, 
+it defines a linear automorphism of $ \R^n$ equal to the composition 
+of the linear mappings defined above. 
+\begin{enumerate} 
+\item{Check that $T_{ij}$ acts as a reflection with respect to the vector 
+$e_i -e_j \in \R^n$. }
+\item{Check that any element $\sigma$ of $S_n$ fixes pointwise the line 
+in $\R^n$ spanned by $e_1 + e_2 + \ldots e_n$.} 
+\item{Let $n=3$. Describe the action of each element (how many are there?) 
+of $S_3$ in $\R^3$ and in the plane $U$ orthogonal to $e_1 + e_2 + e_3$. 
+Example \ref{O(2)} lists all matrices of orthogonal operators in $\R^2$. 
+Identify among them the matrices corresponding to the elements 
+of $S_3$ acting in $U$. Check that the product of two reflections is 
+a rotation.} 
+\end{enumerate} 
+\end{example} 
+
+\begin{example} The action of $S_n$ in $\R^n$ described above can 
+be composed with the reflections $\{P_i\}_{i=1}^n$, 
+sending $e_i $ to its negative and fixing 
+all other elements of the basis $e_k, k \neq i$. 
+\begin{enumerate} 
+\item{
+Check that the obtained 
+set of orthogonal operators has no nonzero fixed points (elements  
+$x \in \R^n$ such that $f(x)=x$ for all $f$ in the set).}
+\item{ How many distinct orthogonal operators can 
+be constructed in this way for $n=2$ and $n =3$?}
+\item{ In case $n=2$, identify 
+the matrices of the obtained orthogonal operators among those listed in 
+Example \ref{O(2)}. }
+\end{enumerate}
+\end{example} 
+
+\begin{remark}
+The two examples above correspond to the series $A_{n-1}$ and $B_n$ in 
+the classification of finite reflection groups. 
+\end{remark} 
+ 
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

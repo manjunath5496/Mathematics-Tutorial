@@ -1,0 +1,227 @@
+\documentclass[11pt]{amsart}
+
+
+\newcommand{\R}{\mathbb R}
+\newcommand{\Z}{\mathbb Z}
+\newcommand{\la}{\langle}
+\newcommand{\ra}{\rangle}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{remark}[theorem]{Remark}
+\newtheorem{example}[theorem]{Example}
+
+\begin{document}
+\title{Abstract root systems}
+\author{Your name here}
+\date{\today}
+\maketitle
+
+%\thispagestyle{empty}
+
+{\Large  18.099 - 18.06 CI.} 
+
+{Due on Monday, May 10 in class.} 
+
+\vspace{1cm} 
+
+{\it Write a paper proving the statements formulated below. Add your own 
+examples, asides and discussions whenever needed. }
+
+
+Let $V$ be a Euclidean space, that is,
+a finite dimensional real linear space with a symmetric 
+positive definite inner product $\la, \ra$. 
+
+Recall the definition of a reflection in $V$ (\cite{1}):
+
+\begin{definition} A \emph{reflection} 
+in $V$ with respect to a vector $\alpha \in V$ 
+is defined by the formula: 
+$$ s_\alpha (x) = 
+x -\frac{2 \la x, \alpha \ra }{\la \alpha, \alpha \ra}\alpha. $$
+\end{definition} 
+
+
+\begin{definition} 
+An \emph{abstract root system} in $V$ is a finite set $\Delta$ of nonzero 
+elements of $V$ such that 
+\begin{enumerate} 
+\item{$\Delta$ spans $V$;}
+\item{for all $\alpha \in \Delta$, the reflections  
+$$ s_\alpha (\beta) = 
+\beta -\frac{2 \la \beta, \alpha \ra }{\la \alpha, \alpha \ra}\alpha $$ 
+map the set $\Delta$ to itself;}
+\item{the number $\frac{2 \la \beta, \alpha \ra }{\la \alpha, \alpha \ra}$ 
+is an integer for any $\alpha, \beta \in \Delta$.}
+\end{enumerate} 
+A \emph{root} is an element of $\Delta$. 
+\end{definition} 
+
+\begin{remark} This definition may seem weird to you, but wait till you 
+see the examples. A golden rules in mathematics is that 
+if you can define an object for which there are enough, but not too many 
+nontrivial examples, it must have important implications. If a nice 
+classification of such objects is available, it is a discovery. 
+This indeed is the case with the abstract root systems. 
+They  arise naturally in the theory of semisimple 
+Lie algebras, and play an important role in a wide range of problems 
+of algebra, representation theory and mathematical physics. 
+At the same time, they can be defined and largely dealt 
+with by means of linear algebra. This will be our goal.
+\end{remark} 
+
+\begin{example} Let $V$ be the following subspace of $\R^{n+1}$, $n \geq 1$:
+$$ V = \{ \sum_{i=1}^{n+1} a_i e_i, \;{\rm with}\; \sum_{i=1}^{n+1}a_i =0 
+\},$$ 
+where $\{e_i\}_{i=1}^{n+1}$ is an orthonormal basis in $\R^{n+1}$, and all 
+$a_i \in \R$. 
+Check that the set $\Delta = \{e_i - e_j, i\neq j \}$, is an abstract 
+root system. This is the root system of type $A_n$. 
+Describe geometrically (sketch) the set $\Delta$ for $n=1$ and $n=2$.  
+\end{example}   
+
+\begin{example} Let $V$ be the space $\R^n$, $n \geq 2$ with an orthonormal 
+basis $\{e_i\}_{i=1}^n$. Check that the set 
+$$\Delta = \{ \pm e_i \pm e_j , i \neq j \} \cup \{ \pm e_i \} $$ 
+is an abstract root system. This is the root system of type $B_n$.  
+Describe geometrically the set $\Delta$ for $n=2$. 
+\end{example} 
+
+\begin{definition} An abstract root system is \emph{reducible} if it can be 
+represented as a disjoint union of two abstract root systems 
+$\Delta = \Delta' \cup \Delta''$, and each element of $\Delta' $ 
+is orthogonal to each element of $\Delta''$. We say that $\Delta$ 
+is \emph{irreducible} if it admits no such decomposition.  
+\end{definition} 
+
+\begin{example} \label{R^2}
+Check that the root systems of types $A_2$ and $B_2$ are 
+irreducible. Check that a union of two root systems of type $A_1$ 
+is a reducible root system in $V = \R^2$, and sketch it. 
+\end{example} 
+
+We would like to classify the abstract root systems in any given dimension,
+but to do this we need to be precise about what it means for two root
+systems to be geometrically equivalent - we don't want to distinguish
+between a root system and the one obtained from it by a simple process like
+rotation or dilation.  With this in mind, say that two root systems 
+$\Delta_1$ and $\Delta_2$ are 
+\emph{isomorphic} if there is a linear automorphism
+$f: V \to V$ taking $\Delta_1$ to $\Delta_2$,
+such that for any roots $\alpha$ and $\beta$ in $\Delta_1$, 
+$\frac{2 \la \beta, \alpha \ra }{\la \alpha, \alpha \ra} =
+\frac{2 \la f(\beta), f(\alpha) \ra }{\la f(\alpha), f(\alpha) \ra}$.
+We will classify the abstract root systems ``up to isomorphism'', 
+that is, treating isomorphic root systems as being the same.
+
+To get an idea of how to make this classification, we start by 
+proving some elementary properties. 
+
+\begin{theorem} \label{r1}
+Let $\Delta$ be an abstract root system in $V$. 
+\begin{enumerate} 
+\item{If $\alpha \in \Delta$, then $-\alpha \in \Delta$.}
+\item{If $\alpha \in \Delta$ and $\frac{1}{2}\alpha$ is not in $\Delta$, 
+then the only possible elements of $\Delta \cup \{0\}$ proportional to 
+$\alpha$ are $\pm \alpha$, $\pm 2 \alpha$ and $0$. } 
+\item{If $\alpha$ is in $\Delta$ and $\beta \in \Delta \cup \{0\}$, 
+then 
+$$ \frac{2\la \beta, \alpha\ra}{\la \alpha, \alpha \ra } = 
+0, \pm1, \pm2, \pm 3, \; {\rm or}\; \pm 4 , $$
+and $\pm 4$ can occur only if $\beta = \pm 2 \alpha$. } 
+\end{enumerate} 
+\end{theorem} 
+Hint: use the Cauchy-Schwarz inequality in $V$ (\cite{1}) to prove (3). 
+ 
+\begin{example} Compute the numbers 
+$n(\alpha, \beta) := 
+\frac{2\la \beta, \alpha\ra}{\la \alpha, \alpha \ra }$ in two-dimensional 
+examples of types $A_2$, $B_2$ and $A_1 \oplus A_1$ considered in Example 
+\ref{R^2}. 
+Does this exhaust the possibilities pridicted by the theorem? Can you guess 
+any of the missing two-dimensional root systems?    
+\end{example} 
+
+Here is another statement to help in finding the root systems: 
+
+\begin{theorem} Let $\Delta$ be an abstract root system in $V$. 
+\begin{enumerate} 
+\item{If $\alpha$ and $\beta$ are in $\Delta$, and 
+$\la \alpha, \beta \ra >0$, then $\alpha - \beta$ is a root or $0$. 
+If  $\la \alpha, \beta \ra <0$, then $\alpha + \beta$ is a root or $0$. }
+\item{If $\alpha \in \Delta$ and $\beta \in \Delta \cup \{0\}$, 
+then the set of elements of $\Delta \cup \{0\}$ of the form 
+$\beta + n \alpha$, $ n \in \Z$,  contains all and only such elements with 
+$-p \leq n \leq q$, for some $p \geq 0$ and $q \geq 0$ such that
+$p-q = \frac{2 \la \beta, \alpha \ra}{\la \alpha, \alpha \ra}.$ } 
+\end{enumerate} 
+\end{theorem} 
+
+Hint: To prove (2), assume there is a gap in the set of elements 
+of $\Delta \cup \{0\}$ of the form $\beta + n \alpha$ and use (1) 
+to get a contradiction. 
+
+
+What is the maximal number of roots contained in a set $\beta + n \alpha$, 
+where $\alpha \in \Delta$ and $\beta \in \Delta \cup \{0\}$? (Use both 
+theorems above). 
+
+Now  use the Euclidean geometry.  Recall that 
+with the standard inner product in $\R^n$, the number 
+$\la \alpha, \alpha \ra = || \alpha ||^2$ 
+is the square of the length of the vector, and $ n(\alpha, \beta)$ 
+can be written as  
+$$ n(\alpha, \beta) = 2 \frac{||\beta ||}{||\alpha||} \cos(\phi), $$
+where $\phi$ is the angle between $\alpha $ and $\beta$. 
+
+Then we have 
+$$ n(\alpha, \beta) \cdot n(\beta, \alpha) = 4 \cos^2(\phi).$$ 
+
+Apply Theorem \ref{r1} to 
+list the possibilities for angles $\phi$ and relative lengths 
+between two nonproportional 
+elements of an abstract root system. 
+
+Using the above classification, construct examples of abstract root systems in 
+$V= \R^2$.   
+Remark: The one that contains two vectors with the angle between them 
+$\phi=\pi/6$ is called $G_2$. 
+
+
+\begin{thebibliography}{2}
+
+\bibitem[1]{1} Your classmate, {\it Reflections in a Euclidean Space}, 
+preprint, MIT, 2004. 
+
+
+\end{thebibliography}
+
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

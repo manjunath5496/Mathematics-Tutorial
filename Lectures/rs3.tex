@@ -1,0 +1,244 @@
+\documentclass[11pt]{amsart}
+
+
+\newcommand{\R}{\mathbb R}
+\newcommand{\Z}{\mathbb Z}
+\newcommand{\la}{\langle}
+\newcommand{\ra}{\rangle}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{remark}[theorem]{Remark}
+\newtheorem{example}[theorem]{Example}
+
+\begin{document}
+\title{Simple and positive roots}
+\author{Your name here}
+\date{\today}
+\maketitle
+
+%\thispagestyle{empty}
+
+{\Large  18.099 - 18.06 CI.} 
+
+{Due on Monday, May 10 in class.} 
+
+\vspace{1cm} 
+
+{\it Write a paper proving the statements and working through the 
+examples formulated below. Add your own 
+examples, asides and discussions whenever needed. }
+
+
+
+Let $V$ be a Euclidean space, that is  
+a finite dimensional real linear space with a symmetric 
+positive definite inner product $\la, \ra$. 
+
+Recall that a root system in  
+$V$ is a finite set $\Delta$ of nonzero 
+elements of $V$ such that 
+\begin{enumerate} 
+\item{$\Delta$ spans $V$;}
+\item{for all $\alpha \in \Delta$, the reflections  
+$$ s_\alpha (\beta) = 
+\beta -\frac{2 \la \beta, \alpha \ra }{\la \alpha, \alpha \ra}\alpha $$ 
+map the set $\Delta$ to itself;}
+\item{the number $\frac{2 \la \beta, \alpha \ra }{\la \alpha, \alpha \ra}$ 
+is an integer for any $\alpha, \beta \in \Delta$.}
+\end{enumerate} 
+A root is an element of $\Delta$. 
+
+Here are two examples of root systems in $\R^2$: 
+\begin{example} \label{A1}
+The root system of the type $A_1 \oplus A_1$ consists of 
+the four vectors $\{ \pm e_1, \pm e_2 \}$ where $\{e_1,e_2 \}$ is an 
+orthonormal basis in $\R^2$.
+\end{example} 
+\begin{example} \label{A2}
+The root system of the type $A_2$ consists of the six vectors 
+$\{e_i -e_j \}_{i\neq j}$ in the plane orthogonal to the line $e_1 +e_2 +e_3$ 
+where $\{e_1, e_2, e_3\}$ is an orthonormal basis in $\R^3$.
+Rewrite the vectors of this root system in a standard orthonormal basis of 
+the plane and sketch it. 
+\end{example}   
+
+
+Since for any $\alpha \in \Delta$, $-\alpha$ is also in  $\Delta$, 
+(see \cite{1}, Thm.8(1)),  
+the number of elements in $\Delta$ is always 
+greater than the dimension of $V$. The  
+example of type $A_2$ above shows that even a subset of mutually 
+noncollinear vectors in $\Delta$ might be too big to be linearly independent.  
+In the present paper we would like  
+to define a subset of $\Delta$ small enough to be a basis for $V$, yet 
+large enough to contain the essential 
+information about the geometric properties of $\Delta$. Here is a formal 
+definition. 
+
+\begin{definition} A subset $\Pi$ of $\Delta$ is a \emph{set of simple roots} 
+(a \emph{simple root system}) in $\Delta$ if \begin{enumerate}
+\item{ $\Pi$ is a basis for $V$;}
+\item{Each root $\beta \in \Delta$ can be written as a linear 
+combination of the elements of $\Pi$ with integer coefficients of the 
+same sign, that is,
+$$ \beta = \sum_{\alpha \in \Pi} m_\alpha \alpha $$
+with all $m_\alpha \geq 0$ or all $m_\alpha \leq 0$.}
+\end{enumerate}
+ The root $\beta$ is 
+\emph{positive} if the coefficients are nonnegative, 
+and \emph{negative} otherwise. 
+The set of all positive roots (the \emph{positive root system}) associated to 
+$\Pi$ will be denoted $\Delta^+$. 
+\end{definition} 
+
+Below we construct a set $\Pi_t$ associated to an element $t \in V$ and 
+a root system $\Delta$, and 
+show that it satisfies the definition of a simple root system in $\Delta$. 
+
+Let $\Delta $ be a root system in $V$, and 
+let $t \in V$ be a vector such that $\langle t, \alpha \rangle \neq 0$ for 
+all $\alpha \in \Delta$ (Check that such an element always exists). 
+Set 
+$$\Delta_t^+ = \{ \alpha \in \Delta : \langle t, \alpha \rangle >0 \}.$$ 
+Let $\Delta_t^- = \{ -\alpha, \alpha \in \Delta_t^+ \}$. 
+Check that $\Delta = \Delta_t^+ \cup \Delta_t^-$. 
+
+\begin{definition} An element $\alpha \in \Delta_t^+$ is \emph{decomposable} 
+if there exist $\beta, \gamma \in \Delta_t^+$ such that 
+$\alpha = \beta +\gamma$. Otherwise $\alpha \in \Delta_t^+$ is 
+\emph{indecomposable}.
+\end{definition} 
+
+Let $\Pi_t \subset \Delta_t^+$ be the set of all indecomposable elements 
+in $\Delta_t^+$. 
+
+The next three Lemmas prove the properties of $\Delta_t^+$  and $\Pi_t$.   
+
+\begin{lemma} \label{pos} 
+Any element in $\Delta_t^+$ can be written as a linear combination 
+of elements in $\Pi_t$ with nonnegative integer coefficients. 
+\end{lemma}
+Hint: By contradiction. Suppose $\gamma$ is an element of $\Delta_t^+$ 
+for which the Lemma is false and $\langle t, \gamma \rangle>0$ is minimal, 
+and use that $\gamma$ is decomposable to get a contradiction. 
+
+\begin{lemma} \label{angle} 
+If $\alpha, \beta \in \Pi_t$, then $\langle \alpha, \beta \rangle \leq 0$. 
+\end{lemma}
+Hint: Use Thm. 10(1) in \cite{1} : if $\langle \alpha, \beta \rangle >0$, 
+then $\alpha - \beta$ is a root or $0$. 
+
+Add discussion: what does this result mean for the relative position 
+of two simple roots? 
+
+\begin{lemma} \label{basis}
+Let $A$ be a subset of $V$ such that 
+\begin{enumerate} 
+\item{$\langle t, \alpha \rangle >0$ for all $\alpha \in A$;}
+\item{$\langle \alpha, \beta \rangle \leq 0$ for all $\alpha, \beta \in A$.}
+\end{enumerate}
+Then the elements of $A$ are linearly independent. 
+\end{lemma}
+Hint: Assume the elements of $A$ are linearly dependent and split the 
+nontrivial linear combination into two sums, 
+with positive and negative coefficients. 
+Let $\lambda = \sum m_\beta \beta = \sum n_\gamma \gamma$ with 
+$\beta, \gamma \in A$ and all $ m_\beta , n_\gamma >0$. Show that 
+$\langle \lambda, \lambda \rangle =0$. 
+
+Now we are ready to prove the existence of a simple root set   
+in any abstract root system.    
+
+\begin{theorem} \label{simple}
+For any $t \in V$ such that $\langle t, \alpha \rangle \neq 0$ for all 
+$\alpha \in \Delta$, the set $\Pi_t$ constructed above is a set of simple 
+roots, and $\Delta_t^+$ the associated set of positive roots. 
+\end{theorem} 
+Hint: Use lemmas \ref{pos}, \ref{angle}, \ref{basis}. 
+
+The converse statement is also true (and much easier to prove): 
+\begin{theorem} Let $\Pi$ be a set of simple roots in $\Delta$, and 
+suppose that $t \in V$ is such that $\langle t, \alpha \rangle >0$ for all 
+$\alpha \in \Pi$. Then $\Pi = \Pi_t$, and the associated set of positive 
+roots $\Delta^+ = \Delta_t^+$. 
+\end{theorem} 
+
+
+\begin{example} Let $V$ be the 
+$n$-dimensional subspace 
+of $\R^{n+1}$ ($n \geq 1$) orthogonal to the line 
+$e_1 + e_2 + \ldots + e_{n+1}$,
+where $\{e_i\}_{i=1}^{n+1}$ is an orthonormal basis in $\R^{n+1}$. 
+The root system $\Delta$ of the type $A_n$ in $V$ 
+consists of all 
+vectors $\{ e_i - e_j\}_{ i \neq j }$.  
+ Check that $\Pi = \{ e_1 - e_2, e_2 - e_3, \ldots e_n -e_{n+1} \}$ is 
+a set of simple roots, and $\Delta^+ = \{ e_i - e_j\}_{i<j}$ - the 
+associated set of positive roots in $\Delta$. 
+\end{example}  
+
+\begin{example} \label{Cn}
+The root system $\Delta$ 
+of the type $C_n$ in $V=\R^n$ ($n \geq 2$) consists 
+of all vectors $\{ \pm e_i \pm e_j\}_{i \neq j} \cup \{ \pm 2e_i \}$, 
+where $\{e_i\}_{i=1}^n$ is an orthonormal basis in $\R^n$. Check that 
+  $\Pi = \{ e_1 - e_2, e_2 - e_3, \ldots e_{n-1} -e_n, 2e_n \}$ is 
+a set of simple roots, and $\Delta^+ = \{ e_i \pm e_j\}_{i<j}\cup \{2e_i\}$ 
+- the associated set of positive roots in $\Delta$.   
+\end{example} 
+
+  
+\begin{example} Let $V= \R^2$ and recall from \cite{1}, that for 
+any two roots $\alpha, \beta$, 
+$$ n(\alpha, \beta) \cdot n(\beta, \alpha) = 4 \cos^2(\phi),$$ 
+where $n(\alpha, \beta) = 
+\frac{2\la \beta, \alpha\ra}{\la \alpha, \alpha \ra }$, and 
+$\phi$ is the angle between $\alpha$ and $\beta$.  Using Lemma 
+\ref{angle}, find all possible angles between the simple roots in $\R^2$, 
+and their relative lengths. Sketch the obtained pairs of vectors. 
+Identify those that correspond to the root systems $A_1 \oplus A_1$, 
+$A_2$ and $C_2$ discussed in Examples \ref{A1}, \ref{A2} and \ref{Cn} 
+for $n=2$. In these three 
+cases, describe and sketch the set of all elements 
+$t \in V$ such that $\Pi_t = \Pi$ for a given $\Pi$. This set is the 
+dominant Weyl chamber for $(\Delta, \Pi)$.  
+\end{example}
+
+
+\begin{thebibliography}{2}
+
+\bibitem[1]{1} Your classmate, {\it Abstract root systems}, 
+preprint, MIT, 2004. 
+
+
+\end{thebibliography}
+
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
