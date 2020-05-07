@@ -40,6 +40,7 @@
  <li class="title"><a href="#course39">Wavelets, Filter Banks and Applications</a></li>
   <li class="title"><a href="#course40">Introduction to Numerical Analysis</a></li>
    <li class="title"><a href="#course41">Introduction to Numerical Methods</a></li>
+  <li class="title"><a href="#course42">Numerical Methods for Partial Differential Equations</a></li>
 </ul>
 </br>
 
@@ -4240,6 +4241,116 @@
 
 </br>
 
+<h2 id ="course42">Numerical Methods for Partial Differential Equations</h2>
+
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Fundamental concepts and examples</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_336S09_lec1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Well-posedness and Fourier methods for linear initial value problems</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_336S09_lec2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Laplace and Poisson equation</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_336S09_lec3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Heat equation, transport equation, wave equation</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_336S09_lec4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>General finite difference approach and Poisson equation</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_336S09_lec5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Elliptic equations and errors, stability, Lax equivalence theorem</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_336S09_lec6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Spectral methods</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_336S09_lec7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Implementing FFTs in Practice.pdf">Fast Fourier transform</a>&nbsp;(guest lecture by Steven Johnson)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Spectral methods</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_336S09_lec9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Elliptic equations and linear systems</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_336S09_lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Efficient methods for sparse linear systems: Multigrid</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_336S09_lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Efficient methods for sparse linear systems: Krylov methods</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_336S09_lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Ordinary differential equations</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_336S09_lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Stability for ODE and von Neumann stability analysis</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_336S09_lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Advection equation and modified equation</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_336S09_lec15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Advection equation and ENO/WENO</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_336S09_lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Conservation laws: Theory</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_336S09_lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Conservation laws: Numerical methods</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_336S09_lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Conservation laws: High resolution methods</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_336S09_lec19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Operator splitting, fractional steps</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_336S09_lec20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Systems of IVP, wave equation, leapfrog, staggered grids</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_336S09_lec21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Level set method</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_336S09_lec22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Navier-Stokes equation: Finite difference methods</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_336S09_lec23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Navier-Stokes equation: Pseudospectral methods</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_336S09_lec24.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Particle methods</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_336S09_lec25.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
 
 
 
