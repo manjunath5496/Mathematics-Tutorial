@@ -18,7 +18,7 @@
    <li class="title"><a href="#course17">Analysis II</a></li>
     <li class="title"><a href="#course18">Introduction to Functional Analysis</a></li>
  <li class="title"><a href="#course19">Fourier Analysis</a></li>
-  <li class="title"><a href="#course20">Theory of Solids I</a></li>
+  <li class="title"><a href="#course20">Functions of a Complex Variable</a></li>
    <li class="title"><a href="#course21">Theory of Solids II</a></li>
     <li class="title"><a href="#course22">Particle Physics II</a></li>
      <li class="title"><a href="#course23">Particle Physics of the Early Universe</a></li>
@@ -2762,6 +2762,122 @@
 
 </br>
 
+<h2 id ="course20">Functions of a Complex Variable </h2>
 
-
-
+<table summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>The algebra of complex numbers: the geometry of the complex plane, the spherical representation</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/lecture1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Exponential function and logarithm for a complex argument: the complex exponential and trigonometric functions, dealing with the complex logarithm</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/lecture2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Analytic functions; rational functions: the role of the Cauchy-Riemann equations</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/lecture3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Power series: complex power series, uniform convergence</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/lecture4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Exponentials and trigonometric functions</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/lecture5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Conformal maps; linear transformations: analytic functions and elementary geometric properties, conformality and scalar invariance</td>
+<td>(<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/lecture6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Linear transformations (cont.): cross ratio, symmetry, role of circles</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/lecture7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Line integrals: path independence and its equivalence to the existence of a primitive</td>
+<td>(<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/lecture8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Cauchy-Goursat theorem</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/lecture9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The special cauchy formula and applications: removable singularities, the complex taylor's theorem with remainder</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/lecture10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Isolated singularities</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/lecture11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The local mapping; Schwarz's lemma and non-Euclidean interpretation: topological features, the maximum modulus theorem</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/lecture12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The general Cauchy theorem</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/lecture13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The residue theorem and applications: calculation of residues, argument principle and Rouch&eacute;'s theorem</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/lecture14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Contour integration and applications: evaluation of definite integrals, careful handling of the logarithm</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/lecture15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Harmonic functions: harmonic functions and holomorphic functions, Poisson's formula, Schwarz's theorem</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/lecture16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Mittag-Leffer's theorem: Laurent series, partial fractions expansions</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/lecture17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Infinite products: Weierstrass' canonical products, the gamma function</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/lecture18_long2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Normal families: equiboundedness for holomorphic functions, Arzela's theorem</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/lecture19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The Riemann mapping theorem</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/lecture20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The prime number theorem: the history of the theorem and the proof, the details of the proof</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/lecture21_22.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The extension of the zeta function to C, the functional equation</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/lecture23.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p> <strong>Exams and solutions</strong> </p>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">EXAMS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>In-class test 1 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/mid1prob.pdf">PDF</a>)</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/mid1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>In-class test 2 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/mid2prob.pdf">PDF</a>)</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/mid2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Final exam (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/finalprob.pdf">PDF</a>)</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/final.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
