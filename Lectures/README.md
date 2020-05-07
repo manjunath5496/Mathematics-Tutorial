@@ -35,7 +35,7 @@
       <li class="title"><a href="#course34">Principles of Discrete Applied Mathematics</a></li>
       <li class="title"><a href="#course35">Principles of Applied Mathematics</a></li>
     <li class="title"><a href="#course36">Combinatorial Theory: Hyperplane Arrangements</a></li>
-     <li class="title"><a href="#course37">Quantum Information Science</a></li>
+     <li class="title"><a href="#course37">Topics in Algebraic Combinatorics</a></li>
     <li class="title"><a href="#course38">Astrophysics II</a></li>
  <li class="title"><a href="#course39">Applied Geometric Algebra</a></li>
   <li class="title"><a href="#course40">Reducing the Danger of Nuclear Weapons and Proliferation</a></li>
@@ -4009,3 +4009,16 @@
 <li class="subhead">Chapter 6: Separating Hyperplanes (Preliminary Version) (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lec6.pdf">PDF</a>)</li>
 </ul>
 </br>
+<h2 id ="course37">Topics in Algebraic Combinatorics </h2>
+
+<ul>
+<li>Circulant Hadamard Matrices (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/hadamard.pdf">PDF</a>)</li>
+<li>The Sperner Property (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/sperner.pdf">PDF</a>)</li>
+<li>Group Actions on Boolean Algebras (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/boolean.pdf">PDF</a>)</li>
+<li>Young Diagrams and q-Binomial Coefficients (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/young.pdf">PDF</a>)</li>
+<li>A Glimpse of Young Tableaux (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/notes2.pdf">PDF</a>)</li>
+</ul>
+</br>
+
+
+
