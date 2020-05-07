@@ -3868,7 +3868,7 @@
 <p>Green's function. Poisson equation. Stokes equation.</p>
 <p>Example: stokes drag on a sphere.</p>
 </td>
-<td>(<a href="MIT18_306f09_lec26.pdf">PDF</a></td>
+<td>(<a href="MIT18_306f09_lec26.pdf">PDF</a>)</td>
 </tr>
 </tbody>
 </table>
