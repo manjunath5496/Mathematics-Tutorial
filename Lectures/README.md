@@ -1443,8 +1443,60 @@
 
 </br>
 
+<p> <strong>Assignments: problem sets with solutions</strong> </p>
 
-
-
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>Probability</strong></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT18_05S14_ps1.pdf">Problem Set 1 (PDF)</a></td>
+<td><a href="MIT18_05S14_ps1_solutions.pdf">Solutions to Problem Set 1 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="MIT18_05S14_ps2.pdf">Problem Set 2 (PDF)</a></p>
+<p><a href="18.05 R Tutorial_ 'For Loops'.pdf">R Tutorial: Run For Loops</a></p>
+<p><a href="18.05 R Tutorial_ Run Length Encoding.pdf">R Tutorial: Run Length Encoding</a></p>
+</td>
+<td><a href="MIT18_05S14_ps2_solutions.pdf">Solutions to Problem Set 2 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT18_05S14_ps3.pdf">Problem Set 3 (PDF)</a></td>
+<td><a href="MIT18_05S14_ps3_solutions.pdf">Solutions to Problem Set 3 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT18_05S14_ps4.pdf">Problem Set 4 (PDF)</a></td>
+<td><a href="MIT18_05S14_ps4_solutions.pdf">Solutions to Problem Set 4 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Statistics</strong></td>
+</tr>
+<tr class="row">
+<td><a href="MIT18_05S14_ps5.pdf">Problem Set 5 (PDF)</a></td>
+<td><a href="MIT18_05S14_ps5_solutions.pdf">Solutions to Problem Set 5 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="MIT18_05S14_ps6.pdf">Problem Set 6 (PDF)</a></p>
+<p><a href="ps6-post.r">Problem Set 6 R Code (R)</a></p>
+</td>
+<td><a href="MIT18_05S14_ps6_solutions.pdf">Solutions to Problem Set 6 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT18_05S14_ps7.pdf">Problem Set 7 (PDF)</a></td>
+<td><a href="MIT18_05S14_ps7_solutions.pdf">Solutions to Problem Set 7 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT18_05S14_ps8.pdf">Problem Set 8 (PDF)</a></td>
+<td><a href="MIT18_05S14_ps8_solutions.pdf">Solutions to Problem Set 8 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT18_05S14_ps9.pdf">Problem Set 9 (PDF)</a></td>
+<td><a href="MIT18_05S14_ps9_solutions.pdf">Solutions to Problem Set 9 (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
 
