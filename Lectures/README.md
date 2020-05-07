@@ -14,7 +14,7 @@
   <li class="title"><a href="#course13">Advanced Calculus for Engineers </a></li>
    <li class="title"><a href="#course14">Mathematical Methods for Engineers II</a></li>
   <li class="title"><a href="#course15">Mathematical Exposition</a></li>
-   <li class="title"><a href="#course16">Introduction to Computational Neuroscience</a></li>
+   <li class="title"><a href="#course16">Analysis I</a></li>
    <li class="title"><a href="#course17">Electromagnetic Theory</a></li>
     <li class="title"><a href="#course18">Quantum Theory I</a></li>
  <li class="title"><a href="#course19">Quantum Theory II</a></li>
@@ -2324,5 +2324,32 @@
 <li>"Proof of Sarkovskii's Theorem and Its Converse" by Jeremy Hurwitz (<a href="sarkovskiis_theo.pdf">PDF</a>)</li>
 </ul>
 </br>
+<h2 id ="course16">Analysis I </h2>
 
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Sequential compactness</td>
+<td>Notes (<a href="MIT18_100BF10_compactness.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Construction of the real numbers</td>
+<td>Notes (<a href="MIT18_100BF10_Const_of_R.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>l^p spaces</td>
+<td>Notes (<a href="MIT18_100BF10_LpCompletens.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Riemann integrability and continuity almost everywhere</td>
+<td>Notes (<a href="MIT18_100BF10_RiemannInte.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Optional material: Weierstrass function, Devil's staircase</td>
+<td>Weierstrass function (<a href="MIT18_100BF10_WeierstFunc.pdf">PDF</a>), Devil's staircase (<a href="MIT18_100BF10_Dvl_Strcs.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
 
