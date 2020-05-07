@@ -1687,7 +1687,7 @@
 </tbody>
 </table>
 </br>
-<h2 id ="course11">Single Variable Calculus </h2>
+<h2 id ="course11">Mathematics for Computer Science </h2>
 
 <table class="tablewidth75" summary="See table caption for summary.">
 <tbody>
