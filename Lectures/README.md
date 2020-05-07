@@ -20,7 +20,7 @@
  <li class="title"><a href="#course19">Fourier Analysis</a></li>
   <li class="title"><a href="#course20">Functions of a Complex Variable</a></li>
    <li class="title"><a href="#course21">Measure and Integration</a></li>
-    <li class="title"><a href="#course22">Particle Physics II</a></li>
+    <li class="title"><a href="#course22">Introduction to Partial Differential Equations</a></li>
      <li class="title"><a href="#course23">Particle Physics of the Early Universe</a></li>
     <li class="title"><a href="#course24">Strong Interactions: Effective Field Theories of QCD</a></li>
    <li class="title"><a href="#course25">Cosmology</a></li>
@@ -2981,6 +2981,113 @@
 <tr class="alt-row">
 <td headers="col2">Generalized Minkowski Inequality<br /><br />Another Proof of Young's Inequality<br /><br />Distribution Functions<br /><br />Marcinkiewicz Interpolation: Maximal Operator Maps L^p to L^p for 1 &lt; p Leq Infty</td>
 <td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/18125_lec24.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<h2 id ="course22">Introduction to Partial Differential Equations </h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Introduction to PDEs</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_152F11_lec_01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Introduction to the heat equation</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_152F11_lec_02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The heat equation: Uniqueness</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_152F11_lec_03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The heat equation: Weak maximum principle and introduction to the fundamental solution</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_152F11_lec_04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The heat equation: Fundamental solution and the global Cauchy problem</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_152F11_lec_05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Laplace's and Poisson's equations</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_152F11_lec_06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Poisson's equation: Fundamental solution</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_152F11_lec_07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Poisson's equation: Green functions</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_152F11_lec_08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Poisson's equation: Poisson's formula, Harnack's inequality, and Liouville's theorem</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_152F11_lec_09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Introduction to the wave equation</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_152F11_lec_10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The wave equation: The method of spherical means</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_152F11_lec_11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The wave equation: Kirchhoff's formula and Minkowskian geometry</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_152F11_lec_12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The wave equation: Geometric energy estimates</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_152F11_lec_13_14.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Classification of second order equations</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_152F11_lec_15.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Introduction to the Fourier transform; Fourier inversion and Plancherel's theorem</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_152F11_lec_16_18.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Introduction to Schr&ouml;dinger's equation</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_152F11_lec_19_20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Introduction to Lagrangian field theories</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_152F11_lec_21_23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Transport equations and Burger's equation</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_152F11_lec_24.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+<p> <strong>Exams and solutions</strong> </p>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">EXAMS</th>
+<th scope="col">FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Midterm Exam</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_152F11_MidtermExam.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Midterm Exam Solutions</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_152F11_MdtrmExm_Sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Final Exam</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_152F11_Final.pdf">PDF</a>)</td>
 </tr>
 </tbody>
 </table>
