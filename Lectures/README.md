@@ -33,7 +33,7 @@
     <li class="title"><a href="#course32">Advanced Partial Differential Equations with Applications</a></li>
      <li class="title"><a href="#course33">Integral Equations</a></li>
       <li class="title"><a href="#course34">Principles of Discrete Applied Mathematics</a></li>
-      <li class="title"><a href="#course35">Statistical Mechanics I: Statistical Mechanics of Particles</a></li>
+      <li class="title"><a href="#course35">Principles of Applied Mathematics</a></li>
     <li class="title"><a href="#course36">Statistical Mechanics II: Statistical Physics of Fields</a></li>
      <li class="title"><a href="#course37">Quantum Information Science</a></li>
     <li class="title"><a href="#course38">Astrophysics II</a></li>
@@ -3943,4 +3943,62 @@
 <li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_310F13_Ch22.pdf">Linear Codes (PDF)</a></li>
 </ul>
 </br>
+<h2 id ="course35">Principles of Applied Mathematics</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_311S14_ConservatnLaw.pdf">Conservation Laws in Continuum Modeling (PDF)</a></p>
+<p>1. Introduction</p>
+<p>2. Continuum Approximation; Densities and Fluxes</p>
+<p>3. Conservation Laws in Mathematical Form</p>
+<p>4. Phenomenological Equation Closure</p>
+<p>5. Concluding Remarks</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_311S14_NumSchemeStab.pdf">Stability of Numerical Schemes for PDEs (PDF)</a></p>
+<p>1. Naive Scheme for the Wave Equation</p>
+<p>2. Von Neumann Stability Analysis for PDEs</p>
+<p>3. Numerical Viscosity and Stabilized Scheme</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_311S14_CFsimpleModel.pdf">Simplest Car Following Traffic Flow Model (PDF)</a></p>
+<p>1. The Model; Nondimensionalization</p>
+<p>2. Continuum Limit of Model</p>
+<p>3. Numerical Issues; Stiffness of the Equations</p>
+<p>4. Examples</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_311S14_DiscreteTo.pdf">Discrete to Continuum Modeling (PDF)</a></p>
+<p>1. Introduction</p>
+<p>2. Wave Equations from Mass-Spring Systems</p>
+<p>3. Torsion-Coupled Pendulums: Sine-Gordon Equation</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_311S14_Separation.pdf">Separation of Variables (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_311S14_VarLecNotes.pdf">Various Lecture Notes (PDF)</a></p>
+<p>1. Convergence of Numerical Schemes</p>
+<p>2. Discrete Fourier Transform, Fast Fourier Transform, and Fourier Series</p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
 
