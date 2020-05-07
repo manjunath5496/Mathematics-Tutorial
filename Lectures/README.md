@@ -24,7 +24,7 @@
      <li class="title"><a href="#course23">Differential Analysis</a></li>
     <li class="title"><a href="#course24">Differential Analysis II: Partial Differential Equations and Fourier Analysis</a></li>
    <li class="title"><a href="#course25">Theory of Probability</a></li>
-   <li class="title"><a href="#course26">String Theory and Holographic Duality</a></li>
+   <li class="title"><a href="#course26">Universal Random Structures in 2D</a></li>
    <li class="title"><a href="#course27">Effective Field Theory</a></li>
     <li class="title"><a href="#course28">Strongly Correlated Systems in Condensed Matter Physics</a></li>
  <li class="title"><a href="#course29">Many-Body Theory for Condensed Matter Systems</a></li>
@@ -3324,5 +3324,8 @@
 </tbody>
 </table>
 </br>
+<h2 id ="course26">Universal Random Structures in 2D </h2>
 
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_177F15_LECNOTES.pdf">Lecture Notes for Universal Random Structures in 2D (PDF)</a>&nbsp;</p>
 
+</br>
