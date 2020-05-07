@@ -27,7 +27,7 @@
    <li class="title"><a href="#course26">Universal Random Structures in 2D</a></li>
    <li class="title"><a href="#course27">Algebraic Combinatorics</a></li>
     <li class="title"><a href="#course28">Probabilistic Method in Combinatorics</a></li>
- <li class="title"><a href="#course29">Many-Body Theory for Condensed Matter Systems</a></li>
+ <li class="title"><a href="#course29">Geometry and Quantum Field Theory</a></li>
   <li class="title"><a href="#course30">Introduction to Nuclear and Particle Physics</a></li>
    <li class="title"><a href="#course31">Introduction to Plasma Physics I</a></li>
     <li class="title"><a href="#course32">Relativistic Quantum Field Theory I</a></li>
@@ -3484,4 +3484,25 @@
 </tbody>
 </table>
 </br>
+
+<h2 id ="course29">Geometry and Quantum Field Theory</h2>
+
+<ul>
+<li class="subhead">Chapter 1: Generalities on Quantum Field Theory (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/sec1.pdf">PDF</a>)</li>
+<li>Chapter 2: The Steepest Descent and Stationary Phase Formulas (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/sec2.pdf">PDF</a>)</li>
+<li>Chapter 3: Feynman Calculus (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/sec3.pdf">PDF</a>)</li>
+<li>Chapter 4: Matrix Integrals (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/sec4.pdf">PDF</a>)</li>
+<li>Chapter 5: The Euler Characteristic of the Moduli Space of Curves (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/sec5.pdf">PDF</a>)</li>
+<li>Chapter 6: Matrix Integrals and Counting Planar Diagrams (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/sec6.pdf">PDF</a>)</li>
+<li>Chapter 7: Quantum Mechanics (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/sec7.pdf">PDF</a>)</li>
+<li>Chapter 8: Operator Approach to Quantum Mechanics (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/sec8.pdf">PDF</a>)</li>
+<li>Chapter 9: Fermionic Integrals (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/sec9.pdf">PDF</a>)</li>
+<li>Chapter 10: Quantum Mechanics for Fermions (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/sec10.pdf">PDF</a>)</li>
+<li>Chapter 11: Free Field Theories in Higher Dimensions (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/sec11.pdf">PDF</a>)</li>
+</ul>
+</br>
+
+
+
+
 
