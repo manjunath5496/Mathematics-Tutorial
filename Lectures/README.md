@@ -32,7 +32,7 @@
    <li class="title"><a href="#course31">Advanced Analytic Methods in Science and Engineering</a></li>
     <li class="title"><a href="#course32">Advanced Partial Differential Equations with Applications</a></li>
      <li class="title"><a href="#course33">Integral Equations</a></li>
-      <li class="title"><a href="#course34">Relativistic Quantum Field Theory III</a></li>
+      <li class="title"><a href="#course34">Principles of Discrete Applied Mathematics</a></li>
       <li class="title"><a href="#course35">Statistical Mechanics I: Statistical Mechanics of Particles</a></li>
     <li class="title"><a href="#course36">Statistical Mechanics II: Statistical Physics of Fields</a></li>
      <li class="title"><a href="#course37">Quantum Information Science</a></li>
@@ -3916,7 +3916,31 @@
 </table>
 </br>
 
+<h2 id ="course34">Principles of Discrete Applied Mathematics </h2>
 
-
-
+<ul>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_310F13_Ch1.pdf">Probability Theory (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_310F13_Ch2.pdf">Pigeonhole Principle (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_310F13_Ch3.pdf">Probabilistic Method - Van der Waerden's Theorem (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_310F13_Ch4.pdf">Chernoff Bounds (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_310F13_Ch5.pdf">Sequential Choice (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_310F13_Ch6.pdf">Counting, Coding, Sampling (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_310F13_Ch7.pdf">Generating Functions (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_310F13_Ch8.pdf">Linear Programming (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_310F13_Ch9.pdf">Network Flows (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_310F13_Ch10.pdf">Sorting (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_310F13_Ch11.pdf">Median Finding (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_310F13_Ch12.pdf">Median Finding and QUICKSORT (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_310F13_Ch13.pdf">Sorting Networks (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_310F13_Ch14.pdf">Modular Arithmetic and Elementary Algebra (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_310F13_Ch15.pdf">Cryptography (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_310F13_Ch16.pdf">Factoring (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_310F13_Ch17.pdf">FFT (Fast Fourier Transform) (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_310F13_Ch18.pdf">Shannon's Noiseless Coding Theorem (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_310F13_Ch19.pdf">Huffman Codes (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_310F13_Ch20.pdf">Lempel-Ziv Codes (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_310F13_Ch21.pdf">Shannon's Noisy Coding Theorem (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_310F13_Ch22.pdf">Linear Codes (PDF)</a></li>
+</ul>
+</br>
 
