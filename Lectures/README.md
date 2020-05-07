@@ -31,7 +31,7 @@
   <li class="title"><a href="#course30">Linear Partial Differential Equations</a></li>
    <li class="title"><a href="#course31">Advanced Analytic Methods in Science and Engineering</a></li>
     <li class="title"><a href="#course32">Advanced Partial Differential Equations with Applications</a></li>
-     <li class="title"><a href="#course33">Relativistic Quantum Field Theory II</a></li>
+     <li class="title"><a href="#course33">Integral Equations</a></li>
       <li class="title"><a href="#course34">Relativistic Quantum Field Theory III</a></li>
       <li class="title"><a href="#course35">Statistical Mechanics I: Statistical Mechanics of Particles</a></li>
     <li class="title"><a href="#course36">Statistical Mechanics II: Statistical Physics of Fields</a></li>
@@ -3876,10 +3876,45 @@
 
 </br>
 
+<h2 id ="course33">Integral Equations </h2>
 
-
-
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Problem Set 1 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/ps_1.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/sol1.pdf">PDF -1.3 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 2 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/ps_2.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/sol2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 3 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/ps_3.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/sol3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 4 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/ps_4.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/sol4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 5 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/ps_5.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/sol5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 6 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/ps_6.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/sol6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 7 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/ps_7.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/sol7.pdf">PDF</a>)<br /><br />Erratum for Problems Set 7 Solutions (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/sol7_erratum.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 8 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/ps_8.pdf">PDF</a>)</td>
+<td>Solution for Problem 24 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/sol8_prob_24.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
 
 
 
