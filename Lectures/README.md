@@ -21,7 +21,7 @@
   <li class="title"><a href="#course20">Functions of a Complex Variable</a></li>
    <li class="title"><a href="#course21">Measure and Integration</a></li>
     <li class="title"><a href="#course22">Introduction to Partial Differential Equations</a></li>
-     <li class="title"><a href="#course23">Particle Physics of the Early Universe</a></li>
+     <li class="title"><a href="#course23">Differential Analysis</a></li>
     <li class="title"><a href="#course24">Strong Interactions: Effective Field Theories of QCD</a></li>
    <li class="title"><a href="#course25">Cosmology</a></li>
    <li class="title"><a href="#course26">String Theory and Holographic Duality</a></li>
@@ -3092,5 +3092,45 @@
 </tbody>
 </table>
 </br>
+
+<h2 id ="course23">Differential Analysis</h2>
+
+
+<ul>
+<li>Continuous Functions (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/section1.pdf">PDF</a>)</li>
+<li>Measures and &sigma;-algebras (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/section2.pdf">PDF</a>)</li>
+<li>Measureability of Functions (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/section3.pdf">PDF</a>)</li>
+<li>Integration (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/section4.pdf">PDF</a>)</li>
+<li>Hilbert Space (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/section5.pdf">PDF</a>)</li>
+<li>Test Functions (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/section6.pdf">PDF</a>)</li>
+<li>Tempered Distributions (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/section7.pdf">PDF</a>)</li>
+<li>Convolution and Density (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/section8.pdf">PDF</a>)</li>
+<li>Fourier Inversion (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/section9.pdf">PDF</a>)</li>
+<li>Sobolev Embedding (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/section10.pdf">PDF</a>)</li>
+<li>Differential Operators (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/section11.pdf">PDF</a>)</li>
+<li>Cone Support and Wavefront Set (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/section12.pdf">PDF</a>)</li>
+<li>Homogeneous Distributions (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/section13.pdf">PDF</a>)</li>
+<li>Spectral Theorem (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/section16.pdf">PDF</a>)</li>
+<li>Problems (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/problems.pdf">PDF</a>)</li>
+<li>Solutions (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/solution_prob.pdf">PDF</a>)</li>
+<li>References (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/refs.pdf">PDF</a>)</li>
+</ul>
+</br>
+<p> <strong>Assignments: problem sets with solutions</strong> </p>
+
+<ul>
+<li>Problem Set 1 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/problem_set1.pdf">PDF</a>)</li>
+<li>Problem Set 2 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/problem_set2.pdf">PDF</a>)</li>
+<li>Problem Set 3 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/problem_set3.pdf">PDF</a>)</li>
+<li>Problem Set 4 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/problem_set4.pdf">PDF</a>)</li>
+<li>Problem Set 5 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/problem_set5.pdf">PDF</a>)</li>
+<li>Problem Set 6 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/problem_set6.pdf">PDF</a>)</li>
+<li>Problem Set 7 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/problem_set7.pdf">PDF</a>)</li>
+<li>These are solutions to some of the problems above (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/solutions.pdf">PDF</a>)</li>
+</ul>
+
+</br>
+
+
 
 
