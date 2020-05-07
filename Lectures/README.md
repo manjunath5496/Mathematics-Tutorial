@@ -19,7 +19,7 @@
     <li class="title"><a href="#course18">Introduction to Functional Analysis</a></li>
  <li class="title"><a href="#course19">Fourier Analysis</a></li>
   <li class="title"><a href="#course20">Functions of a Complex Variable</a></li>
-   <li class="title"><a href="#course21">Theory of Solids II</a></li>
+   <li class="title"><a href="#course21">Measure and Integration</a></li>
     <li class="title"><a href="#course22">Particle Physics II</a></li>
      <li class="title"><a href="#course23">Particle Physics of the Early Universe</a></li>
     <li class="title"><a href="#course24">Strong Interactions: Effective Field Theories of QCD</a></li>
@@ -2881,3 +2881,109 @@
 </tbody>
 </table>
 </br>
+<h2 id ="course21">Measure and Integration</h2>
+
+
+<table class="tablewidth100" summary="Course Table Listing">
+<tbody>
+<tr class="row">
+<td headers="col2">Why Measure Theory?<br /><br />Measure Spaces and Sigma-algebras<br /><br />Operations on Measurable Functions (Sums, Products, Composition)<br /><br />Borel Sets</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/18125_lec1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Real-valued Measurable Functions<br /><br />Limits of Measurable Functions<br /><br />Simple Functions<br /><br />Positive Measures<br /><br />Definition of Lebesgue Integral</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/18125_lec2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Riemann Integral<br /><br />Riemann Integrable &lt;-&gt; Continuous Almost Everywhere<br /><br />Comparison of Lebesgue and Riemann Integrals<br /><br />Properties of Positive Measures<br /><br />Elementary Properties of the Lebesgue Integral</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/18125_lec3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Integral is Additive for Simple Functions<br /><br />Monotone Convergence Theorem<br /><br />Integral is Additive for All Non-negative Measurable Functions<br /><br />Interchanging Summation and Integration<br /><br />Fatou's Lemma</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/18125_lec4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Integral of Complex Functions<br /><br />Dominated Convergence Theorem<br /><br />Sets of Measure Zero<br /><br />Completion of a Sigma-algebra</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/18125_lec5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Lebesgue Measure on R^n<br /><br />Measure of Special Rectangles<br /><br />Measure of Special Polygons<br /><br />Measure of Open Sets (Approximate from within by Polygons)<br /><br />Measure of Compact Sets (Approximate from outside by Opens)<br /><br />Outer and Inner Measures</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/18125_lec6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Definition of Lebesgue Measurable for Sets with Finite Outer Measure<br /><br />Remove Restriction of Finite Outer Measure<br /><br />(R^n, L, Lambda) is a Measure Space, i.e., L is a Sigma-algebra, and Lambda is a Measure</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/18125_lec7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Caratheodory Criterion<br /><br />Cantor Set<br /><br />There exist (many) Lebesgue measurable sets which are not Borel measurable</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/18125_lec8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Invariance of Lebesgue Measure under Translations and Dilations<br /><br />A Non-measurable Set<br /><br />Invariance under Rotations</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/18125_lec9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Integration as a Linear Functional<br /><br />Riesz Representation Theorem for Positive Linear Functionals<br /><br />Lebesgue Integral is the "Completion" of the Riemann Integral</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/18125_lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Lusin's Theorem (Measurable Functions are nearly continuous)<br /><br />Vitali-Caratheodory Theorem</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/18125_lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Approximation of Measurable Functions by Continuous Functions<br /><br />Convergence Almost Everywhere<br /><br />Integral Convergence Theorems Valid for Almost Everywhere Convergence<br /><br />Countable Additivity of the Integral</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/18125_lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Egoroff's Theorem (Pointwise Convergence is nearly uniform)<br /><br />Convergence in Measure<br /><br />Converge Almost Everywhere -&gt; Converges in Measure<br /><br />Converge in Measure -&gt; Some Subsequence Converges Almost Everywhere<br /><br />Dominated Convergence Theorem Holds for Convergence in Measure</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/18125_lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Convex Functions<br /><br />Jensen's Inequality<br /><br />H&ouml;lder and Minkowski Inequalities</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/18125_lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">L^p Spaces, 1 Leq p Leq Infty<br /><br />Normed Spaces, Banach Spaces<br /><br />Riesz-Fischer Theorem (L^p is complete)</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/18125_lec15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">C_c Dense in L^p, 1 Leq p&nbsp;<strong>&lt;</strong>&nbsp;Infty<br /><br />C_c Dense in C_o (Functions which vanish at Infty)</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/18125_lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Inclusions between L^p Spaces? l^p Spaces?<br /><br />Local L^p Spaces<br /><br />Convexity Properties of L^p-norm<br /><br />Smooth Functions Dense in L^p</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/18125_lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Fubini's Theorem in R^n for Non-negative Functions</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/18125_lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Fubini's Theorem in R^n for L^1 Functions<br /><br />The Product Measure for Products of General Measure Spaces</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/18125_lec19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Fubini's Theorem for Product Measure<br /><br />Completion of Product Measures<br /><br />Convolutions</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/18125_lec20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Young's Inequality<br /><br />Mollifiers<br /><br />C^{Infty} Dense in L^p, 1 Leq p &lt; Infty</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/18125_lec21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Fundamental Theorem of Calculus for Lebesgue Integral<br /><br />Vitali Covering Theorem<br /><br />Maximal Function<br /><br />f in L^1 -&gt; Mf in Weak L^1 (Hardy-Littlewood Theorem)</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/18125_lec22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Lebesgue's Differentiation Theorem<br /><br />The Lebesue Set of an L^1 Function<br /><br />Fundamental Theorem of Calculus I</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/18125_lec23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Generalized Minkowski Inequality<br /><br />Another Proof of Young's Inequality<br /><br />Distribution Functions<br /><br />Marcinkiewicz Interpolation: Maximal Operator Maps L^p to L^p for 1 &lt; p Leq Infty</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/18125_lec24.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
