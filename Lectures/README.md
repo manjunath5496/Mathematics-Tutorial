@@ -2788,7 +2788,7 @@
 </tr>
 <tr class="alt-row">
 <td>Conformal maps; linear transformations: analytic functions and elementary geometric properties, conformality and scalar invariance</td>
-<td>(<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/lecture6.pdf">PDF</a>)</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/lecture6.pdf">PDF</a>)</td>
 </tr>
 <tr class="row">
 <td>Linear transformations (cont.): cross ratio, symmetry, role of circles</td>
@@ -2796,7 +2796,7 @@
 </tr>
 <tr class="alt-row">
 <td>Line integrals: path independence and its equivalence to the existence of a primitive</td>
-<td>(<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/lecture8.pdf">PDF</a>)</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/lecture8.pdf">PDF</a>)</td>
 </tr>
 <tr class="row">
 <td>Cauchy-Goursat theorem</td>
