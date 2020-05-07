@@ -4470,6 +4470,6 @@
 </table>
 
 </br>
-
-
+<p>Complete lecture notes:&nbsp;<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_354JS15_lectureNotes.pdf" data-smd-id="s104">Nonlinear Dynamics II: Continuum Systems, Spring 2015 (PDF - 2.3MB)</a></p>
+</br>
 
