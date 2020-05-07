@@ -4146,7 +4146,7 @@
 </table>
 </br>
 
-<h2 id ="course40">Single Variable Calculus </h2>
+<h2 id ="course40">Introduction to Numerical Analysis </h2>
 
 <table class="tablewidth50" summary="See table caption for summary.">
 <tbody>
