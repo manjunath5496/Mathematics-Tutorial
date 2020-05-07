@@ -4356,32 +4356,31 @@
 </br>
 
 <h2 id ="course43">Infinite Random Matrix Theory</h2>
-
 <table class="tablewidth100" summary="See table caption for summary.">
 <tbody>
 <tr class="row">
 <td headers="col2">The Hermite Ensemble: Wigner's Semi-Circle Law</td>
-<td headers="col3">Histogramming (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/handout2.pdf">PDF</a>)<br /><br />Experiments with the Classical Ensembles (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/handout3.pdf">PDF</a>)</td>
-<td headers="col4"><em>Histogramming<br /><br /></em>bellcurve.m (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/bellcurve.m">M</a>)<br />histn.m (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/histn.m">M</a>)<br />momwigner.m (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/momwigner.m">M</a>)<br /><br /><em>Experiments with the Classical Ensembles</em><br /><br />wigner.m (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/wigner.m">M</a>)<br />wishart.m (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/wishart.m">M</a>)<br />manova.m (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/manova.m">M</a>)<br />wigneredf.m (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/wigneredf.m">M</a>)<br />wishartedf.m (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/wishartedf.m">M</a>)<br />manovaedf.m (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/manovaedf.m">M</a>)<br />classicexpt.m (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/classicexpt.m">M</a>)</td>
+<td headers="col3">Histogramming (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/handout2.pdf">PDF</a>)<br /><br />Experiments with the Classical Ensembles (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/handout3.pdf">PDF</a>)</td>
+<td headers="col4"><em>Histogramming<br /><br /></em>bellcurve.m (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/bellcurve.m">M</a>)<br />histn.m (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/histn.m">M</a>)<br />momwigner.m (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/momwigner.m">M</a>)<br /><br /><em>Experiments with the Classical Ensembles</em><br /><br />wigner.m (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/wigner.m">M</a>)<br />wishart.m (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/wishart.m">M</a>)<br />manova.m (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/manova.m">M</a>)<br />wigneredf.m (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/wigneredf.m">M</a>)<br />wishartedf.m (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/wishartedf.m">M</a>)<br />manovaedf.m (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/manovaedf.m">M</a>)<br />classicexpt.m (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/classicexpt.m">M</a>)</td>
 </tr>
 <tr class="alt-row">
 <td headers="col2">The Laguerre Ensemble: Marcenko-Pastur Theorem</td>
-<td headers="col3">The Stieltjes Transform Based Approach (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/handout4.pdf">PDF</a>)&nbsp;</td>
+<td headers="col3">The Stieltjes Transform Based Approach (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/handout4.pdf">PDF</a>)&nbsp;</td>
 <td headers="col4">&nbsp;</td>
 </tr>
 <tr class="row">
 <td headers="col2">The "Semi-Circular" Element: Central Limit Theorem for Infinite Random Matrices</td>
-<td headers="col3">Tridiagonal Matrices, Orthogonal Polynomials and the Classical Random Matrix Ensembles (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/handout5.pdf">PDF</a>)&nbsp;</td>
-<td headers="col4">trijacobi.m (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/trijacobi.m">M</a>)</td>
+<td headers="col3">Tridiagonal Matrices, Orthogonal Polynomials and the Classical Random Matrix Ensembles (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/handout5.pdf">PDF</a>)&nbsp;</td>
+<td headers="col4">trijacobi.m (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/trijacobi.m">M</a>)</td>
 </tr>
 <tr class="alt-row">
 <td headers="col2">Free Cumulants in Free Probability</td>
-<td headers="col3">Essentials of Finite Random Matrix Theory (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/handout6.pdf">PDF</a>)<br /><br />Numerical Methods in Random Matrices (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/handout7.pdf">PDF</a>)&nbsp;</td>
-<td headers="col4"><em>Essentials of Finite Random Matrix Theory<br /><br /></em>jsymeig.m (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/jsymeig.m">M</a>)</td>
+<td headers="col3">Essentials of Finite Random Matrix Theory (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/handout6.pdf">PDF</a>)<br /><br />Numerical Methods in Random Matrices (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/handout7.pdf">PDF</a>)&nbsp;</td>
+<td headers="col4"><em>Essentials of Finite Random Matrix Theory<br /><br /></em>jsymeig.m (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/jsymeig.m">M</a>)</td>
 </tr>
 <tr class="row">
 <td headers="col2">Free Cumulants in Free Probability (cont.)</td>
-<td headers="col3">Project Ideas (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/handout8.pdf">PDF</a>)</td>
+<td headers="col3">Project Ideas (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/handout8.pdf">PDF</a>)</td>
 <td headers="col4">&nbsp;</td>
 </tr>
 </tbody>
