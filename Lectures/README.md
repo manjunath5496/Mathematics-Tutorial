@@ -22,7 +22,7 @@
    <li class="title"><a href="#course21">Measure and Integration</a></li>
     <li class="title"><a href="#course22">Introduction to Partial Differential Equations</a></li>
      <li class="title"><a href="#course23">Differential Analysis</a></li>
-    <li class="title"><a href="#course24">Strong Interactions: Effective Field Theories of QCD</a></li>
+    <li class="title"><a href="#course24">Differential Analysis II: Partial Differential Equations and Fourier Analysis</a></li>
    <li class="title"><a href="#course25">Cosmology</a></li>
    <li class="title"><a href="#course26">String Theory and Holographic Duality</a></li>
    <li class="title"><a href="#course27">Effective Field Theory</a></li>
@@ -3128,6 +3128,86 @@
 <li>Problem Set 7 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/problem_set7.pdf">PDF</a>)</li>
 <li>These are solutions to some of the problems above (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/solutions.pdf">PDF</a>)</li>
 </ul>
+
+</br>
+
+<h2 id ="course24">Differential Analysis II: Partial Differential Equations and Fourier Analysis</h2>
+
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_156S16_summary.pdf">Course Summary (PDF)</a></p>
+
+<table class="tablewidth100" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_156S16_Lec1-2.pdf">Review of Harmonic Functions and the Perspective We Take on Elliptic PDE (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_156S16_Lec3.pdf">Finding Other Second Derivatives from the Laplacian (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_156S16_lec4.pdf">Korn's Inequality I (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_156S16_lec5.pdf">Korn's Inequality II (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_156S16_lec6.pdf">Schauder's Inequality (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_156S16_lec7.pdf">Using Functional Analysis to Solve Elliptic PDE (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_156S16_lec8.pdf">Sobolev Inequality I (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_156S16_lec9.pdf">Sobolev Inequality II (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_156S16_lec10-12.pdf">De Giorgi-Nash-Moser Inequality (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_156S16_lec13.pdf">Nonlinear Elliptic PDE I (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_156S16_lec14.pdf">Nonlinear Elliptic PDE II (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_156S16_lec15.pdf">Barriers (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_156S16_lec16-17.pdf">Minimal Graphs (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_156S16_lec20.pdf">Gauss Circle Problem I (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_156S16_lec21.pdf">Gauss Circle Problem II (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_156S16_lec22-24.pdf">Fourier Analysis in PDE and Interpolation (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_156S16_lec25.pdf">Applications of Interpolation (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_156S16_lec26.pdf">Calderon-Zygmund Inequality I (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_156S16_lec27.pdf">Calderon-Zygmund Inequality II (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_156S16_lec28.pdf">Littlewood-Paley Theory (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_156S16_lec29.pdf">Strichartz Inequality I (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_156S16_lec30.pdf">Strichartz Inequality II (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_156S16_lec31-34.pdf">The Nonlinear Schr&ouml;dinger Equation (PDF)</a>&nbsp;</td>
+</tr>
+</tbody>
+</table>
 
 </br>
 
