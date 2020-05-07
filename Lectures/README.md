@@ -36,7 +36,7 @@
       <li class="title"><a href="#course35">Principles of Applied Mathematics</a></li>
     <li class="title"><a href="#course36">Combinatorial Theory: Hyperplane Arrangements</a></li>
      <li class="title"><a href="#course37">Topics in Algebraic Combinatorics</a></li>
-    <li class="title"><a href="#course38">Astrophysics II</a></li>
+    <li class="title"><a href="#course38">Topics in Applied Mathematics: Waves and Imaging</a></li>
  <li class="title"><a href="#course39">Applied Geometric Algebra</a></li>
   <li class="title"><a href="#course40">Reducing the Danger of Nuclear Weapons and Proliferation</a></li>
    <li class="title"><a href="#course41">The Early Universe</a></li>
@@ -4019,6 +4019,22 @@
 <li>A Glimpse of Young Tableaux (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/notes2.pdf">PDF</a>)</li>
 </ul>
 </br>
+<h2 id ="course38">Topics in Applied Mathematics: Waves and Imaging</h2>
 
-
-
+<ul>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_325F15_CompleteLect.pdf">Full set of lecture notes in one file (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_325F15_FrontMatter.pdf">Front Matter, including Table of Contents (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_325F15_Chapter1.pdf">Chapter 1: Wave Equations (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_325F15_Chapter2.pdf">Chapter 2: Geometrical Optics (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_325F15_Chapter3.pdf">Chapter 3: Scattering Series (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_325F15_Chapter4.pdf">Chapter 4: Adjoint-state Methods (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_325F15_Chapter5.pdf">Chapter 5: Synthetic-aperture Radar (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_325F15_Chapter6.pdf">Chapter 6: Computerized Tomography (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_325F15_Chapter7.pdf">Chapter 7: Seismic Imaging (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_325F15_Chapter8.pdf">Chapter 8: Microlocal Analysis of Imaging (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_325F15_Chapter9.pdf">Chapter 9: Optimization (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_325F15_Appendix_A.pdf">Appendix A: Calculus of Variations, Functional Derivatives (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_325F15_Appendix_B.pdf">Appendix B: Finite Difference Methods for Wave Equations (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_325F15_Appendix_C.pdf">Appendix C: Stationary Phase (PDF)</a></li>
+</ul>
+</br>
