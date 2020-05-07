@@ -10,7 +10,7 @@
  <li class="title"><a href="#course9">Introduction to Probability and Statistics</a></li>
   <li class="title"><a href="#course10">Linear Algebra </a></li>
   <li class="title"><a href="#course11">Mathematics for Computer Science</a></li>
-   <li class="title"><a href="#course12">Statistical Physics II </a></li>
+   <li class="title"><a href="#course12">Linear Algebra - Communications Intensive </a></li>
   <li class="title"><a href="#course13">Classical Mechanics III </a></li>
    <li class="title"><a href="#course14">The Physics of Energy</a></li>
   <li class="title"><a href="#course15">String Theory</a></li>
@@ -2029,8 +2029,35 @@
 </tbody>
 </table>
 </br>
+<h2 id ="course12">Linear Algebra - Communications Intensive</h2>
 
+<table class="tablewidth50" summary="Course Table Listing">
+<tbody>
+<tr class="row">
+<td headers="col2">Project 1: Reflections in a Euclidean Space (<a href="rs1.tex">TEX</a>) (<a href="rs1.ps">PS</a>) (<a href="rs1.pdf">PDF</a>)</td>
+<td headers="col3">Project 1 by Philip Brocoum (<a href="1806ciphil.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Project 2: Abstract Root Systems (<a href="rs2.tex">TEX</a>) (<a href="rs2.ps">PS</a>) (<a href="rs2.pdf">PDF</a>)</td>
+<td headers="col3">Project 2 by Matthew Herman (<a href="finalproject_2.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Project 3: Simple and Positive Roots (<a href="rs3.tex">TEX</a>) (<a href="rs3.ps">PS</a>) (<a href="rs3.pdf">PDF</a>)</td>
+<td headers="col3">Project 3 by Juha Valkama (<a href="jsv_final_project_3.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Project 4: Properties of Simple Roots (<a href="rs4.tex">TEX</a>) (<a href="rs4.ps">PS</a>) (<a href="rs4.pdf">PDF</a>)</td>
+<td headers="col3">Project 4 by Eric Broder (<a href="paper4.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Project 5: Cartan Matrix of a Root System (<a href="rs5.tex">TEX</a>) (<a href="rs5.ps">PS</a>) (<a href="rs5.pdf">PDF</a>)</td>
+<td headers="col3">Project 5 by Thomas Covert (<a href="final_project_5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Project 6: Dynkin Diagrams and Classification (<a href="rs61.tex">TEX</a>) (<a href="rs61.ps">PS</a>) (<a href="rs61.pdf">PDF</a>)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+</tbody>
+</table>
 
-
-
-
+</br>
