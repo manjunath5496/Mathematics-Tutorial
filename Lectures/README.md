@@ -2405,8 +2405,49 @@
 </tbody>
 </table>
 </br>
+<p> <strong>Exams and solutions</strong> </p>
 
 
-
-
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Practice quiz 1 (<a href="MIT18_100BF10_Practice1.pdf">PDF</a>)</td>
+<td>
+<p>Practice quiz 1 solutions</p>
+<p>Handwritten (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_100BF10_Practice1sol.pdf">PDF</a>)</p>
+<p>Typed (<a href="MIT18_100BF10_Prac1solTyp.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Practice quiz 2 (<a href="MIT18_100BF10_Practice2.pdf">PDF</a>)</td>
+<td>
+<p>Practice quiz 2 solutions</p>
+<p>Handwritten (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_100BF10_Practice2sol.pdf">PDF</a>)</p>
+<p>Typed (<a href="MIT18_100BF10_Prac2solTyp.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Practice quiz 3 (<a href="MIT18_100BF10_prac3.pdf">PDF</a>)</td>
+<td>
+<p>Practice quiz 3 solutions</p>
+<p>Handwritten (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_100BF10_Practice3sol.pdf">PDF</a>)</p>
+<p>Typed (<a href="MIT18_100BF10_Prac3solTyp.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Practice quiz 4 (<a href="MIT18_100BF10_prac4.pdf">PDF</a>)</td>
+<td>
+<p>Practice quiz 4 solutions</p>
+<p>Handwritten (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_100BF10_practice4sol.pdf">PDF</a>)</p>
+<p>Typed (<a href="MIT18_100BF10_Prac4solTyp.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Practice final (<a href="MIT18_100BF10_final_prac.pdf">PDF</a>)</td>
+<td>
+<p>Practice final solutions (<a href="MIT18_100BF10_fin_prac_sol.pdf">PDF</a>)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
