@@ -1992,6 +1992,45 @@
 </tbody>
 </table>
 </br>
+<p> <strong>Exams and solutions</strong> </p>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Midterm practice problems</td>
+<td>(<a href="MIT6_042JF10_mid_practice.pdf">PDF</a>)</td>
+<td>(<a href="MIT6_042JF10_mid_pctce_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Midterm</td>
+<td>(<a href="MIT6_042JF10_midterm.pdf">PDF</a>)</td>
+<td>(<a href="MIT6_042JF10_midterm_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>2004 final exam</td>
+<td>(<a href="MIT6_042JF10_final_2004.pdf">PDF</a>)</td>
+<td>(<a href="MIT6_042JF10_fnl_2004_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>2006 final exam</td>
+<td>(<a href="MIT6_042JF10_final_2006.pdf">PDF</a>)</td>
+<td>(<a href="MIT6_042JF10_fnl_2006_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>2008 final exam</td>
+<td>(<a href="MIT6_042JF10_final_2008.pdf">PDF</a>)</td>
+<td>(<a href="MIT6_042JF10_fnl_2008_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Final exam</td>
+<td>(<a href="MIT6_042JF10_final.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
 
 
 
