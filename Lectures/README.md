@@ -2876,7 +2876,7 @@
 </tr>
 <tr class="row">
 <td>Final exam (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/finalprob.pdf">PDF</a>)</td>
-<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/final.pdf">PDF</a>)</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/final12.pdf">PDF</a>)</td>
 </tr>
 </tbody>
 </table>
