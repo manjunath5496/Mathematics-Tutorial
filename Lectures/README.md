@@ -1117,6 +1117,60 @@
 
 </br>
 
+<p> <strong>Assignments: problem sets with solutions</strong> </p>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<tbody>
+<tr class="gray-row">
+<td>Problem set 1 (<a href="MIT18_034s09_pset01.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_034s09_sol_pset01.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td>Problem set 2 (<a href="MIT18_034s09_pset02.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_034s09_sol_pset02.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td>Problem set 3 (<a href="MIT18_034s09_pset03.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_034s09_sol_pset03.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td>Problem set 4 (<a href="MIT18_034s09_pset04.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_034s09_pset04.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td>Problem set 5 (<a href="MIT18_034s09_pset05.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_034s09_sol_pset05.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td>Problem set 6 (<a href="MIT18_034s09_pset06.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_034s09_pset06.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td>Problem set 7 (<a href="MIT18_034s09_pset07.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_034s09_sol_pset07.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td>Problem set 8 (<a href="MIT18_034s09_pset08.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_034s09_sol_pset08.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td>Problem set 9 (<a href="MIT18_034s09_pset09.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_034s09_sol_pset09.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p> <strong>Projects and examples</strong> </p>
+
+<ul>
+<li class="subhead">Adaptive Stepsize Numerical Methods for Solving Ordinary Differential Equations (<a href="MIT18_034s09_proj01_euler.pdf">PDF</a>)&nbsp;</li>
+<li>Limitations of Euler's Method for Numerical Integration (<a href="MIT18_034s09_proj02_eulerl.pdf">PDF</a>)&nbsp;</li>
+<li>Numerical Approximations in Differential Equations: The Runge-Kutta Method (<a href="MIT18_034s09_proj03_rungekutta.pdf">PDF</a>)&nbsp;</li>
+<li>Higher Order Taylor Methods (<a href="MIT18_034s09_proj04_taylor.pdf">PDF</a>)&nbsp;</li>
+</ul>
+
+</br>
+
 
 
 
