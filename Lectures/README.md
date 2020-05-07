@@ -15,7 +15,7 @@
    <li class="title"><a href="#course14">Mathematical Methods for Engineers II</a></li>
   <li class="title"><a href="#course15">Mathematical Exposition</a></li>
    <li class="title"><a href="#course16">Analysis I</a></li>
-   <li class="title"><a href="#course17">Electromagnetic Theory</a></li>
+   <li class="title"><a href="#course17">Analysis II</a></li>
     <li class="title"><a href="#course18">Quantum Theory I</a></li>
  <li class="title"><a href="#course19">Quantum Theory II</a></li>
   <li class="title"><a href="#course20">Theory of Solids I</a></li>
@@ -2451,3 +2451,128 @@
 </tbody>
 </table>
 </br>
+<h2 id ="course17">Analysis II </h2>
+
+<p>The lecture notes were taken by a student in the class. For all of the lecture notes, including a table of contents, download the following file (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lectures.pdf">PDF - 1.6 MB</a>).</p>
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Metric Spaces, Continuity, Limit Points (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture1.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>Compactness, Connectedness (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Differentiation in n Dimensions (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture3.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>Conditions for Differentiability, Mean Value Theorem (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Chain Rule, Mean-value Theorem in n Dimensions (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture5.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>Inverse Function Theorem (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Inverse Function Theorem (cont.), Reimann Integrals of One Variable (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture7.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>Reimann Integrals of Several Variables, Conditions for Integrability (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Conditions for Integrability (cont.), Measure Zero (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture9.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>Fubini Theorem, Properties of Reimann Integrals (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Integration Over More General Regions, Rectifiable Sets, Volume (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture11.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>Improper Integrals (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Exhaustions (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Compact Support, Partitions of Unity (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Partitions of Unity (cont.), Exhaustions (cont.) (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Review of Linear Algebra and Topology, Dual Spaces (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Tensors, Pullback Operators, Alternating Tensors (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Alternating Tensors (cont.), Redundant Tensors (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Wedge Product (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Determinant, Orientations of Vector Spaces (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Tangent Spaces and k-forms, The d Operator (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The d Operator (cont.), Pullback Operator on Exterior Forms (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Integration with Differential Forms, Change of Variables Theorem, Sard's Theorem (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Poincare Theorem (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture24.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Generalization of Poincare Lemma (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture25.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Proper Maps and Degree (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture26.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Proper Maps and Degree (cont.) (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture27.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Regular Values, Degree Formula (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture28.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Topological Invariance of Degree (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture29.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Canonical Submersion and Immersion Theorems, Definition of Manifold (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture30.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Examples of Manifolds (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture31.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Tangent Spaces of Manifolds (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture32.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Differential Forms on Manifolds (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture33.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Orientations of Manifolds (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture34.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Integration on Manifolds, Degree on Manifolds (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture35.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Degree on Manifolds (cont.), Hopf Theorem (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture36.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Integration on Smooth Domains (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture37.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Integration on Smooth Domains (cont.), Stokes&rsquo; Theorem (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lecture38.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
