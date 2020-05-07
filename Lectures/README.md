@@ -34,7 +34,7 @@
      <li class="title"><a href="#course33">Integral Equations</a></li>
       <li class="title"><a href="#course34">Principles of Discrete Applied Mathematics</a></li>
       <li class="title"><a href="#course35">Principles of Applied Mathematics</a></li>
-    <li class="title"><a href="#course36">Statistical Mechanics II: Statistical Physics of Fields</a></li>
+    <li class="title"><a href="#course36">Combinatorial Theory: Hyperplane Arrangements</a></li>
      <li class="title"><a href="#course37">Quantum Information Science</a></li>
     <li class="title"><a href="#course38">Astrophysics II</a></li>
  <li class="title"><a href="#course39">Applied Geometric Algebra</a></li>
@@ -3998,7 +3998,14 @@
 </table>
 </br>
 
+<h2 id ="course36">Combinatorial Theory: Hyperplane Arrangements </h2>
 
-
-
-
+<ul>
+<li class="subhead">Chapter 1: Basic Definitions, the Intersection Poset and the Characteristic Polynomial (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lec1.pdf">PDF</a>)</li>
+<li class="subhead">Chapter 2: Properties of the Intersection Poset and Graphical Arrangements (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lec2.pdf">PDF</a>)</li>
+<li class="subhead">Chapter 3: Matroids and Geometric Lattices (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lec3.pdf">PDF</a>)</li>
+<li class="subhead">Chapter 4: Broken Circuits, Modular Elements, and Supersolvability (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lec4.pdf">PDF</a>)</li>
+<li class="subhead">Chapter 5: Finite Fields (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lec5.pdf">PDF</a>)</li>
+<li class="subhead">Chapter 6: Separating Hyperplanes (Preliminary Version) (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/lec6.pdf">PDF</a>)</li>
+</ul>
+</br>
