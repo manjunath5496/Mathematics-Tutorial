@@ -26,7 +26,7 @@
    <li class="title"><a href="#course25">Theory of Probability</a></li>
    <li class="title"><a href="#course26">Universal Random Structures in 2D</a></li>
    <li class="title"><a href="#course27">Algebraic Combinatorics</a></li>
-    <li class="title"><a href="#course28">Strongly Correlated Systems in Condensed Matter Physics</a></li>
+    <li class="title"><a href="#course28">Probabilistic Method in Combinatorics</a></li>
  <li class="title"><a href="#course29">Many-Body Theory for Condensed Matter Systems</a></li>
   <li class="title"><a href="#course30">Introduction to Nuclear and Particle Physics</a></li>
    <li class="title"><a href="#course31">Introduction to Plasma Physics I</a></li>
@@ -3439,5 +3439,49 @@
 </tbody>
 </table>
 </br>
+<h2 id ="course28">Probabilistic Method in Combinatorics </h2>
 
+<p>The&nbsp;<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_218S19_full_notes.pdf">full lecture notes (PDF)</a>&nbsp;and the notes by topic below were typed by Andrew Lin.&nbsp;</p>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_218S19_ch1.pdf">Introduction to the Probabilistic Method (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_218S19_ch2.pdf">Linearity of Expectation (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_218S19_ch3.pdf">Alterations (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_218S19_ch4.pdf">The Second Moment Method (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_218S19_ch5.pdf">The Chernoff Bound (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_218S19_ch6.pdf">The Lov&aacute;sz Local Lemma (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_218S19_ch7.pdf">Correlation and Janson&rsquo;s Inequalities (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_218S19_ch8.pdf">Martingale Convergence and Azuma&rsquo;s Inequality (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_218S19_ch9.pdf">Concentration of Measure (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_218S19_ch10.pdf">Entropy Methods (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_218S19_ch11.pdf">The Occupancy Method (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_218S19_ch12.pdf">A Teaser for &ldquo;Graph Theory and Additive Combinatorics&rdquo; (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
 
