@@ -1666,5 +1666,24 @@
 <li><a href="MIT18_06SCF11_ex1s.pdf">Solutions (PDF)</a></li>
 </ul>
 </br>
-
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Exam 1 (<a href="MIT18_06S10_exam1_s10.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_06S10_exam1_s10_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Exam 2 (<a href="MIT18_06S10_exam2_s10.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_06S10_exam2_s10_soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Exam 3 (<a href="MIT18_06S10_exam3_s10.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_06S10_exam3_s10_soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Final exam (<a href="MIT18_06S10_Final_Exam.pdf">PDF</a>)</td>
+<td>(<a href="MIT18_06S10_Final_Answers.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
