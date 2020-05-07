@@ -4191,8 +4191,54 @@
 
 </br>
 
+<table class="tablewidth50">
+<tbody>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_335JS19_exam19.pdf">Spring 2019 Exam (PDF)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_335JS19_exam19sol.pdf">Spring 2019 Solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_335JS19_exam08.pdf">Fall 2008 Exam (PDF)</a></td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_335JS19_exam08sol.pdf">Fall 2008 Solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_335JS19_exam09.pdf">Fall 2009 Exam (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_335JS19_exam10.pdf">Fall 2010 Exam (PDF)</a></td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_335JS19_exam10sol.pdf">Fall 2010 Solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_335JS19_exam11.pdf">Fall 2011 Exam (PDF)</a></td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_335JS19_exam11sol.pdf">Fall 2011 Solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_335JS19_exam12.pdf">Fall 2012 Exam (PDF)</a></td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_335JS19_exam12sol.pdf">Fall 2012 Solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_335JS19_exam13.pdf">Fall 2013 Exam (PDF)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_335JS19_exam13sol.pdf">Fall 2013 Solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_335JS19_exam15.pdf">Spring 2015 Exam (PDF)</a></td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_335JS19_exam15sol.pdf">Spring 2015 Solutions (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+
+<ul>
+<li>Lecture 24 handout:&nbsp;<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_335JS19_lec24.pdf">Sparse Matrix Algorithms (PDF)</a>&nbsp;</li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/10.1.1.58.9722.pdf" rel="nofollow">Nested Dissection: A Survey and Comparison of Various Nested Dissection Algorithms</a>&nbsp;by Manpreet S. Khaira.</li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Direct Solvers for Sparse Matrices.pdf" rel="nofollow">Direct Solvers for Sparse Matrices</a>&nbsp;by Jack Dongarra.</li>
+<li>Lecture 25 handout:&nbsp;<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_335JS19_lec25.pdf">A Brief Overview of Optimization Problems (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Hager_2006_CG-survey.pdf">A Survey of Nonlinear Conjugate Gradient Methods (PDF)</a></li>
+<li>Lecture 26 handout:&nbsp;<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_335JS19_lec26.pdf">Adjoint Methods (PDF)</a></li>
+</ul>
 
 
+</br>
 
 
 
