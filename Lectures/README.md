@@ -3653,49 +3653,33 @@
 </table>
 </br>
 <p> <strong>Exams and solutions</strong> </p>
-
 <table class="tablewidth50" summary="See table caption for summary.">
-<thead>
-<tr class="tableheader">
-<th id="col1" scope="col" abbr="Week Number">LEC&nbsp;#</th>
-<th id="col2" scope="col">ASSIGNMENTS</th>
-</tr>
-</thead>
 <tbody>
 <tr class="row">
-<td headers="col1">2</td>
 <td headers="col2">Problem Set 1 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/hwI.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
-<td headers="col1">4</td>
 <td headers="col2">Problem Set 2 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/hwII.pdf">PDF</a>)</td>
 </tr>
 <tr class="row">
-<td headers="col1">6</td>
 <td headers="col2">Problem Set 3 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/hwIII1.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
-<td headers="col1">8</td>
 <td headers="col2">Problem Set 4 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/hwIV1.pdf">PDF</a>)</td>
 </tr>
 <tr class="row">
-<td headers="col1">10</td>
 <td headers="col2">Problem Set 5 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/hwV1.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
-<td headers="col1">12</td>
 <td headers="col2">Problem Set 6 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/hwVI.pdf">PDF</a>)</td>
 </tr>
 <tr class="row">
-<td headers="col1">14</td>
 <td headers="col2">Problem Set 7 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/hwVII.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
-<td headers="col1">16</td>
 <td headers="col2">Problem Set 8 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/hwVIII.pdf">PDF</a>)</td>
 </tr>
 </tbody>
 </table>
 </br>
-
 
