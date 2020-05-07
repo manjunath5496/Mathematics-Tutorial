@@ -29,7 +29,7 @@
     <li class="title"><a href="#course28">Probabilistic Method in Combinatorics</a></li>
  <li class="title"><a href="#course29">Geometry and Quantum Field Theory</a></li>
   <li class="title"><a href="#course30">Linear Partial Differential Equations</a></li>
-   <li class="title"><a href="#course31">Introduction to Plasma Physics I</a></li>
+   <li class="title"><a href="#course31">Advanced Analytic Methods in Science and Engineering</a></li>
     <li class="title"><a href="#course32">Relativistic Quantum Field Theory I</a></li>
      <li class="title"><a href="#course33">Relativistic Quantum Field Theory II</a></li>
       <li class="title"><a href="#course34">Relativistic Quantum Field Theory III</a></li>
@@ -3601,6 +3601,101 @@
 </tbody>
 </table>
 </br>
+<h2 id ="course31">Advanced Analytic Methods in Science and Engineering </h2>
+<table class="tablewidth50" summary="Course Table Listing">
+<tbody>
+<tr class="row">
+<td headers="col2">The Differential Operator (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/first1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Complex Analysis (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/second1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">First-Order Partial Differential Equations (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/third1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Second-Order Partial Differential Equations&nbsp;(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/fourth1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Separation of Variables (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/fifth1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Singular Points of&nbsp;Ordinary Differential Equations (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/sixth1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Regular Singular Points of Ordinary Differential Equations (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/seven1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Irregular Singular Points of Ordinary Differential Equations (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/eight1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">The WKB Approximation (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/nineten.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Turning Point (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/eleven.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">The Laplace Method (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/twelve.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Method of Stationary Phase (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/thirteen.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Asymptotic Expansions of Integrals (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/fourfive.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Boundary Layers and Singular Perturbation (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/sixseven.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Interior Turning Points (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/eighten.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p> <strong>Exams and solutions</strong> </p>
 
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr class="tableheader">
+<th id="col1" scope="col" abbr="Week Number">LEC&nbsp;#</th>
+<th id="col2" scope="col">ASSIGNMENTS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col1">2</td>
+<td headers="col2">Problem Set 1 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/hwI.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">4</td>
+<td headers="col2">Problem Set 2 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/hwII.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col1">6</td>
+<td headers="col2">Problem Set 3 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/hwIII1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">8</td>
+<td headers="col2">Problem Set 4 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/hwIV1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col1">10</td>
+<td headers="col2">Problem Set 5 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/hwV1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">12</td>
+<td headers="col2">Problem Set 6 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/hwVI.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col1">14</td>
+<td headers="col2">Problem Set 7 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/hwVII.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">16</td>
+<td headers="col2">Problem Set 8 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/hwVIII.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
 
 
