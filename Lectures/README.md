@@ -13,7 +13,7 @@
    <li class="title"><a href="#course12">Linear Algebra - Communications Intensive </a></li>
   <li class="title"><a href="#course13">Advanced Calculus for Engineers </a></li>
    <li class="title"><a href="#course14">Mathematical Methods for Engineers II</a></li>
-  <li class="title"><a href="#course15">String Theory</a></li>
+  <li class="title"><a href="#course15">Mathematical Exposition</a></li>
    <li class="title"><a href="#course16">Introduction to Computational Neuroscience</a></li>
    <li class="title"><a href="#course17">Electromagnetic Theory</a></li>
     <li class="title"><a href="#course18">Quantum Theory I</a></li>
@@ -2214,3 +2214,115 @@
 <p>Project File: The Fundamentals and Advantages of Multigrid Techniques (<a href="josephkovacpro.pdf">PDF</a>)</p>
 <p>Matlab_Files_for_Project.zip (<a href="Matlab_Files_for_Project.zip">ZIP</a>) (The ZIP file contains: 10 .m files.)</p>
 </br>
+<h2 id ="course15">Mathematical Exposition</h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td headers="tbl91id0_1">
+<p><em>Student Lecture</em></p>
+<p>Examples of Dynamical Systems</p>
+<p>Orbits</p>
+</td>
+<td headers="tbl91id0_2">
+<p>(<a href="lecture01.pdf">PDF</a>)&nbsp;</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl91id0_1">
+<p><em>Student Lecture</em></p>
+<p>Graphical Analysis of Orbits</p>
+<p>Fixed and Periodic Points</p>
+</td>
+<td headers="tbl91id0_2">
+<p>(<a href="lecture02.pdf">PDF</a>)&nbsp;</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl91id0_1">
+<p><em>Student Lecture</em></p>
+<p>Bifurcations</p>
+</td>
+<td headers="tbl91id0_2">
+<p>(<a href="bifurcations.pdf">PDF</a>)&nbsp;</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl91id0_1">
+<p><em>Student Lecture</em></p>
+<p>The Quadratic Family</p>
+</td>
+<td headers="tbl91id0_2">
+<p>(<a href="lecture04.pdf">PDF</a>)&nbsp;</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl91id0_1">
+<p><em>Student Lecture</em></p>
+<p>Transition to Chaos</p>
+</td>
+<td headers="tbl91id0_2">
+<p>(<a href="lecture05.pdf">PDF</a>)&nbsp;</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl91id0_1">
+<p><em>Student Lecture</em></p>
+<p>Symbolic Dynamics</p>
+</td>
+<td headers="tbl91id0_2">
+<p>(<a href="lecture06.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl91id0_1">
+<p><em>Student Lecture</em></p>
+<p>Sarkovskii's Theorem</p>
+</td>
+<td headers="tbl91id0_2">
+<p>(<a href="lecture08.pdf">PDF</a>)&nbsp;</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl91id0_1">
+<p><em>Student Lecture</em></p>
+<p>Sarkovskii's Theorem (cont.)</p>
+<p>The Role of the Critical Orbit</p>
+</td>
+<td headers="tbl91id0_2">
+<p>(<a href="lecture09.pdf">PDF</a>)&nbsp;</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl91id0_1">
+<p><em>Student Lecture<br /></em><br />Newton's Method</p>
+<p>Fractals</p>
+</td>
+<td headers="tbl91id0_2">
+<p>(<a href="lecture10part1.pdf">PDF 1</a>)&nbsp;</p>
+<p>(<a href="lecture10part2.pdf">PDF 2</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl91id0_1">
+<p><em>Student Lecture</em></p>
+<p>Fractals (cont.)</p>
+</td>
+<td headers="tbl91id0_2">
+<p>(&nbsp;<a href="lecture11part1.pdf">PDF</a>)&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
+<ul>
+<li>"Sarkovskii's Theorem and its Converse" by Alejandro Ochoa (<a href="s4.pdf">PDF</a>)</li>
+<li>"Converse of Sarkovskii's Theorem" by Wes McKinney (<a href="sarintro.pdf">PDF</a>)</li>
+<li>"Sarkovskii's Theorem - Part 1" by Alan Dunn (<a href="sarkcomplete.pdf">PDF</a>)</li>
+<li>"Sarkovskii's Theorem" by Genya Zaytman (<a href="sarkovskii_final.pdf">PDF</a>)</li>
+<li>"Proof of Sarkovskii's Theorem and Its Converse" by Jeremy Hurwitz (<a href="sarkovskiis_theo.pdf">PDF</a>)</li>
+</ul>
+</br>
+
+
