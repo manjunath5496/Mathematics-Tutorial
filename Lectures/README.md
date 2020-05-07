@@ -44,6 +44,7 @@
    <li class="title"><a href="#course43">Infinite Random Matrix Theory</a></li>
     <li class="title"><a href="#course44">Nonlinear Dynamics II: Continuum Systems</a></li>
      <li class="title"><a href="#course45">Interfacial Phenomena</a></li>
+      <li class="title"><a href="#course46">Introduction to Modeling and Simulation</a></li>
 </ul>
 </br>
 
@@ -4539,9 +4540,79 @@
 <p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_357F10_lec_all.pdf">All lecture notes in one file (PDF - 4.3MB)</a></p>
 </br>
 
+<h2 id ="course46">Introduction to Modeling and Simulation</h2>
 
 
+<table summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>&nbsp;Particle and Continuum Methods</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Introduction</td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT3_021JS12_P1_L1.pdf">Lecture notes (PDF - 2.4MB)</a></td>
+</tr>
+<tr class="row">
+<td>Basic molecular dynamics</td>
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT3_021JS12_P1_L2.pdf">Lecture notes (PDF - 4.3MB)</a></p>
 
+</td>
+</tr>
+<tr class="alt-row">
+<td>Property calculation I</td>
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT3_021JS12_P1_L3.pdf">Lecture notes (PDF)</a></p>
 
+</td>
+</tr>
+<tr class="row">
+<td>Property calculation II</td>
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT3_021JS12_P1_L4.pdf">Lecture notes (PDF - 1.8MB)</a></p>
+
+</td>
+</tr>
+<tr class="alt-row">
+<td>How to model chemical interactions I</td>
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT3_021JS12_P1_L5.pdf">Lecture notes (PDF - 1.9MB)</a></p>
+
+</td>
+</tr>
+<tr class="row">
+<td>How to model chemical interactions II</td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT3_021JS12_P1_L6.pdf">Lecture notes (PDF - 3.1MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Application to modeling brittle materials</td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT3_021JS12_P1_L7.pdf">Lecture notes (PDF - 1.4MB)</a></td>
+</tr>
+<tr class="row">
+<td>Reactive potentials and applications I</td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT3_021JS12_P1_L8.pdf">Lecture notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Reactive potentials and applications II</td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT3_021JS12_P1_L9.pdf">Lecture notes (PDF - 1.3MB)</a></td>
+</tr>
+<tr class="row">
+<td>Applications to biophysics and bionanomechanics I</td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT3_021JS12_P1_L10.pdf">Lecture notes (PDF - 2.7MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Applications to biophysics and bionanomechanics II</td>
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT3_021JS12_P1_L11.pdf">Lecture notes (PDF - 2.1MB)</a></p>
+
+</td>
+</tr>
+<tr class="row">
+<td>Review session - Preparation Quiz 1</td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT3_021JS12_P1_L12.pdf">Lecture notes (PDF - 4.4MB)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
 
 
