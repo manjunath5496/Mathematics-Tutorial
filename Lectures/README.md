@@ -11,7 +11,7 @@
   <li class="title"><a href="#course10">Linear Algebra </a></li>
   <li class="title"><a href="#course11">Mathematics for Computer Science</a></li>
    <li class="title"><a href="#course12">Linear Algebra - Communications Intensive </a></li>
-  <li class="title"><a href="#course13">Classical Mechanics III </a></li>
+  <li class="title"><a href="#course13">Advanced Calculus for Engineers </a></li>
    <li class="title"><a href="#course14">The Physics of Energy</a></li>
   <li class="title"><a href="#course15">String Theory</a></li>
    <li class="title"><a href="#course16">Introduction to Computational Neuroscience</a></li>
@@ -2061,3 +2061,152 @@
 </table>
 
 </br>
+<h2 id ="course13">Advanced Calculus for Engineers </h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td headers="col2">Number Systems and Algebra of Complex Numbers (<a href="lecture1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Elementary Complex Functions, Part 1 (<a href="lecture2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Elementary Complex Functions, Part 2 (<a href="lecture3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Branch Points and Branch Cuts (<a href="lecture4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Analytic Functions (<a href="lecture5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Complex Integrals (<a href="lecture6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Cauchy's Formula, Properties of Analytic Functions (<a href="lecture7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Taylor Series, Laurent Series (<a href="lecture8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Laurent Series (cont.) (<a href="lecture9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Properties of Laurent Series, Singularities (<a href="lecture10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Singularities (cont.)&nbsp;(<a href="lecture11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Residue Theorem (<a href="lecture12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Evaluation of Real Definite Integrals, Case I (<a href="lecture13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Evaluation of Real Definite Integrals, Case II (<a href="lecture14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Evaluation of Real Definite Integrals, Case III (<a href="lecture15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Evaluation of Real Definite Integrals, Case IV (<a href="lecture16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Theorems for Contour Integration (<a href="lecture17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Series and Convergence (<a href="lecture18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Ordinary Differential Equations (<a href="lecture19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Singular Points of Linear Second-order ODEs (<a href="lecture20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Frobenius Method (<a href="lecture21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Frobenius Method - Examples (<a href="lecture22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Frobenius Method (cont.) and a "particular type" of ODE (<a href="lecture23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Bessel Functions (<a href="lecture24.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Properties of Bessel Functions (<a href="lecture25.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Modified Bessel Functions (<a href="lecture26.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Differential Equations Satisfied by Bessel Functions (<a href="lecture27.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Introduction to Boundary-Value Problems (<a href="lecture28.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Eigenvalues, Eigenfunctions, Orthogonality of Eigenfunctions (<a href="lecture29.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Boundary Value Problems for Nonhomogeneous PDEs (<a href="lecture30.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Sturm-Liouville Problem (<a href="lecture31.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Fourier Series (<a href="lecture32.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Fourier Sine and Cosine Series (<a href="lecture33.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Complete Fourier Series (<a href="lecture34.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Review of Boundary Value Problems for Nonhomogeneous PDEs (<a href="lecture35.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">PRACTICE TESTS</th>
+<th id="col3" scope="col">PRACTICE TEST SOLUTIONS</th>
+<th id="col4" scope="col">EXAMS</th>
+<th id="col5" scope="col">EXAM SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">Practice Test&nbsp;I (<a href="test1_f04_pra1.pdf">PDF</a>)<br /><br />Practice Test II (<a href="pract_1_inclass.pdf">PDF</a>)</td>
+<td headers="col3">Practice Test&nbsp;I Solutions (<a href="sol_pra1_quiz1.pdf">PDF</a>)<br /><br />Practice Test II Solutions (<a href="sol_class_pra1.pdf">PDF</a>)</td>
+<td headers="col4">(<a href="test1_f04.pdf">PDF</a>)</td>
+<td headers="col5">(<a href="sol_class_ex1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Practice Test&nbsp;I&nbsp;&nbsp;(<a href="test2_f04_pra1.pdf">PDF</a>)<br /><br />Practice Test&nbsp;II (<a href="test2_f04_pra2.pdf">PDF</a>)</td>
+<td headers="col3">Practice Test&nbsp;I Solutions (<a href="sol_pra1_exam2.pdf">PDF</a>)<br /><br />Practice Test&nbsp;II Solutions (<a href="sol_pra2_exam2.pdf">PDF</a>)</td>
+<td headers="col4">(<a href="test2_f04.pdf">PDF</a>)</td>
+<td headers="col5">(<a href="sol_class_ex2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Practice Test&nbsp;I (<a href="test3_f04_pra1.pdf">PDF</a>)<br /><br />Practice Test&nbsp;II (<a href="test3_f04_pra2.pdf">PDF</a>)<br /><br />Practice Test&nbsp;III (<a href="test3_f04_pra3.pdf">PDF</a>)<br /><br />Practice Test&nbsp;IV (<a href="test3_f04_pra4.pdf">PDF</a>)</td>
+<td headers="col3">Practice Test&nbsp;I Solutions (<a href="sol_pra1_ex3.pdf">PDF</a>)<br /><br />Practice Test&nbsp;II Solutions (<a href="sol_pra2_exa3.pdf">PDF</a>)<br /><br />Practice Test&nbsp;III Solutions (<a href="sol_pra3_ex3.pdf">PDF</a>)<br /><br />Errattum Practice Test&nbsp;III Solutions (<a href="erat_sol_pr3_ex3.pdf">PDF</a>)<br /><br />Practice Test IV Solutions (<a href="sol_pra4_exam3.pdf">PDF</a>)</td>
+<td headers="col4">(<a href="test3_f04.pdf">PDF</a>)</td>
+<td headers="col5">(<a href="sol_quiz3.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
+
