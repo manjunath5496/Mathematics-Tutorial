@@ -7,7 +7,7 @@
   <li class="title"><a href="#course6">Differential Equations</a></li>
    <li class="title"><a href="#course7">Honors Differential Equations </a></li>
     <li class="title"><a href="#course8">Complex Variables with Applications </a></li>
- <li class="title"><a href="#course9">Quantum Physics II </a></li>
+ <li class="title"><a href="#course9">Introduction to Probability and Statistics</a></li>
   <li class="title"><a href="#course10">Quantum Physics III </a></li>
   <li class="title"><a href="#course11">Electromagnetism II </a></li>
    <li class="title"><a href="#course12">Statistical Physics II </a></li>
@@ -1308,4 +1308,143 @@
 </table>
 
 </br>
+<h2 id ="course9">Introduction to Probability and Statistics</h2>
+<table class="tablewidth100" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><strong>Probability</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="MIT18_05S14_Reading1a.pdf">1a: Introduction (PDF)</a></p>
+<p><a href="MIT18_05S14_Reading1b.pdf">1b: Counting and Sets (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="MIT18_05S14_Reading2.pdf">2: Probability: Terminology and Examples (PDF)</a></p>
+<p><a href="18.05 R Tutorial 1A.pdf">R Tutorial 1A: Basics</a></p>
+<p><a href="18.05 R Tutorial 1B.pdf">R Tutorial 1B: Random Numbers</a></p>
+</td>
+</tr>
+<tr class="row">
+<td><a href="MIT18_05S14_Reading3.pdf">3: Conditional Probability, Independence and Bayes' Theorem (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="MIT18_05S14_Reading4a.pdf">4a: Discrete Random Variables (PDF)</a></p>
+<p><a href="MIT18_05S14_Reading4b.pdf">4b: Discrete Random Variables: Expected Value (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="MIT18_05S14_Reading5a.pdf">5a: Variance of Discrete Random Variables (PDF)</a></p>
+<p><a href="MIT18_05S14_Reading5b.pdf">5b: Continuous Random Variables (PDF)</a></p>
+<p><a href="MIT18_05S14_Reading5c.pdf">5c: Gallery of Continuous Random Variables (PDF)</a></p>
+<p><a href="MIT18_05S14_Reading5d.pdf">5d: Manipulating Continuous Random Variables (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="MIT18_05S14_Reading6a.pdf">6a: Expectation, Variance and Standard Deviation for Continuous Random Variables (PDF)</a></p>
+<p><a href="MIT18_05S14_Reading6b.pdf">6b: Central Limit Theorem and the Law of Large Numbers (PDF)</a></p>
+<p><a href="MIT18_05S14_Reading6c.pdf">6c: Appendix (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="MIT18_05S14_Reading7a.pdf">7a: Joint Distributions, Independence (PDF)</a></p>
+<p><a href="MIT18_05S14_Reading7b.pdf">7b: Covariance and Correlation (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="MIT18_05S14_Reading8a.pdf">Class 8: Exam Review (PDF)</a></p>
+<p><a href="MIT18_05S14_Reading8b.pdf">Class 8: Exam Review Solutions (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td><strong>Statistics:&nbsp;</strong><strong>Bayesian Inference</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="MIT18_05S14_Reading10a.pdf">10a: Introduction to Statistics (PDF)</a></p>
+<p><a href="MIT18_05S14_Reading10b.pdf">10b: Maximum Likelihood Estimates (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td><a href="MIT18_05S14_Reading11.pdf">11: Bayesian Updating with Discrete Priors (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="MIT18_05S14_Reading12a.pdf">12a: Bayesian Updating: Probabilistic Prediction (PDF)</a></p>
+<p><a href="MIT18_05S14_Reading12b.pdf">12b: Bayesian Updating: Odds (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="MIT18_05S14_Reading13a.pdf">13a: Bayesian Updating with Continuous Priors (PDF)</a></p>
+<p><a href="MIT18_05S14_Reading13b.pdf">13b: Notational Conventions (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="MIT18_05S14_Reading14a.pdf">14a: Beta Distributions (PDF)</a></p>
+<p><a href="MIT18_05S14_Reading14b.pdf">14b: Bayesian Updating with Continuous Data (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="MIT18_05S14_Reading15a.pdf">15a: Conjugate Priors: Beta and Normal (PDF)</a></p>
+<p><a href="MIT18_05S14_Reading15b.pdf">15b: Choosing Priors (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td><a href="MIT18_05S14_Reading16.pdf">16: Probability Intervals (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><strong>Statistics:&nbsp;</strong><strong>Frequentist Inference&mdash;Null Hypothesis Significance Testing (NHST)</strong></td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="MIT18_05S14_Reading17a.pdf">17a: The Frequentist School of Statistics (PDF)</a></p>
+<p><a href="MIT18_05S14_Reading17b.pdf">17b: Null Hypothesis Significance Testing I (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td><a href="MIT18_05S14_Reading18.pdf">18: Null Hypothesis Significance Testing II (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT18_05S14_Reading19.pdf">19: Null Hypothesis Significance Testing III (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT18_05S14_Reading20.pdf">20: Comparison of Frequentist and Bayesian Inference (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><strong>Statistics:&nbsp;</strong><strong>Confidence Intervals; Regression</strong></td>
+</tr>
+<tr class="row">
+<td><a href="MIT18_05S14_Reading22.pdf">22: Confidence Intervals Based on Normal Data (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="MIT18_05S14_Reading23a.pdf">23a: Confidence Intervals: Three Views (PDF)</a></p>
+<p><a href="MIT18_05S14_Reading23b.pdf">23b: Confidence Intervals for the Mean of Non-normal Data (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT18_05S14_Reading24.pdf">24: Bootstrap Confidence Intervals (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT18_05S14_Reading25.pdf">25: Linear Regression (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
+
+
+
 
