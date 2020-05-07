@@ -25,7 +25,7 @@
     <li class="title"><a href="#course24">Differential Analysis II: Partial Differential Equations and Fourier Analysis</a></li>
    <li class="title"><a href="#course25">Theory of Probability</a></li>
    <li class="title"><a href="#course26">Universal Random Structures in 2D</a></li>
-   <li class="title"><a href="#course27">Effective Field Theory</a></li>
+   <li class="title"><a href="#course27">Algebraic Combinatorics</a></li>
     <li class="title"><a href="#course28">Strongly Correlated Systems in Condensed Matter Physics</a></li>
  <li class="title"><a href="#course29">Many-Body Theory for Condensed Matter Systems</a></li>
   <li class="title"><a href="#course30">Introduction to Nuclear and Particle Physics</a></li>
@@ -3329,3 +3329,115 @@
 <p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_177F15_LECNOTES.pdf">Lecture Notes for Universal Random Structures in 2D (PDF)</a>&nbsp;</p>
 
 </br>
+<h2 id ="course27">Algebraic Combinatorics </h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_212S19_lec1.pdf">Catalan numbers: drunkard's walk problem, generating function, recurrence relation (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_212S19_lec2.pdf">Catalan numbers (cont.): formula for&nbsp;<em>C<sub>n</sub></em>, reflection principle, necklaces, triangulations of polygons, plane binary trees, parenthesizations (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_212S19_lec3.pdf">Pattern avoidance in permutations. Stack- and queue-sortable permutations. Young diagrams and Young tableaux. Hook-length formula (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_212S19_lec4.pdf">Frobenius-Young identity. Schensted correspondence. Longest increasing and decreasing subsequences in permutations (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_212S19_lec5.pdf">Proof of the hook-length formula based on a random hook walk (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_212S19_lec6.pdf">Hook walks (cont.). Linear extensions of posets. Hook-length-type formulas for shifted shapes and trees (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_212S19_lec7.pdf"><em>q</em>-factorials and&nbsp;<em>q</em>-binomial coefficients (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_212S19_lec8.pdf">Grassmannians over finite fields: Gaussian elimination and row-reduced echelon form (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_212S19_lec9.pdf">Sets and multisets. Statistics on permutations: inversions, cycles, descents (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_212S19_lec10.pdf">Statistics on permutations (cont.). Equidistributed statistics. Major index. Records. Exceedances. Stirling numbers (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_212S19_lec11.pdf">Stirling numbers (cont.). Set-partitions. Rook placements on triangular boards. Non-crossing and non-nesting set-partitions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_212S19_lec12.pdf">Eulerian numbers. Increasing binary trees. 3 Pascal-like triangles: Eulerian triangles, Stirling triangles of 1<sup>st</sup>&nbsp;and 2<sup>nd</sup>&nbsp;kind (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_212S19_lec15.pdf">Posets and lattices. Boolean lattice. Partition lattice. Young's lattice (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_212S19_lec16.pdf">Distributive lattices. Birkhoff's fundamental theorem for finite distributive lattices (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_212S19_lec17.pdf">Sperner's property. Symmetric chain decompositions. Sperner's and Dilworth's theorems. Greene's theorem (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_212S19_lec18.pdf">Greene's theorem vs Schensted correspondence. Up and down operators. Differential posets (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_212S19_lec19.pdf">Differential posets (cont.). Fibonacci lattice. Unimodality of Gaussian coefficients (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_212S19_lec20.pdf">Proof of unimodality of Gaussian coefficients (cont.). Theory of partitions. Euler's pentagonal number theorem (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_212S19_lec21.pdf">Partition theory (cont.). Franklin's combinatorial proof of Euler's pentagonal number theorem. Jacobi's triple product identity (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_212S19_lec22.pdf">Partition theory (cont.). Combinatorial proof of Jacobi's triple product identity. Enumeration of trees. Cayley's formula. Simple inductive proof of Cayley's formula (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_212S19_lec23.pdf">Two combinatorial proofs of Cayley's formula (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_212S19_lec26.pdf">Matrix Tree Theorem. Spanning trees. Laplacian matrix of a graph. Reciprocity formula for spanning trees. Examples: complete graphs, complete bipartite graphs (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_212S19_lec27.pdf">Matrix Tree Theorem (cont.). Products of graphs. Number of spanning trees in the hypercube graph. Oriented incidence matrix (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_212S19_lec28.pdf">Proof of Matrix Tree Theorem using Cauchy-Binnet formula. Weighted and directed version of Matrix Tree Theorem. In-trees and out-trees (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_212S19_lec29.pdf">Proof of Directed Matrix Tree Theorem based on induction (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_212S19_lec30.pdf">Proof of Directed Matrix Tree Theorem via the Involution Principle. Electrical Networks and Kirchhoff's Laws (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_212S19_lec31.pdf">Electrical networks (cont.). Kirchhoff's matrix. Relations of electrical networks with Matrix Tree Theorem and spanning trees. Series-parallel connections. Probabilistic interpretation of the electrical potential in terms of random walks on graphs (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_212S19_lec32.pdf">Eulerian cycles in digraphs and B.E.S.T. theorem (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_212S19_lec33.pdf">Parking functions and tree inversion polynomials (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_212S19_lec34.pdf">Pascal triangle. Bernoulli numbers. Riemann zeta function. Binary trees. Catalan numbers (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_212S19_lec35.pdf">Lindstrom-Gessel-Viennot lemma and Lindstrom Theorem (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_212S19_lec36.pdf">Proof of Lindstrom-Gessel-Viennot lemma. Weighted version of Lindstrom-Gessel-Viennot lemma. Plane partitions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_212S19_lec37.pdf">MacMahon Proposition. Rhombus tiling. Domino tiling. Kasteleyn Theorem. Temperley Theorem (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_212S19_lec39.pdf">Plane partitions. Symmetric polynomials. Semi-standard Young tableau. Schur polynomial. Jacobi-Trudi Theorem. Hook-content formula (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
