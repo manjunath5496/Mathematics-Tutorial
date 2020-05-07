@@ -5065,3 +5065,38 @@
 </table>
 
 </br>
+
+<ul>
+<li>Midterm Exam (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/exam_366_06.pdf">PDF</a>)</li>
+<li>Solutions (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/exam_366_06_sol.pdf">PDF</a>)</li>
+</ul>
+<h2 class="subhead">&nbsp;</h2>
+
+<table summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><span class="nobr">Exam 1 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/exam1_366_2005.pdf">PDF</a>)</span></td>
+<td>
+<h3 class="subsubhead">Multivariate Normal Random Walk With Non-Identical Steps</h3>
+<p>Exact Solution For The Position PDF</p>
+<h3 class="subsubhead">Student Random Walk</h3>
+<p>Generalized Gram-Charlier Expansion With Fat Tails</p>
+<h3 class="subsubhead">Largest Step</h3>
+<p>Distribution Of The Largest Step Taken, Case Of Fat Tails And The Transition To Anomalous Scaling</p>
+</td>
+<td><span class="nobr">Chris Rycroft (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/exam1_2005_sol.pdf">PDF</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Exam 2 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/exam2_366_2005.pdf">PDF</a>)</td>
+<td>
+<h3 class="subsubhead">Electrochemical Equilibrium</h3>
+<p>Poisson-Boltzmann Equation, Debye-Huckel Linearization, Gouy-Chapman Solution</p>
+<h3 class="subsubhead">First Passage Of A Set Of Random Walkers</h3>
+<p>Survival Probability Near An Absorbing Wall, Levy-Smirnov Density, Minimum First Passage Time</p>
+<p>Escape From A Symmetric Trap Mean First Passage Time, Kramers Escape Rate, Finite-Temperature Corrections By Saddle-Point Asymptotics</p>
+</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/exam2_2005_sol.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
