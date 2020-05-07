@@ -30,7 +30,7 @@
  <li class="title"><a href="#course29">Geometry and Quantum Field Theory</a></li>
   <li class="title"><a href="#course30">Linear Partial Differential Equations</a></li>
    <li class="title"><a href="#course31">Advanced Analytic Methods in Science and Engineering</a></li>
-    <li class="title"><a href="#course32">Relativistic Quantum Field Theory I</a></li>
+    <li class="title"><a href="#course32">Advanced Partial Differential Equations with Applications</a></li>
      <li class="title"><a href="#course33">Relativistic Quantum Field Theory II</a></li>
       <li class="title"><a href="#course34">Relativistic Quantum Field Theory III</a></li>
       <li class="title"><a href="#course35">Statistical Mechanics I: Statistical Mechanics of Particles</a></li>
@@ -3682,4 +3682,205 @@
 </tbody>
 </table>
 </br>
+<h2 id ="course32">Advanced Partial Differential Equations with Applications</h2>
+
+<ul>
+<li>Incompressible flow in elastic wall pipes (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_306f09_lec21_IncFlowElastPipes.pdf">PDF</a>)</li>
+<li>Branch points and branch cuts (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_306f09_lec22_Branch_Points_B_Cuts.pdf">PDF</a>)</li>
+<li>Conservation laws in continuum modeling (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_306f09_lec23_Conservation_Laws.pdf">PDF</a>)</li>
+<li>Simplest car following traffic flow model (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_306f09_lec24_CF_Simple_Model.pdf">PDF</a>)</li>
+<li>Discrete to continuum modeling (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_306f09_lec25_Discrete_to_Contin.pdf">PDF</a>)</li>
+<li>Weakly nonlinear oscillators (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_306f09_lec26_weaklyNLoscilators.pdf">PDF</a>)</li>
+<li>Hopf bifurcations (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_306f09_lec27_HopfBif.pdf">PDF</a>)</li>
+<li>Weakly nonlinear breathers (<a href="MIT18_306f09_lec28_Breathers.pdf">PDF</a>)</li>
+<li>Stability of numerical schemes for partial differential equations (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_306f09_lec29_Num_Scheme_Stab.pdf">PDF</a>)</li>
+</ul>
+<p>&nbsp;</p>
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>
+<p>Mechanics of the course.</p>
+<p>Example PDE. Initial and boundary value problems.</p>
+<p>Well and ill-posed problems.</p>
+</td>
+<td>(<a href="MIT18_306f09_lec01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Conservation laws and PDE.</p>
+<p>Integral and differential forms.</p>
+<p>Closure strategies. Quasi-equillibrium.</p>
+</td>
+<td>(<a href="MIT18_306f09_lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Classification of PDE.</p>
+<p>Examples.</p>
+<p>Kinematic waves and characteristics.</p>
+</td>
+<td>(<a href="MIT18_306f09_lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>First order scalar PDE.</p>
+<p>Examples of solutions by characteristics.</p>
+<p>Domain of influence.</p>
+</td>
+<td>(<a href="MIT18_306f09_lec04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Domains of influence and dependence.</p>
+<p>Causality and uniqueness. Allowed boundary conditions.</p>
+<p>Examples.</p>
+</td>
+<td>(<a href="MIT18_306f09_lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Graphical interpretation of solution by characteristics.</p>
+<p>Conservation. Wave steepening and breaking.</p>
+<p>Back to the physics.</p>
+</td>
+<td>(<a href="MIT18_306f09_lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Region of multiple values. Envelope of characteristics.</td>
+<td>(<a href="MIT18_306f09_lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>More on envelopes. Infinite slopes at envelope.</p>
+<p>Shocks. Conservation and entropy. Irreversibility.</p>
+<p>Examples from traffic flow.</p>
+</td>
+<td>(<a href="MIT18_306f09_lec08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Continues lecture 8. More examples.</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Shocks in the presence of source terms. Example.</p>
+<p>Riemann problems and Godunov's type methods.</p>
+</td>
+<td>(<a href="MIT18_306f09_lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>The Riemann problem for the kinematic wave equation with convex/concave flux.</p>
+<p>Example of a conservation law with a point source term.</p>
+</td>
+<td>(<a href="MIT18_306f09_lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Shock structure and detailed physics.</p>
+<p>Examples: Viscosity solution.</p>
+<p>Traffic flow. Flood waves. Shallow water.</p>
+</td>
+<td>(<a href="MIT18_306f09_lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Shallow water and higher order terms.</p>
+<p>Traveling waves, shocks, and the effects of dispersion.</p>
+<p>Solitons. Small dispersion limit.</p>
+</td>
+<td>(<a href="MIT18_306f09_lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>PDE and propagation of information.</p>
+<p>Equations that allow weak singularities.</p>
+<p>Examples.</p>
+</td>
+<td>(<a href="MIT18_306f09_lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Hyperbolicity and weak singularities.</p>
+<p>Examples: Hamilton-Jacobi equation and characteristic form.</p>
+<p>Eikonal equation. Multiple values.</p>
+</td>
+<td>(<a href="MIT18_306f09_lec15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Continue with Hamilton-Jacobi equation. Characteristics, strips, and Monge cones. Eikonal as characteristic equation for wave equation in 2-D and 3-D.</td>
+<td>(<a href="MIT18_306f09_lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Eikonal. Focusing and caustics. Description of the caustic.</p>
+<p>Breakdown of approximation. Derivation of amplitude equation.</p>
+</td>
+<td>(<a href="MIT18_306f09_lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Eikonal. Amplitude and curvature along rays. Behavior near caustic. Caustic expansion.</p>
+<p>WKBJ review. Turning points. Conneccion formulas and Airy functions. Matching.</p>
+</td>
+<td>(<a href="MIT18_306f09_lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>First order 1-D systems of equations. Classification.</p>
+<p>Hyperbolic systems and characteristics. Domains of dependence and influence. Examples.</p>
+</td>
+<td>(<a href="MIT18_306f09_lec19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Examples of first order 1-D hypebolic systems. Linear acoustics. Wave equation. D'Alembert solution. Simple waves. Wave breaking. Shocks and shock conditions. Examples</td>
+<td>(<a href="MIT18_306f09_lec20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Gas dynamics in 1-D. Characteristics, simple waves, Riemann Invariants, rarefaction waves, shocks and shock conditions. Riemann problem. Generalizations to N by N systems.</td>
+<td>(<a href="MIT18_306f09_lec21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Continue with Lecture 21.</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Linear equations. Superposition. Normal modes and impulse problems (Green's functions). Heat equation in 1-D examples: various initial and boundary value problems. Method of images.</td>
+<td>(<a href="MIT18_306f09_lec23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Green's functions for signaling and source terms.</p>
+<p>Heat equation examples. Generalized functions.</p>
+</td>
+<td>(<a href="MIT18_306f09_lec24.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Generalized functions.</p>
+<p>Green's functions for heat equation in multi-D.</p>
+</td>
+<td>(<a href="MIT18_306f09_lec25.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Green's function. Poisson equation. Stokes equation.</p>
+<p>Example: stokes drag on a sphere.</p>
+</td>
+<td>(<a href="MIT18_306f09_lec26.pdf">PDF</a></td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
+
+
+
+
+
+
+
 
