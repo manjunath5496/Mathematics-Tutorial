@@ -43,7 +43,7 @@
   <li class="title"><a href="#course42">Numerical Methods for Partial Differential Equations</a></li>
    <li class="title"><a href="#course43">Infinite Random Matrix Theory</a></li>
     <li class="title"><a href="#course44">Nonlinear Dynamics II: Continuum Systems</a></li>
- 
+     <li class="title"><a href="#course45">Interfacial Phenomena</a></li>
 </ul>
 </br>
 
@@ -4472,4 +4472,76 @@
 </br>
 <p>Complete lecture notes:&nbsp;<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_354JS15_lectureNotes.pdf" data-smd-id="s104">Nonlinear Dynamics II: Continuum Systems, Spring 2015 (PDF - 2.3MB)</a></p>
 </br>
+<h2 id ="course45">Interfacial Phenomena </h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_357F10_Lecture1.pdf">Introduction, Notation (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_357F10_Lecture2.pdf">Definition and Scaling of Surface Tension (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_357F10_Lecture3.pdf">Wetting (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_357F10_Lecture4.pdf">Young's Law with Applications (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_357F10_Lecture5.pdf">Stress Boundary Conditions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_357F10_Lecture6.pdf">More on Fluid Statics (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_357F10_Lecture7.pdf">Spinning, Tumbling and Rolling Drops (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_357F10_Lecture8.pdf">Capillary Rise (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_357F10_Lecture9.pdf">Marangoni Flows (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_357F10_Lecture10.pdf">Marangoni Flows II (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_357F10_Lecture11.pdf">Fluid Jets (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_357F10_Lecture12.pdf">Instability Dynamics (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_357F10_Lecture13.pdf">Fluid Sheets (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_357F10_Lecture14.pdf">Instability of Superposed Fluids (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_357F10_Lecture15.pdf">Contact Angle Hysteresis, Wetting of Textured Solids (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_357F10_Lecture16.pdf">More Forced Wetting (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_357F10_Lecture17.pdf">Coating: Dynamic Contact Lines (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_357F10_Lecture18.pdf">Spreading (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_357F10_Lecture19.pdf">Water Waves (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_357F10_lec_all.pdf">All lecture notes in one file (PDF - 4.3MB)</a></p>
+</br>
+
+
+
+
+
+
 
