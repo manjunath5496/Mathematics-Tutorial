@@ -39,7 +39,7 @@
     <li class="title"><a href="#course38">Topics in Applied Mathematics: Waves and Imaging</a></li>
  <li class="title"><a href="#course39">Wavelets, Filter Banks and Applications</a></li>
   <li class="title"><a href="#course40">Introduction to Numerical Analysis</a></li>
-   <li class="title"><a href="#course41">The Early Universe</a></li>
+   <li class="title"><a href="#course41">Introduction to Numerical Methods</a></li>
 </ul>
 </br>
 
@@ -4174,4 +4174,39 @@
 </tbody>
 </table>
 </br>
+<h2 id ="course41">Introduction to Numerical Methods</h2>
+
+
+<ul>
+<li>Lecture 1 handout:&nbsp;<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_335JS19_lec1.pdf">Square Roots via Newton's Method (PDF)</a></li>
+
+</ul>
+<ul>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_335JS19_pset1.pdf">Problem set 1 (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_335JS19_pset1sol.pdf">Problem set 1 solutions (PDF)</a></li>
+</ul>
+<h2 id="lec2" class="subhead">&nbsp;</h2>
+<ul>
+<li>Lecture 2 handout:&nbsp;<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_335JS19_lec2.pdf">Floating-Point Arithmetic, the IEEE Standard (PDF)</a>&nbsp;(Courtesy of Per-Olof Persson. Used with permission.)</li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_335JS19_lec2_supp.pdf">Some Myths about Floating-Point Arithmetic (PDF)</a></li>
+</ul>
+<ul>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/10.1.1.22.6768.pdf">What Every Computer Scientist Should Know About Floating Point Arithmetic</a>&nbsp;by David Goldberg.</li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/JAVAhurt.pdf"><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." />How Java&rsquo;s Floating-Point Hurts Everyone Everywhere (PDF)</a>&nbsp;by William Kahan and Joseph Darcy. This article contains a nice discussion of floating-point myths and misconceptions.</li>
+<li>Read &ldquo;Lecture 13&rdquo; in the textbook&nbsp;<em>Numerical Linear Algebra</em>.</li>
+</ul>
+<ul>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Julia-cheatsheet.pdf">Julia &amp; IJulia Cheat-Sheet (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Julia-intro.pdf">Introduction to Julia (PDF)</a></li>
+<li><a href="https://github.com/mitmath/julia-mit/blob/master/README.md">Julia for Numerical Computation in MIT Courses</a></li>
+</ul>
+
+</br>
+
+
+
+
+
+
+
 
