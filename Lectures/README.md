@@ -37,7 +37,7 @@
     <li class="title"><a href="#course36">Combinatorial Theory: Hyperplane Arrangements</a></li>
      <li class="title"><a href="#course37">Topics in Algebraic Combinatorics</a></li>
     <li class="title"><a href="#course38">Topics in Applied Mathematics: Waves and Imaging</a></li>
- <li class="title"><a href="#course39">Applied Geometric Algebra</a></li>
+ <li class="title"><a href="#course39">Wavelets, Filter Banks and Applications</a></li>
   <li class="title"><a href="#course40">Reducing the Danger of Nuclear Weapons and Proliferation</a></li>
    <li class="title"><a href="#course41">The Early Universe</a></li>
 </ul>
@@ -4038,3 +4038,116 @@
 <li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/MIT18_325F15_Appendix_C.pdf">Appendix C: Stationary Phase (PDF)</a></li>
 </ul>
 </br>
+<h2 id ="course39">Wavelets, Filter Banks and Applications</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Discrete-time Filters: Convolution; Fourier Transform; Lowpass and Highpass Filters</td>
+<td>Slides 1 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Slides1.pdf">PDF</a>)</td>
+<td>Handout 1 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Handout1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Sampling Rate Change Operations: Upsampling and Downsampling; Fractional Sampling; Interpolation</td>
+<td>Slides 2 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Slides2.pdf">PDF</a>)</td>
+<td>Handout 2 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Handout2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Filter Banks: Time Domain (Haar example) and Frequency Domain; Conditions for Alias Cancellation and no Distortion</td>
+<td>Slides 3 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Slides3.pdf">PDF</a>)</td>
+<td>Handout 3 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Handout3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Filter Banks (contd.): Perfect Reconstruction; Halfband Filters and Possible Factorizations</td>
+<td>Slides 4 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Slides4.pdf">PDF</a>)</td>
+<td>Handout 4 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Handout4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Modulation and Polyphase Representations: Noble Identities; Block Toeplitz Matrices and Block z-transforms; Polyphase Examples</td>
+<td>Slides 5 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Slides5.pdf">PDF</a>)</td>
+<td>Handout 5 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Handout5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>MATLAB<sup>&reg;</sup>&nbsp;Wavelet Toolbox</td>
+<td>Slides 6 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Slides6.pdf">PDF</a>)</td>
+<td>Handout 6 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Handout6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Orthogonal Filter Banks: Paraunitary Matrices; Orthogonality Condition (Condition O) in the Time Domain, Modulation Domain and Polyphase Domain</td>
+<td>Slides 7 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Slides7.pdf">PDF</a>)</td>
+<td>Handout 7 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Handout7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Maxflat Filters: Daubechies and Meyer Formulas. Spectral Factorization</td>
+<td>Slides 8 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Slides8.pdf">PDF</a>)</td>
+<td>Handout 8 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Handout8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Multiresolution Analysis (MRA): Requirements for MRA; Nested Spaces and Complementary Spaces; Scaling Functions and Wavelets</td>
+<td>Slides 9 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Slides9.pdf">PDF</a>)</td>
+<td>Handout 9 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Handout9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Refinement Equation: Iterative and Recursive Solution Techniques; Infinite Product Formula; Filter Bank Approach for Computing Scaling Functions and Wavelets</td>
+<td>Slides 10 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Slides10.pdf">PDF</a>)</td>
+<td>Handout 10 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Handout10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Orthogonal Wavelet Bases: Connection to Orthogonal Filters; Orthogonality in the Frequency Domain. Biorthogonal Wavelet Bases</td>
+<td>Slides 11 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Slides11.pdf">PDF</a>)</td>
+<td>Handout 11 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Handout11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Mallat Pyramid Algorithm Sec</td>
+<td>Slides 12 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Slides12.pdf">PDF</a>)</td>
+<td>Handout 12 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Handout12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Accuracy of Wavelet Approximations (Condition A); Vanishing Moments; Polynomial Cancellation in Filter Banks</td>
+<td>Slides 13 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Slides13.pdf">PDF</a>)</td>
+<td>Handout 13 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Handout13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Smoothness of Wavelet Bases: Convergence of the Cascade Algorithm (Condition E); Splines. Bases vs. Frames</td>
+<td>Slides 14 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Slides14.pdf">PDF</a>)</td>
+<td>Handout 14 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Handout14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Signal and Image Processing: Finite Length Signals; Boundary Filters and Boundary Wavelets; Wavelet Compression Algorithms</td>
+<td>Slides 15 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/slides15.pdf">PDF</a>)</td>
+<td>Handout 15 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Handout15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Lifting: Ladder Structure for Filter Banks; Factorization of Polyphase Matrix into Lifting Steps; Lifting Form of Refinement Equation Sec</td>
+<td>Slides 16 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Slides16.pdf">PDF</a>)</td>
+<td>Handout 16 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Handout16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Wavelets and Subdivision: Nonuniform Grids; Multiresolution for Triangular Meshes; Representation and Compression of Surfaces</td>
+<td>Slides 17 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Slides17.pdf">PDF</a>)</td>
+<td>Handout 17 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Handout17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Wavelets and Subdivision (contd.): Nonuniform Grids; Multiresolution for Triangular Meshes; Representation and Compression of Surfaces</td>
+<td>Slides 18 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Slides18.pdf">PDF</a>)</td>
+<td>Handout 18 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Handout18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Numerical Solution of PDEs: Galerkin Approximation; Wavelet Integrals (Projection Coefficients, Moments and Connection Coefficients); Convergence. Subdivision Wavelets for Integral Equations. Compression and Convergence Estimates</td>
+<td>Slides 19 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Slides19.pdf">PDF</a>)</td>
+<td>Handout 19 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Handout19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>M-band Wavelets: DFT Filter Banks and Cosine Modulated Filter Banks. Multiwavelets</td>
+<td>Slides 20 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Slides20.pdf">PDF</a>)</td>
+<td>Handout 20 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/1/Handout20.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
+
+
