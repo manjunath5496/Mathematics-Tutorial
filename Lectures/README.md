@@ -6,7 +6,7 @@
    <li class="title"><a href="#course5">Multivariable Calculus with Theory </a></li>
   <li class="title"><a href="#course6">Differential Equations</a></li>
    <li class="title"><a href="#course7">Honors Differential Equations </a></li>
-    <li class="title"><a href="#course8">Statistical Physics I </a></li>
+    <li class="title"><a href="#course8">Complex Variables with Applications </a></li>
  <li class="title"><a href="#course9">Quantum Physics II </a></li>
   <li class="title"><a href="#course10">Quantum Physics III </a></li>
   <li class="title"><a href="#course11">Electromagnetism II </a></li>
@@ -1171,7 +1171,141 @@
 
 </br>
 
+<h2 id ="course8">Complex Variables with Applications </h2>
 
 
+<table class="tablewidth100" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>
+<p><a href="MIT18_04S18_topic0.pdf">Course Introduction (PDF)</a></p>
+<p><a href="MIT18_04S18_topic1.pdf">Topic 1: Complex Algebra and the Complex Plane (PDF)</a>&nbsp;</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="MIT18_04S18_topic1.pdf">Topic 1: Complex Algebra and the Complex Plane (PDF)</a>&nbsp;</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="MIT18_04S18_topic2.pdf">Topic 2: Analytic Functions (PDF)</a>&nbsp;</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="MIT18_04S18_topic2.pdf">Topic 2: Analytic Functions (PDF)</a>&nbsp;</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="MIT18_04S18_1802Review.pdf">Review of&nbsp;<em>18.02 Multivariable Calculus</em>&nbsp;(PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="MIT18_04S18_topic3.pdf">Topic 3: Cauchy's Theorem (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="MIT18_04S18_topic4.pdf">Topic 4: Cauchy Integral Formula (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="MIT18_04S18_topic5.pdf">Topic 5: Harmonic Functions (PDF)</a>&nbsp;</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>Review for Exam 1</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="MIT18_04S18_topic5.pdf">Topic 5: Harmonic Functions (PDF)</a>&nbsp;</p>
+<p><a href="MIT18_04S18_topic6.pdf">Topic 6: Two Dimensional Hydrodynamics and Complex Potentials (PDF)</a>&nbsp;</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="MIT18_04S18_topic6.pdf">Topic 6: Two Dimensional Hydrodynamics and Complex Potentials (PDF)</a>&nbsp;</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="MIT18_04S18_topic7.pdf">Topic 7: Taylor and Laurent Series (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="MIT18_04S18_topic8.pdf">Topic 8: Residue Theorem (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="MIT18_04S18_topic9.pdf">Topic 9: Definite Integrals Using the Residue Theorem (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="MIT18_04S18_topic10.pdf">Topic 10: Conformal Transformations (PDF)</a>&nbsp;</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Review for Exam 2</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="MIT18_04S18_topic10.pdf">Topic 10: Conformal Transformations (PDF)</a>&nbsp;</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="MIT18_04S18_topic10.pdf">Topic 10: Conformal Transformations (PDF)</a>&nbsp;</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="MIT18_04S18_topic11.pdf">Topic 11: Argument Principle (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="MIT18_04S18_topic12.pdf">Topic 12: Laplace Transform (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="MIT18_04S18_topic13.pdf">Topic 13: Analytic Continuation and the Gamma Function (PDF)</a></p>
+</td>
+</tr>
+</tbody>
+</table>
 
+</br>
+
+<p> <strong>Exams and solutions</strong> </p>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><a href="MIT18_04S18_pex1.pdf">Practice Exam 1 (PDF)</a></td>
+<td><a href="MIT18_04S18_pex1-qa.pdf">Practice Exam 1 Solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT18_04S18_pex2.pdf">Practice Exam 2 (PDF)</a></td>
+<td><a href="MIT18_04S18_pex2-qa.pdf">Practice Exam 2 Solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT18_04S18_practice-final.pdf">Practice Final Exam (PDF)</a></td>
+<td><a href="MIT18_04S18_practice-final-qa.pdf">Practice Final Exam Solutions (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+
+</br>
 
