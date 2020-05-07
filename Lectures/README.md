@@ -23,7 +23,7 @@
     <li class="title"><a href="#course22">Introduction to Partial Differential Equations</a></li>
      <li class="title"><a href="#course23">Differential Analysis</a></li>
     <li class="title"><a href="#course24">Differential Analysis II: Partial Differential Equations and Fourier Analysis</a></li>
-   <li class="title"><a href="#course25">Cosmology</a></li>
+   <li class="title"><a href="#course25">Theory of Probability</a></li>
    <li class="title"><a href="#course26">String Theory and Holographic Duality</a></li>
    <li class="title"><a href="#course27">Effective Field Theory</a></li>
     <li class="title"><a href="#course28">Strongly Correlated Systems in Condensed Matter Physics</a></li>
@@ -3211,6 +3211,118 @@
 
 </br>
 
+<h2 id ="course25">Theory of Probability</h2>
 
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_175S14_Lecture1.pdf">Probability Spaces and Sigma-Algebras (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_175S14_Lecture2.pdf">Extension Theorems: A Tool for Constructing Measures (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_175S14_Lecture3.pdf">Random Variables and Distributions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_175S14_Lecture4.pdf">Integration (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_175S14_Lecture5.pdf">More Integration and Expectation (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_175S14_Lecture6.pdf">Laws of Large Numbers and Independence (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_175S14_Lecture7.pdf">Sums of Random Variables (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_175S14_Lecture8.pdf">Weak Laws and Moment-Generating and Characteristic Functions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_175S14_Lecture9.pdf">Borel-Cantelli and the Strong Law of Large Numbers (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_175S14_Lecture10.pdf">Zero-One Laws and Maximal Inequalities (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_175S14_Lecture11.pdf">Independent Sums and Large Deviations (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_175S14_Lecture12.pdf">DeMoivre-Laplace and Weak Convergence (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_175S14_Lecture13.pdf">Large Deviations (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_175S14_Lecture14.pdf">Weak Convergence and Characteristic Functions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_175S14_Lecture15.pdf">Characteristic Functions and Central Limit Theorem (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_175S14_Lecture16.pdf">Central Limit Theorem Variants (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_175S14_Lecture17.pdf">Poisson Random Variables (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_175S14_Lecture18.pdf">Stable Random Variables, Higher Dimensional Limit Theorems (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_175S14_Lecture20.pdf">Infinite Divisibility and Levy Processes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_175S14_Lecture23.pdf">Random Walks (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_175S14_Lecture25.pdf">Reflections and Martingales (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_175S14_Lecture26.pdf">More on Martingales (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_175S14_Lecture27.pdf">More on Martingales (cont.) (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_175S14_Lecture28.pdf">Even More on Martingales (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_175S14_Lecture29.pdf">Still More Martingales (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_175S14_Lecture30.pdf">Markov Chains (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_175S14_Lecture31.pdf">More Markov Chains (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_175S14_Lecture32.pdf">Additional Material on Markov Chains (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_175S14_Lecture33.pdf">Ergodic Theory (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_175S14_Lecture34.pdf">More Ergodic Theory (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_175S14_Lecture35.pdf">Ergodic Theory (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_175S14_Lecture36.pdf">Brownian Motion (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_175S14_Lecture37.pdf">More Brownian Motion (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_175S14_Lecture38.pdf">Even More Brownian Motion (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_175S14_Lecture39.pdf">Last Lecture (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
 
 
