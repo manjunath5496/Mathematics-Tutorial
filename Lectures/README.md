@@ -28,7 +28,7 @@
    <li class="title"><a href="#course27">Algebraic Combinatorics</a></li>
     <li class="title"><a href="#course28">Probabilistic Method in Combinatorics</a></li>
  <li class="title"><a href="#course29">Geometry and Quantum Field Theory</a></li>
-  <li class="title"><a href="#course30">Introduction to Nuclear and Particle Physics</a></li>
+  <li class="title"><a href="#course30">Linear Partial Differential Equations</a></li>
    <li class="title"><a href="#course31">Introduction to Plasma Physics I</a></li>
     <li class="title"><a href="#course32">Relativistic Quantum Field Theory I</a></li>
      <li class="title"><a href="#course33">Relativistic Quantum Field Theory II</a></li>
@@ -3502,7 +3502,105 @@
 </ul>
 </br>
 
+<h2 id ="course30">Linear Partial Differential Equations</h2>
 
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>1D Heat Equation (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/heateqni.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>1D Wave Equation (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/waveeqni.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Quasi Linear PDEs (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/quasi.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The Heat and Wave Equations in 2D and 3D (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/pde3d.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Infinite Domain Problems and the Fourier Transform (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/fourtran.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Green's Functions (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/greensfn.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p> <strong>Assignments: problem sets with solutions</strong> </p>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>
+<p>Problem Set 1 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/probhei.pdf">PDF</a>)</p>
+<p>ps1.m (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/ps1.m">M</a>)</p>
+</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/probheisolns.pdf">PDF - 1.2 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Problem Set 2 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/probheii.pdf">PDF</a>)</p>
+<p>ps2.m (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/ps2.m">M</a>)</p>
+</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/probheiisolns.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Problem Set 3 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/probwave1.pdf">PDF</a>)</p>
+<p>ps3.m (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/ps3.m">M</a>)</p>
+</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/probwave1solns.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Problem Set 4 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/probquasi.pdf">PDF</a>)</p>
+<p>ps4.m (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/ps4.m">M</a>)</p>
+</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/probquasisolns.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Problem Set 5 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/probpde3d.pdf">PDF</a>)</p>
+<p>ps5.m (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/ps5.m">M</a>)</p>
+</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/probpde3dsolns.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Problem Set 6 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/probinf.pdf">PDF</a>)</p>
+<p>ps6.m (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/ps6.m">M</a>)</p>
+</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/probinfsolns.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<p> <strong>Exams and solutions</strong> </p>
+<table summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>
+<p>Practice Test 1 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/preptest1.pdf">PDF</a>)</p>
+<p>Practice Test 1 Solution (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/preptest1solns.pdf">PDF</a>)</p>
+</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/test1.pdf">PDF</a>)</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/test1solns.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>&nbsp;</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/test2.pdf">PDF</a>)</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/test2solns.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Preparation for the Final Exam (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/finalprep.pdf">PDF</a>)</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/final.pdf">PDF</a>)</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/finalsoln.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
 
 
 
