@@ -1499,4 +1499,54 @@
 </tbody>
 </table>
 </br>
+<p> <strong>Exams and solutions</strong> </p>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><a href="MIT18_05S14_Prac_Exam1a.pdf">Exam 1 Practice Questions I (PDF)</a></td>
+<td><a href="MIT18_05S14_Prac_Exa1a_Sol.pdf">Solutions to Exam 1 Practice Questions I (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT18_05S14_Prac_Exa1b.pdf">Exam 1 Practice Questions II (PDF)</a></td>
+<td><a href="MIT18_05S14_Prac_Exa1b_Sol.pdf">Solutions to Exam 1 Practice Questions II (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT18_05S14_Prac_Exa1_Long.pdf"><span class="nobr">Exam 1 Practice Questions: Long List (PDF)</span></a></td>
+<td><a href="MIT18_05S14_Pr_Ex1_Lng_Sol.pdf"><span class="nobr">Solutions to Exam 1 Practice Questions: Long List (PDF)</span></a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT18_05S14_Exam1.pdf">Exam 1 (PDF)</a></td>
+<td><a href="MIT18_05S14_Exam1_Sol.pdf">Solutions to Exam 1 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT18_05S14_Prac_Exam2.pdf">Exam 2 Practice Questions (PDF)</a></td>
+<td><a href="MIT18_05S14_Prac_Exa2_Sol.pdf">Solutions to Exam 2 Practice Questions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT18_05S14_Exam2.pdf">Exam 2 (PDF)</a></td>
+<td><a href="MIT18_05S14_Exam2_Sol.pdf">Solutions to Exam 2 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="MIT18_05S14_Prac_Fnal_Exm.pdf"><span class="nobr">Final Exam Practice Questions (PDF)</span></a></p>
+</td>
+<td><a href="MIT18_05S14_PraFnl_Exm_Sol.pdf"><span class="nobr">Solutions to Final Exam</span><span class="nobr">&nbsp;Practice Questions (PDF)</span></a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT18_05S14_Exam_Final.pdf">Final Exam (PDF)</a></td>
+<td><a href="MIT18_05S14_Exam_Final_Sol.pdf">Solutions to Final Exam (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
+
+
+
+
 
