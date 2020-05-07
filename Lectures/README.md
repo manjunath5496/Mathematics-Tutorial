@@ -1852,7 +1852,7 @@
 <td><a href="Penh4mv5gAg.pdf">2.9 Coloring &amp; Connectivity</a></td>
 <td>
 <p><a href="MIT6_042JS15_Coloring.pdf">Coloring (PDF)</a></p>
-<p><a href="MIT6_042JS15_Connectivity.pdf">Connectivity (PDF)</a></p>
+<p><a href="MIT6_042JS15_Connectivityk.pdf">Connectivity (PDF)</a></p>
 <p><a href="MIT6_042JS15_connectivity.pdf">k-Connectivity (PDF)</a></p>
 </td>
 </tr>
