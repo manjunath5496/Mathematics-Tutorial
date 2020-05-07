@@ -5,7 +5,7 @@
   <li class="title"><a href="#course4">Calculus of Several Variables </a></li>
    <li class="title"><a href="#course5">Multivariable Calculus with Theory </a></li>
   <li class="title"><a href="#course6">Differential Equations</a></li>
-   <li class="title"><a href="#course7">Quantum Physics I </a></li>
+   <li class="title"><a href="#course7">Honors Differential Equations </a></li>
     <li class="title"><a href="#course8">Statistical Physics I </a></li>
  <li class="title"><a href="#course9">Quantum Physics II </a></li>
   <li class="title"><a href="#course10">Quantum Physics III </a></li>
@@ -980,3 +980,144 @@
 <li><a href="MIT18_03SCF11_ex1s.pdf">Exam 1 Solutions (PDF)</a></li>
 </ul>
 </br>
+<h2 id ="course7">Honors Differential Equations </h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="gray-row">
+<td>Terminology and implicit solutions</td>
+<td>(<a href="MIT18_034s09_lec0.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td colspan="2"><strong>Unit I: First-order differential equations</strong></td>
+</tr>
+<tr class="gray-row">
+<td>Integration and solutions</td>
+<td>(<a href="MIT18_034s09_lec01.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td>Fundamental principles</td>
+<td>(<a href="MIT18_034s09_lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td>First-order linear equations</td>
+<td>(<a href="MIT18_034s09_lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td>Separable equations</td>
+<td>(<a href="MIT18_034s09_lec04.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td>Linear fractional equations</td>
+<td>(<a href="MIT18_034s09_lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td colspan="2"><strong>Unit II: Second-order linear equations</strong></td>
+</tr>
+<tr class="gray-row">
+<td>Second-order linear equations</td>
+<td>(<a href="MIT18_034s09_lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td>Mechanical oscillation</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_034s09_lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td>Uniqueness and the wronskian</td>
+<td>(<a href="MIT18_034s09_lec08.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td>Separation and comparison theorems</td>
+<td>(<a href="MIT18_034s09_lec09.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td>The maximum principle</td>
+<td>(<a href="MIT18_034s09_lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td colspan="2"><strong>Unit III: Higher-order linear equations</strong></td>
+</tr>
+<tr class="gray-row">
+<td>Higher-order linear equations</td>
+<td>(<a href="MIT18_034s09_lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td>Solution bases</td>
+<td>(<a href="MIT18_034s09_lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td>Inhomogeneous equations</td>
+<td>(<a href="MIT18_034s09_lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td>Stability</td>
+<td>(<a href="MIT18_034s09_lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td colspan="2"><strong>Unit V: The Laplace transform</strong></td>
+</tr>
+<tr class="white-row">
+<td>Laplace transform</td>
+<td>(<a href="MIT18_034s09_lec19.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td>Transform and differential equations: generalized solutions, application to ODEs</td>
+<td>(<a href="MIT18_034s09_lec20.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td>Step functions</td>
+<td>(<a href="MIT18_034s09_lec21.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td>Convolution</td>
+<td>(<a href="MIT18_034s09_lec22.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td>The dirac distribution</td>
+<td>(<a href="MIT18_034s09_lec23.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td>The transfer function and the pole diagram</td>
+<td>(<a href="MIT18_034s09_lec24.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td colspan="2"><strong>Unit VI: The linear systems</strong></td>
+</tr>
+<tr class="gray-row">
+<td>Linear systems</td>
+<td>(<a href="MIT18_034s09_lec25.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td>Eigenvalues&nbsp;and eigenvectors</td>
+<td>(<a href="MIT18_034s09_lec26.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td>Complex solutions and the fundamental matrix</td>
+<td>(<a href="MIT18_034s09_lec27.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td>Repeated eigenvalues and the matrix exponential</td>
+<td>(<a href="MIT18_034s09_lec28.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td>Phase planes I</td>
+<td>(<a href="MIT18_034s09_lec29.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td>Phase planes II</td>
+<td>(<a href="MIT18_034s09_lec30.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td>The Poincare-Bendixson theorem</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT18_034s09_lec36_lc.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
+
+
+
