@@ -12,7 +12,7 @@
   <li class="title"><a href="#course11">Mathematics for Computer Science</a></li>
    <li class="title"><a href="#course12">Linear Algebra - Communications Intensive </a></li>
   <li class="title"><a href="#course13">Advanced Calculus for Engineers </a></li>
-   <li class="title"><a href="#course14">The Physics of Energy</a></li>
+   <li class="title"><a href="#course14">Mathematical Methods for Engineers II</a></li>
   <li class="title"><a href="#course15">String Theory</a></li>
    <li class="title"><a href="#course16">Introduction to Computational Neuroscience</a></li>
    <li class="title"><a href="#course17">Electromagnetic Theory</a></li>
@@ -2206,7 +2206,11 @@
 </table>
 </br>
 
+<h2 id ="course14">Mathematical Methods for Engineers II </h2>
 
-
-
-
+<p>Experimental Analysis of the Two Dimensional Laplacian Matrix (K2D): Applications and Reordering Algorithms (<a href="project1domnguez.pdf">PDF - 1.3 MB</a>)</p>
+<h2 class="subhead">&nbsp;</h2>
+<p>Overview of Multi-grid Project (<a href="overview.pdf">PDF</a>)</p>
+<p>Project File: The Fundamentals and Advantages of Multigrid Techniques (<a href="josephkovacpro.pdf">PDF</a>)</p>
+<p>Matlab_Files_for_Project.zip (<a href="Matlab_Files_for_Project.zip">ZIP</a>) (The ZIP file contains: 10 .m files.)</p>
+</br>
