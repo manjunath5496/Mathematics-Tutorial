@@ -45,6 +45,7 @@
     <li class="title"><a href="#course44">Nonlinear Dynamics II: Continuum Systems</a></li>
      <li class="title"><a href="#course45">Interfacial Phenomena</a></li>
       <li class="title"><a href="#course46">Introduction to Modeling and Simulation</a></li>
+ <li class="title"><a href="#course47">Random Walks and Diffusion</a></li>
 </ul>
 </br>
 
@@ -4614,5 +4615,376 @@
 </tbody>
 </table>
 </br>
+<h2 id ="course47">Random Walks and Diffusion</h2>
+
+
+<table summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>
+<p>Overview</p>
+<p>History (Pearson, Rayleigh, Einstein, Bachelier)</p>
+<p>Normal vs. Anomalous Diffusion</p>
+<p>Mechanisms for Anomalous Diffusion</p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p>2005 Lecture 1 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lec01.pdf">PDF</a>)</p>
+<p>Hughes</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td colspan="3"><strong>I. Normal Diffusion</strong></td>
+</tr>
+<tr class="row">
+<td colspan="3"><strong>I.A. Linear Diffusion</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">Moments, Cumulants, and Scaling</h3>
+<p>Markov Chain for the Position (in d Dimensions), Exact Solution by Fourier Transform, Moment and Cumulant Tensors, Additivity of Cumulants, "Square-root Scaling" of Normal Diffusion</p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p>2005 Lecture 2 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lec02.pdf">PDF</a>)</p>
+<p>Hughes</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">The Central Limit Theorem and the Diffusion Equation</h3>
+<p>Multi-dimensional CLT for Ssums of IID Random Vectors</p>
+<p>Continuum Derivation Involving the Diffusion Equation</p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p>2005 Lecture 1 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lec01.pdf">PDF</a>)</p>
+<p>2005 Lecture 3 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lec03.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">Asymptotic Shape of the Distribution</h3>
+<p>Berry-Esseen Theorem</p>
+<p>Asymptotic Analysis Leading to Edgeworth Expansions, Governing Convergence to the CLT (in one Dimension), and more Generally Gram-Charlier Expansions for Random Walks</p>
+<p>Width of the Central Region when Third and Fourth Moments Exist</p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p>2005 Lecture 3 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lec03.pdf">PDF</a>)</p>
+<p>2005 Lecture 4 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lec04.pdf">PDF</a>)</p>
+<p>Hughes</p>
+<p>Feller</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Globally Valid Asymptotics</h3>
+<p>Method of Steepest Descent (Saddle-Point Method) for Asymptotic Approximation of Integrals</p>
+<p>Application to Random Walks</p>
+<p>Example: Asymptotics of the Bernoulli Random Walk</p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p>2005 Lecture 6 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lec06.pdf">PDF</a>)</p>
+<p>2005 Lecture 7 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lec07.pdf">PDF</a>)</p>
+<p>Hughes</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">Power-law "Fat Tails"</h3>
+<p>Power-law Tails, Diverging Moments and Singular Characteristic Functions</p>
+<p>Additivity of Tail Amplitudes</p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p>2005 Lecture 5 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lec05.pdf">PDF</a>)</p>
+<p>2005 Lecture 6 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lec06.pdf">PDF</a>)</p>
+<p>Bouchaud and Potters</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Asymptotics with Fat Tails</h3>
+<p>Corrections to the CLT for Power-law Tails (but Finite Variance)</p>
+<p>Parabolic Cylinder Functions and Dawson's Integral</p>
+<p>A Numerical Example Showing Global Accuracy and Fast Convergence of the Asymptotic Approximation</p>
+</td>
+<td>
+<p>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lec07_06.pdf">PDF</a>)&nbsp;</p>
+<p>Numerical Example (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/dawson3.pdf">PDF</a>)&nbsp;</p>
+</td>
+<td>2005 Lecture 5 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">From Random Walks to Diffusion</h3>
+<p>Examples of Random Walks Modeled by Diffusion Equations</p>
+<ul>
+<li>Flagellar Bacteria</li>
+</ul>
+<p>Run and Tumble Motion, Chemotaxis</p>
+<ul>
+<li>Financial Time Series</li>
+</ul>
+<p>Additive Versus Multiplicative Processes</p>
+</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lec08_06.pdf">PDF</a>)&nbsp;</td>
+<td>
+<p>2005 Lecture 10 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lec10.pdf">PDF</a>)</p>
+<p>Bouchaud and Potters</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Discrete Versus Continuous Stochastic Processes</h3>
+<p>Corrections to the Diffusion Equation Approximating Discrete Random Walks with IID Steps</p>
+<p>Fat Tails and Riesz Fractional Derivatives</p>
+<p>Stochastic Differentials, Wiener Process</p>
+</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lec09_06.pdf">PDF</a>)&nbsp;</td>
+<td>
+<p>2005 Lecture 8 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lec08.pdf">PDF</a>)</p>
+<p>2005 Lecture 9 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lec09.pdf">PDF</a>)</p>
+<p>2005 Lecture 13 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lec13.pdf">PDF</a>)</p>
+<p>Risken</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">Weakly Non-identical Steps</h3>
+<p>Chapman-Kolmogorov Equation, Kramers-Moyall Expansion, Fokker-Planck Equation. Probability Flux</p>
+<p>Modified Kramers-Moyall Cumulant Expansion for Identical Steps</p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p>2005 Lecture 8 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lec08.pdf">PDF</a>)</p>
+<p>2005 Lecture 9 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lec09.pdf">PDF</a>)</p>
+<p>2005 Lecture 13 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lec13.pdf">PDF</a>)</p>
+<p>Risken</p>
+</td>
+</tr>
+<tr class="row">
+<td colspan="3"><strong>I.B. Nonlinear Diffusion</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">Nonlinear Drift</h3>
+<p>Interacting Random Walkers, Concentration-dependent Drift</p>
+<p>Nonlinear Waves in Traffic Flow, Characteristics, Shocks, Burgers' Equation</p>
+<p>Surface Growth, Kardar-Parisi-Zhang Equation</p>
+</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lec11_06.pdf">PDF</a>)&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Nonlinear Diffusion</h3>
+<p>Cole-Hopf Transformation, General Solution of Burgers Equation</p>
+<p>Concentration-dependent Diffusion, Chemical Potential. Rechargeable Batteries, Steric Effects</p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p>Problem set 3 solutions</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td colspan="3"><strong>I.C. First Passage and Exploration</strong></td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Return Probability on a Lattice</h3>
+<p>Probability Generating Functions on the Integers, First Passage and Return on a Lattice, Polya's Theorem</p>
+</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lec13_06.pdf">PDF</a>)&nbsp;</td>
+<td>
+<p>2005 Lecture 17 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lec17.pdf">PDF</a>)</p>
+<p>2005 Lecture 18 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lec18.pdf">PDF</a>)</p>
+<p>Hughes Redne</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">The Arcsine Distribution</h3>
+<p>Reflection Principle and Path Counting for Lattice Random Walks, Derivation of the Discrete Arcsine Distribution for the Fraction of Time Spent on One Side of the Origin, Continuum Limit</p>
+</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lec14_06.pdf">PDF</a>)&nbsp;</td>
+<td>Feller</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">First Passage in the Continuum Limit</h3>
+<p>General Formulation in One Dimension</p>
+<p>Smirnov Density</p>
+<p>Minimum First Passage Time of a Set of N Random Walkers</p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p>2005 Lecture 16 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lec16.pdf">PDF</a>)</p>
+<p>Exam 2 (problem 2)</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">First Passage in Arbitrary Geometries</h3>
+<p>General Formulation in Higher Dimensions, Moments of First Passage Time, Eventual Hitting Probability, Electrostatic Analogy for Diffusion, First Passage to a Sphere</p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p>2005 Lecture 18 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lec18.pdf">PDF</a>)</p>
+<p>Redner</p>
+<p>Risken</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Conformal Invariance</h3>
+<p>Conformal Transformations (Analytic Functions of the Plane, Stereographic Projection from the Plane to a Sphere,...), Conformally Invariant Transport Processes (Simple Diffusion, Advection-diffusion in a Potential Flow,...), Conformal Invariance of the Hitting Probability</p>
+</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lec17_06.pdf">PDF</a>)&nbsp;</td>
+<td>
+<p>2003 Lecture 23 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lecture23.pdf">PDF</a>)</p>
+<p>An&nbsp;<a href="http://dx.doi.org/10.1098/rspa.2003.1218" target="_self">Article</a></p>
+<p>Redner</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">Hitting Probabilities in Two Dimensions</h3>
+<p>Potential Theory using Complex Analysis, Mobius Transformations, First Passage to a Line</p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p>2003 Lecture 23 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lecture23.pdf">PDF</a>)</p>
+<p>Redner</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Applications of Conformal Mapping</h3>
+<p>First Passage to a Circle, Wedge/Corner, Parabola. Continuous Laplacian Growth, Polubarinova-Galin Equation, Saffman-Taylor Fingers, Finite-time Singularities</p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p>2003 Lecture 23 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lecture23.pdf">PDF</a>)</p>
+<p>2003 Lecture 24 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lecture24.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">Diffusion-limited Aggregation</h3>
+<p>Harmonic Measure, Hastings-Levitov Algorithm, Comparison of Discrete and Continuous Dynamics</p>
+<p>Overview of Mechanisms for Anomalous Diffusion</p>
+<p>Non-identical Steps</p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p>2003 Lectures 25 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lecture25.pdf">PDF</a>)</p>
+<p>2003 Lecture 14 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lecture14.pdf">PDF</a>)</p>
+<p>2003 Lecture 15 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lecture15.pdf">PDF</a>)</p>
+<p>A&nbsp;<a href="http://de.arxiv.org/abs/cond-mat/0409439">Review Article</a></p>
+</td>
+</tr>
+<tr class="row">
+<td colspan="3"><strong>II. Anomalous Diffusion</strong></td>
+</tr>
+<tr class="alt-row">
+<td colspan="3"><strong>II.A. Breakdown of the CLT</strong></td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Polymer Models: Persistence and Self-avoidance</h3>
+<p>Random Walk to Model Entropic Effects in Polymers, Restoring Force for Stretching; Persistent Random Walk to Model Bond-bending Energetic Effects, Green-Kubo Relation, Persistence Length, Telegrapher's Equation; Self-avoiding Walk to Model Steric Effects, Fisher-Flory Estimate of the Scaling Exponent</p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p>2005 Lectures 19 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lec19.pdf">PDF</a>)</p>
+<p>2005 Lecture 20 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lec20.pdf">PDF</a>)</p>
+<p>2003 Lecture 9 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lecture9.pdf">PDF</a>)</p>
+<p>2003 Lecture 10 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lecture10.pdf">PDF</a>)</p>
+<p>2003 Lecture 11 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lecture11.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">Levy Flights</h3>
+<p>Superdiffusion and Limiting Levy Distributions for Steps with Infinite Variance, Examples, Size of the Largest Step, Frechet Distribution</p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p>2005 Lecture 22 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lec22_neville.pdf">PDF</a>)</p>
+<p>2003 Lecture 12 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lecture12.pdf">PDF</a>)</p>
+<p>2003 Lecture 13 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lecture13.pdf">PDF</a>)</p>
+<p>Hughes</p>
+</td>
+</tr>
+<tr class="row">
+<td colspan="3"><strong>II.B. Continuous-Time Random Walks</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">Continuous-time Random Walks</h3>
+<p>Laplace Transform. Renewal Theory</p>
+<p>Montroll-Weiss Formulation of CTRW</p>
+<p>DNA Gel Electrophoresis</p>
+</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lec23_chris_06.pdf">PDF</a>)</td>
+<td>
+<p>2005 Lecture 23 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lec23_chris.pdf">PDF</a>)</p>
+<p>2003 Lecture 15 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lecture15.pdf">PDF</a>)</p>
+<p>2003 Lecture 16 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lecture16.pdf">PDF</a>)</p>
+<p>2003 Lecture 17 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lecture17.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Fractional Diffusion Equations</h3>
+<p>CLT for CTRW</p>
+<p>Infinite Man Waiting Time, Mittag-Leffler Decay of Fourier Modes, Time-delayed Flux, Fractional Diffusion Equation</p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p>2005 Lecture 24 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lec24_yuxing.pdf">PDF</a>)</p>
+<p>2003 Lecture 18 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lecture18.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">Non-separable Continuous-time Random Walks</h3>
+<p>"Phase Diagram" for Anomalous Diffusion: Large Steps Versus Long Waiting Times</p>
+<p>Application to Flagellar Bacteria. Hughes' General Formulation of CTRW with Motion between "turning points"</p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p>2005 Lecture 25 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/Lec25_2005_rev2.pdf">PDF</a>)</p>
+<p>2005 Lecture 26 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lec26_geraint.pdf">PDF</a>)</p>
+<p>Hughes</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Leapers and Creepers</h3>
+<p>Hughes' Leaper and Creeper Models</p>
+<p>Leaper Example: Polymer Surface Adsorption Sites and Cross-sections of a Random Walk</p>
+<p>Creeper Examples: Levy Walks, Bacterial Motion, Turbulent Dispersion</p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p><span class="nobr">2005 Lecture 26 (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lec26_geraint.pdf">PDF</a>)</span></p>
+<p>Hughes</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
+
+
 
 
