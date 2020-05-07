@@ -42,7 +42,7 @@
    <li class="title"><a href="#course41">Introduction to Numerical Methods</a></li>
   <li class="title"><a href="#course42">Numerical Methods for Partial Differential Equations</a></li>
    <li class="title"><a href="#course43">Infinite Random Matrix Theory</a></li>
- 
+    <li class="title"><a href="#course44">Nonlinear Dynamics II: Continuum Systems</a></li>
  
 </ul>
 </br>
@@ -4387,3 +4387,89 @@
 </table>
 
 </br>
+
+<h2 id ="course44">Nonlinear Dynamics II: Continuum Systems </h2>
+
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_354JS15_Ch1.pdf">Math Basics (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_354JS15_Ch2.pdf">Dimensional Analysis (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_354JS15_Ch3.pdf">Dimensionless Groups (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_354JS15_Ch4.pdf">Kepler's Problem and Hamiltonian Dynamics (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_354JS15_Ch5.pdf">Random Walkers and Diffusion (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_354JS15_Ch6.pdf">Solving the Diffusion Equation (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_354JS15_Ch7.pdf">Linear Stability Analysis &amp; Pattern Formation (PDF - 1.3MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_354JS15_Ch8.pdf">Variational Calculus (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_354JS15_Ch9.pdf">Surface Tension (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_354JS15_Ch10.pdf">Some Basic Differential Geometry (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_354JS15_Ch11.pdf">Elasticity (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_354JS15_Ch12.pdf">Towards Hydrodynamic Equations (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_354JS15_Ch13.pdf">The Navier-Stokes Equations (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_354JS15_Ch14.pdf">Low-Reynolds Number Limit (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_354JS15_Ch15.pdf">The Coffee Cup (PDF - 1.1MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_354JS15_Ch16.pdf">Singular Perturbations (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_354JS15_Ch17.pdf">Towards Airplane Fight (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_354JS15_Ch18.pdf">Euler Equations: Basic Solutions and Forces (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_354JS15_Ch19.pdf">Stream Functions and Conformal Maps (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_354JS15_Ch20.pdf">Classical Aerofoil Theory (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_354JS15_Ch21.pdf">Rotating Flows (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_354JS15_Ch22.pdf">The Ekman Layer (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_354JS15_Ch23.pdf">Water Waves (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/2/MIT18_354JS15_Ch24.pdf">Solitons (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
+
