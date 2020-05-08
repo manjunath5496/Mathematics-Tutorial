@@ -79,6 +79,7 @@
  <li class="title"><a href="#course78">Topics in Combinatorial Optimization</a></li>
   <li class="title"><a href="#course79">Topics in Mathematics of Data Science</a></li>
   <li class="title"><a href="#course80">Topics in Mathematics with Applications in Finance</a></li>
+   <li class="title"><a href="#course81">High-Dimensional Statistics</a></li>
 </ul>
 </br>
 
@@ -7680,6 +7681,9 @@
 </tbody>
 </table>
 </br>
+<h2 id ="course81">High-Dimensional Statistics</h2>
+<p><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S997S15_CourseNotes.pdf">Complete Lecture Notes (PDF 1.3MB)</a></p>
 
+</br>
 
 
