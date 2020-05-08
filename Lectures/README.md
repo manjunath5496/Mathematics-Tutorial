@@ -56,6 +56,7 @@
  <li class="title"><a href="#course55">Statistics for Applications</a></li>
   <li class="title"><a href="#course56">Mathematical Statistics</a></li>
   <li class="title"><a href="#course57">Mathematics of Machine Learning</a></li>
+  <li class="title"><a href="#course58">Seminar in Algebra and Number Theory: Rational Points on Elliptic Curves</a></li>
 </ul>
 </br>
 
@@ -5968,7 +5969,158 @@
 
 </br>
 
+<h2 id ="course58">Seminar in Algebra and Number Theory: Rational Points on Elliptic Curves</h2>
 
 
-
+<p>These are directions suggested to students on how to prepare their lectures. (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture_advice.pdf">PDF</a>)</p>
+</br>
+<table class="tablewidth50" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td headers="col2">The Projective Plane</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture1.pdf">PDF 1</a>)<br /><br />(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture2.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Curves in the Projective Plane</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture3.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Rational Points on Conics</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture4.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Geometry of Cubic Curves</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture5.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Weierstrass Normal Form</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture6.pdf">PDF</a>)<br /><br />(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Explicit Formulas for the Group Law</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Points of Order Two and Three</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">The Discriminant<br /><br />Points of Finite Order have Integer Coordinates - Part 1</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Points of Finite Order have Integer Coordinates - Part 2</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Points of Finite Order have Integer Coordinates - Part 3<br /><br />The Nagell-Lutz Theorem</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Real and Complex Points on Cubics</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Heights and Descent</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Height of P + P_0</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Height of 2P</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">A Useful Homomorphism - Part 1</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">A Useful Homomorphism - Part 2</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Mordell's Theorem - Part 1</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Mordell's Theorem - Part 2<br /><br />Examples - Part 1</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Examples - Part 2</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Examples - Part 3</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Singular Cubics</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Rational Points over Finite Fields</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture24.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Gauss's Theorem - Part 1</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture25.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Gauss's Theorem - Part 2</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture26.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Points of Finite Order Revisited</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture27.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Factorization using Elliptic Curves - Part 1</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture28.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Factorization using Elliptic Curves - Part 2</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture29.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Integer Points on Cubics<br /><br />Taxicabs - Part 1</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture30.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Taxicabs - Part 2<br /><br />Thue's Theorem - Part 1</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture31.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Thue's Theorem - Part 2</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture32.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Construction of an Auxiliary Polynomial</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture33.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">The Auxiliary Polynomial is Small</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture34.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">The Auxiliary Polynomial Does Not Vanish</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture35.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Proof of the DAT<br /><br />Further Developments</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture36.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Congruent Numbers and Elliptic Curves I: Koblitz - Part 1</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture37.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Congruent Numbers and Elliptic Curves II: Koblitz - Part 2</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lecture38.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
 
