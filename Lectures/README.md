@@ -5180,6 +5180,7 @@
 </table>
 
 </br>
+<p> <strong>Projects and examples</strong> </p>
 <ul>
 <li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_405JS16_Zig-Zag.pdf">The Zig-Zag Product and USTCON &isin; L (PDF)</a>&nbsp;</li>
 <li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_405JS16_Quantifiers.pdf">Descriptive Complexity and Some Unusual Quantifiers (PDF)</a>&nbsp;</li>
