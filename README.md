@@ -432,6 +432,7 @@
 
 <ul>
 <li><a href="https://manjunath5496.github.io/math-quiz/math.html">Mathematics Quiz</a></li>
+ <li><a href="https://github.com/manjunath5496/Mathematics-Tutorial/blob/master/Lectures/README.md">MIT Lectures</a></li>
 </ul>
 
 </br>
