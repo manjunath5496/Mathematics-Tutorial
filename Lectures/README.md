@@ -6175,6 +6175,17 @@
 </table>
 </br>
 
+<ul>
+<li>These are directions and possible project topics suggested to students. (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/papertopics.pdf">PDF</a>)</li>
+<li class="subhead">Hasse's Theorem and Rational Points on the General Conic (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/hasse_theo_ratio.pdf">PDF</a>)&nbsp;</li>
+<li>A Few Elementary Facts about Elliptic Curves (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/stoica.pdf">PDF</a>)</li>
+<li>Elliptic Curve Cryptography (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/asarina.pdf">PDF</a>)</li>
+<li>On 1-dimensional Group Variety (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/chen.pdf">PDF</a>)</li>
+<li>Best Kept Secrets: Elliptic Curves and Modern Cryptosystems (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/coffee.pdf">PDF</a>)&nbsp;</li>
+<li>Waring's Problem, Taxicab Numbers, and Other Sums of Powers (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/lugo.pdf">PDF</a>)</li>
+<li>Elliptic Curves in Public Key Cryptography: The Diffie Hellman Key Exchange Protocol and its relationship to the Elliptic Curve Discrete Logarithm Problem (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/haraksingh.pdf">PDF</a>)</li>
+</ul>
+</br>
 
 
 
