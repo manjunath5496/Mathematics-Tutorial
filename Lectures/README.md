@@ -75,6 +75,7 @@
      <li class="title"><a href="#course74">Topics in Geometry: Dirac Geometry</a></li>
       <li class="title"><a href="#course75">Random Matrix Theory and Its Applications</a></li>
     <li class="title"><a href="#course76">Topics in Theoretical Computer Science: Internet Research Problems</a></li>
+ <li class="title"><a href="#course77">Simplicity Theory</a></li>
 </ul>
 </br>
 
@@ -7392,6 +7393,66 @@
 </table>
 </br>
 
+<h2 id ="course77">Simplicity Theory </h2>
+
+<table class="tablewidth50" summary="Course Table Listing">
+<tbody>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;" headers="col2">The Basic Setting: Universal Domains</td>
+<td style="height: 13px;" headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/lec_1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 26px;">
+<td style="height: 26px;" headers="col2">Extraction of Indiscernible Sequences<br />(Taught by David K. Milovich)</td>
+<td style="height: 26px;" headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/lec_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;" headers="col2">Dividing and its Basic Properties</td>
+<td style="height: 13px;" headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/lec_3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 91px;">
+<td style="height: 91px;" headers="col2">Simplicity<br /><br />Statement of the Properties of Independence<br /><br />Morley Sequences<br /><br />Proof of Symmetry and Transitivity from Extension</td>
+<td style="height: 91px;" headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/lec_4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 39px;">
+<td style="height: 39px;" headers="col2">Thickness<br /><br />Total D-rank and Extension</td>
+<td style="height: 39px;" headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/lec_5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 26px;">
+<td style="height: 26px;" headers="col2">Lascar Strong Types and the Independence Theorem<br />(Partially taught by Christina Goddard)</td>
+<td style="height: 26px;" headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/lec_6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 26px;">
+<td style="height: 26px;" headers="col2">Examples: Hilbert Spaces, Hyperimaginary Sorts<br />(Taught by Josh Nichols-Barrer)</td>
+<td style="height: 26px;" headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/lec_7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 39px;">
+<td style="height: 39px;" headers="col2">Generically Transitive Relations<br /><br />Amalgamation Bases, Parallelism and Canonical Bases</td>
+<td style="height: 39px;" headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/lec_8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 26px;">
+<td style="height: 26px;" headers="col2">Characterisation of Simplicity and Non-dividing in Terms of Abstract Notion of Independence<br />(Taught by Cameron Freer)</td>
+<td style="height: 26px;" headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/lec_9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 65px;">
+<td style="height: 65px;" headers="col2">Supersimplicity<br /><br />Lascar Inequalities<br /><br />Stability</td>
+<td style="height: 65px;" headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/lec_10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;" headers="col2">Stable Theories with a Generic Automorphism</td>
+<td style="height: 13px;" headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/lec11_12.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 39px;">
+<td style="height: 39px;" headers="col2">Groups: Stratified Ranks, Generic Elements and Types<br /><br />Connected Components, Stabilisers</td>
+<td style="height: 39px;" headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/lec13_14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;" headers="col2">Lovely Pairs</td>
+<td style="height: 13px;" headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/lec15_16.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
 
 
 
