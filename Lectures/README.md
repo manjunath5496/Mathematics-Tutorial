@@ -49,6 +49,7 @@
   <li class="title"><a href="#course48">Nonlinear Dynamics and Chaos</a></li>
    <li class="title"><a href="#course49">Advanced Complexity Theory</a></li>
    <li class="title"><a href="#course50">Algorithmic Aspects of Machine Learning</a></li>
+  <li class="title"><a href="#course51">Behavior of Algorithms</a></li>
 </ul>
 </br>
 
@@ -5240,5 +5241,18 @@
 </br>
 <p>&nbsp;<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_409S15_bookex.pdf" data-smd-id="s106">Algorithmic Aspects of Machine Learning (PDF - 1.6MB)</a></p>
 </br>
+
+<h2 id ="course51">Behavior of Algorithms </h2>
+
+
+
+
+
+
+
+
+
+
+
 
 
