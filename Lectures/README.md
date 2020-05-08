@@ -6789,7 +6789,7 @@
 <tbody>
 <tr class="row">
 <td headers="col2">Logic and Foundations</td>
-<td headers="col3">Notes A (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/18901.pdf">PDF</a>) (Courtesy of Dr. Joao P. Santos. Used with permission.)</td>
+<td headers="col3">Notes A (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/18901.pdf">PDF</a>) </td>
 </tr>
 <tr class="alt-row">
 <td headers="col2">Connected Spaces, Compact Spaces</td>
