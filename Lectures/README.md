@@ -5238,7 +5238,7 @@
 </tbody>
 </table>
 </br>
-
-
+<p>&nbsp;<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_409S15_bookex.pdf" data-smd-id="s106">Algorithmic Aspects of Machine Learning (PDF - 1.6MB)</a></p>
+</br>
 
 
