@@ -47,6 +47,7 @@
       <li class="title"><a href="#course46">Introduction to Modeling and Simulation</a></li>
  <li class="title"><a href="#course47">Random Walks and Diffusion</a></li>
   <li class="title"><a href="#course48">Nonlinear Dynamics and Chaos</a></li>
+   <li class="title"><a href="#course49">Advanced Complexity Theory</a></li>
 </ul>
 </br>
 
@@ -5111,6 +5112,73 @@
 <li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_385JF14_nonoscilatrs.pdf">Weakly Nonlinear Things: Oscilators (PDF)</a></li>
 <li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_385JF14_Hopf-Bif.pdf">Hopf Bifurcations (PDF)</a></li>
 </ul>
+</br>
+
+<h2 id ="course49">Advanced Complexity Theory</h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_405JS16_TimeSpace.pdf">PH Time-Space Tradeoffs (PDF)</a><br /><br /></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_405JS16_Relativ.pdf">Relativization (PDF)</a><br /><br /></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_405JS16_Circuits.pdf">Circuits and Karp-Lipton (PDF)</a><br /><br /></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_405JS16_UniqueSAT.pdf">Unique-SAT, Parity-SAT, and Approximate Counting (PDF)</a><br /><br /></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_405JS16_Todas.pdf">Toda's Theorem (PDF)</a><br /><br /></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_405JS16_AC0Lower.pdf">AC0 Lower Bounds and Switching Lemma (PDF)</a><br /><br /></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_405JS16_Razborov.pdf">Razborov-Smolensky (PDF)</a><br /><br /></td>
+</tr>
+<tr class="alt-row">
+<td><a href="http://theory.cs.princeton.edu/uploads/Compbook/accnexp.pdf">NEXP vs ACC0 (Addendum to Arora-Barak) (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="http://www.cs.toronto.edu/~toni/Courses/CommComplexity2014/Lectures/lecture1.pdf">Communication Complexity 1 (PDF)</a></p>
+<p><a href="http://www.cs.toronto.edu/~toni/Courses/CommComplexity2014/Lectures/lecture2.pdf">Lower Bounds for Deterministic Communication (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_405JS16_Random.pdf">Randomized Communication (PDF)</a><br /><br /></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_405JS16_IntroPCP.pdf">Intro to PCP (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_405JS16_Linearity.pdf">Linearity Testing (PDF)</a><br /><br /></p>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_405JS16_Exponential.pdf">Exponential Sized PCP (PDF)</a><br /><br /></p>
+</td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_405JS16_SumCheck.pdf">PCP with Polylogarithmic Queries and Sum Check (PDF)</a><br /><br /></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_405JS16_UGC_MAX2LIN.pdf">Unique Games Conjecture and Hardness for MAX-2LIN (PDF)</a><br /><br /></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_405JS16_P_vs_BPP1.pdf">P vs BPP 1 (PDF)</a><br /><br /></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_405JS16_P_vs_BPP2.pdf">P vs BPP 2 (PDF)</a><br /><br /></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_405JS16_CircuitLower.pdf">Derandomization Implies Circuit Lower Bounds (PDF)</a><br /><br /></td>
+</tr>
+</tbody>
+</table>
+
 </br>
 
 
