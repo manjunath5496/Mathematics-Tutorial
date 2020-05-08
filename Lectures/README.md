@@ -83,6 +83,7 @@
     <li class="title"><a href="#course82">The Polynomial Method</a></li>
      <li class="title"><a href="#course83">Distributed Algorithms</a></li>
     <li class="title"><a href="#course84">Quantum Computation</a></li>
+   <li class="title"><a href="#course85">Advanced Algorithms</a></li>
 </ul>
 </br>
 
@@ -8111,6 +8112,101 @@
 <li>Quiz 2 (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/test2.pdf">PDF</a>)</li>
 </ul>
 </br>
+
+<h2 id ="course85">Advanced Algorithms</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Fibonacci heaps</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/lec1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Network flows</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/lec2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Maximum flow; minimum cost circulation</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/lec3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Goldberg-Tarjan min-cost circulation algorithm</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/lec4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Cancel-and-tighten algorithm; binary search trees</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/lec5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Splay trees</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/lec6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Dynamic trees (part 1)</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/lec7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Dynamic trees (part 2)</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/lec8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Linear programming (LP)</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/lec9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>LP: duality, geometry, simplex</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>LP: complexity; introduction to the ellipsoid algorithm</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>LP: ellipsoid algorithm</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Conic programming I</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Conic programming II</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/lec15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Approximation algorithms</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Approximation algorithms (facility location)</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Approximation algorithms (max-cut)</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Max-cut and sparsest-cut</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/lec19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Convex hulls and fixed dimension LP</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/lec22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Voronoi diagrams</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/lec23.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
+
+
+
 
 
 
