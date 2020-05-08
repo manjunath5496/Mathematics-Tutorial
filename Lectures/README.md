@@ -61,7 +61,7 @@
   <li class="title"><a href="#course60">Algebraic Geometry</a></li>
   <li class="title"><a href="#course61">Double Affine Hecke Algebras in Representation Theory, Combinatorics, Geometry, and Mathematical Physics</a></li>
    <li class="title"><a href="#course62">Introduction to Lie Groups</a></li>
- 
+    <li class="title"><a href="#course63">Theory of Numbers</a></li>
 </ul>
 </br>
 
@@ -6219,3 +6219,166 @@
 <li class="subhead">Solutions to Exercises (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/soln_exercises.pdf">PDF</a>)</li>
 </ul>
 </br>
+<h2 id ="course63">Theory of Numbers</h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_lec1.pdf">Introduction, Diophantine Equations, Divisibility, GCD (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_lec2.pdf">Euclidean Algorithm, Primes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_lec3.pdf">Binomial Coefficients, Congruences (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_lec4.pdf">FFermat, Euler, Wilson, Linear Congruences (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_lec5.pdf">Linear Congruences, Chinese Remainder Theorem, Algorithms (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_lec6.pdf">Primality, Factoring, RSA, Hensel's Lemma (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_lec7.pdf">Congruences mod Primes, Order, Primitive Roots (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_lec8.pdf">Primitive Roots (Prime Powers), Index Calculus (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_lec9.pdf">Quadratic Residues, Quadratic Reciprocity (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_lec10.pdf">Jacobi Symbol, Computation, Zolotareff's Definition (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_lec11.pdf">Square Roots, Tonelli's Algorithm, Number of Consecutive Pairs of Squares mod p (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_lec12.pdf">Cyclotomic Polynomials, Primes Congruent to 1 mod n (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_lec13.pdf">Arithmetic Functions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_lec14.pdf">Mobius Inversion Formula, Zeta Functions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_lec15.pdf">Linear Recurrences (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_lec16.pdf">Generating Functions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_lec17.pdf">More on Generating Functions, Two Squares Theorem (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_lec18.pdf">Continued Fractions I (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_lec19.pdf">Continued Fractions II: Inequalities (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_lec20.pdf">Periodic Continued Fractions, Quadratic Irrationalities (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_lec21.pdf">Brahmagupta-Pell Equation (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_lec22.pdf">Four Squares Theorem (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_lec23.pdf">Pythagorean Triples, Fermat Descent (PDF)</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_lec24.pdf">Rational Points on Conics (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_pset1.pdf">Problem Set 1 (PDF)</a></td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_pset1sol.pdf">Solution 1 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_pset2.pdf">Problem Set 2 (PDF)</a></td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_pset2sol.pdf">Solution 2 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_pset3.pdf">Problem Set 3 (PDF)</a></td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_pset3sol.pdf">Solution 3 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_pset4-1.pdf">Problem Set 4-1 (PDF)</a></p>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_pset4-2.pdf">Problem Set 4-2 (PDF)</a></p>
+</td>
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_pset4-1sol.pdf">Solution 4-1 (PDF)</a></p>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_pset4-2sol.pdf">Solution 4-2 (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_pset5.pdf">Problem Set 5 (PDF)</a></td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_pset5sol.pdf">Solution 5 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_pset6.pdf">Problem Set 6 (PDF)</a></td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_pset6sol.pdf">Solution 6 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_pset7.pdf">Problem Set 7 (PDF)</a></td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_pset7sol.pdf">Solution 7 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_pset8.pdf">Problem Set 8 (PDF)</a></td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_pset8sol.pdf">Solution 8 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_pset9.pdf">Problem Set 9 (PDF)</a></td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_pset9sol.pdf">Solution 9 (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<p> <strong>Exams and solutions</strong> </p>
+
+<table class="tablewidth100" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_practiceExam1.pdf">Exam 1 Practice Problems (PDF)</a></td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_practExam1Sol.pdf">Exam 1 Practice Problem Solutions (PDF)</a></td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_guidelines.pdf">Exam 1 Guidelines (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_871S12_practiExam2.pdf">Exam 2 Practice Problems (PDF)</a></td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_871S12_practExam2Sol.pdf">Exam 2 Practice Problem Solutions (PDF)</a></td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_guidelines2.pdf">Exam 2 Guidelines (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_871S12_practfinal.pdf">Final Exam Practice Problems (PDF)</a></td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_practfinalSol.pdf">Final Exam Practice Problem Solutions (PDF)</a></td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_781S12_guidelinFinal.pdf">Final Exam Guidelines (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
+
