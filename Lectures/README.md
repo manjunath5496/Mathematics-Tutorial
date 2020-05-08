@@ -51,6 +51,7 @@
    <li class="title"><a href="#course50">Algorithmic Aspects of Machine Learning</a></li>
   <li class="title"><a href="#course51">Behavior of Algorithms</a></li>
    <li class="title"><a href="#course52">Design and Analysis of Algorithms</a></li>
+  <li class="title"><a href="#course53">Probability and Random Variables</a></li>
 </ul>
 </br>
 
@@ -5520,6 +5521,175 @@
 </tbody>
 </table>
 </br>
+
+<h2 id ="course53">Probability and Random Variables</h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_Lecture1.pdf">Permutations and Combinations (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_Lecture2.pdf">Multinomial Coefficients and More Counting (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_Lecture3.pdf">Sample Spaces and Set Theory (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_Lecture4.pdf">Axioms of Probability (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_Lecture5.pdf">Probability and Equal Likelihood (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_Lecture6.pdf">Conditional Probabilities (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_Lecture7.pdf">Bayes' Formula and Independent Events (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_Lecture8.pdf">Discrete Random Variables (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_Lecture9.pdf">Expectations of Discrete Random Variables (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_Lecture10.pdf">Variance (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_Lecture11.pdf">Binomial Random Variables, Repeated Trials and the so-called Modern Portfolio Theory (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_Lecture12.pdf">Poisson Random Variables (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_Lecture13.pdf">Poisson Processes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_Lecture14.pdf">More Discrete Random Variables (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_Lecture15.pdf">Continuous Random Variables (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_Lecture16.pdf">Review for Midterm Exam 1 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_Lecture18.pdf">Uniform Random Variables (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_Lecture19.pdf">Normal Random Variables (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_Lecture20.pdf">Exponential Random Variables (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_Lecture21.pdf">More Continuous Random Variables (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_Lecture22.pdf">Joint Distribution Functions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_Lecture23.pdf">Sums of Independent Random Variables (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_Lecture24.pdf">Expectation of Sums (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_Lecture25.pdf">Covariance and Correlation (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_Lecture26.pdf">Conditional Expectation (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_Lecture27.pdf">Moment Generating Distributions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_Lecture28.pdf">Review for Midterm Exam 2 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_Lecture30.pdf">Weak Law of Large Numbers (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_Lecture31.pdf">Central Limit Theorem (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_Lecture32.pdf">Strong Law of Large Numbers and Jensen's Inequality (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_Lecture33.pdf">Markov Chains (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_Lecture34.pdf">Entropy (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_Lecture35.pdf">Martingales and the Optional Stopping Time Theorem (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_Lecture36.pdf">Risk Neutral Probability and Black-Scholes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_Lecture37.pdf">Review for Final Exam (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_Lecture38.pdf">Review for Final Exam (cont.) (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_Lecture39.pdf">Review for Final Exam (cont.) (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+<p> <strong>Exams and solutions</strong> </p>
+
+
+
+<table class="tablewidth100" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_prctcmidtrm1.pdf">Practice Midterm Exam 1 (PDF)</a></p>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_prctcmdtm1sl.pdf"><span class="nobr">Practice Midterm Exam 1 Partial Solutions (PDF)</span></a></p>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_mid1_2011.pdf">2011 Midterm Exam 1 (PDF)</a></p>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_mid1_2011_sol.pdf">2011 Midterm Exam 1 Solutions (PDF)</a></p>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_mid1_2009.pdf">2009 Midterm Exam 1 with Solutions (PDF)</a></p>
+</td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_mid1_2014.pdf"><span class="nobr">Midterm Exam 1 (PDF)</span></a></td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_mid1_2014_sol.pdf"><span class="nobr">Midterm Exam 1 Solutions (PDF)</span></a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_prctcmdtrm2.pdf">Practice Midterm Exam 2 (PDF)</a></p>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_prctcmdtrm2sl.pdf">Practice Midterm Exam 2 Partial Solutions (PDF)</a></p>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_mid2_2012.pdf">2012 Midterm Exam 2 (PDF)</a></p>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_mid2_2012_sol.pdf">2012 Midterm Exam 2 Solutions (PDF)</a></p>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_mid2_f2011.pdf">Fall 2011 Midterm Exam 2 with Solutions (PDF)</a></p>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_mid2_s2011.pdf">Spring 2011 Midterm Exam 2 (PDF)</a></p>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_mid2_s2011_sl.pdf">Spring 2011 Midterm Exam 2 Solutions (PDF)</a></p>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_mid2_2009.pdf">2009 Midterm Exam 2 (PDF)</a></p>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_mid2_2009_sol.pdf">2009 Midterm Exam 2 Solutions (PDF)</a></p>
+</td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_mid2_2014.pdf"><span class="nobr">Midterm Exam 2 (PDF)</span></a></td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_mid2_2014_sol.pdf"><span class="nobr">Midterm Exam 2 Solutions (PDF)</span></a></td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_prctcfinal.pdf">Practice Final Exam (PDF)</a></p>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_prctcfinalsl.pdf">Practice Final Exam Partail Solutions (PDF)</a></p>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_final_2012.pdf">2012 Final Exam (PDF)</a></p>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_final2012_sol.pdf">2012 Final Exam Solutions (PDF)</a></p>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_final_2011.pdf">2011 Final Exam (PDF)</a></p>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_final2011_sol.pdf">2011 Final Exam Solutions (PDF)</a></p>
+</td>
+<td>&nbsp;<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_final_2014.pdf">Final Exam (PDF)</a></td>
+<td>&nbsp;<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_440S14_final2014_sol.pdf">Final Exam Solutions (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
 
 
 
