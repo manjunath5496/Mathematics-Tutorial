@@ -80,6 +80,7 @@
   <li class="title"><a href="#course79">Topics in Mathematics of Data Science</a></li>
   <li class="title"><a href="#course80">Topics in Mathematics with Applications in Finance</a></li>
    <li class="title"><a href="#course81">High-Dimensional Statistics</a></li>
+    <li class="title"><a href="#course82">The Polynomial Method</a></li>
 </ul>
 </br>
 
@@ -7685,5 +7686,142 @@
 <p><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S997S15_CourseNotes.pdf">Complete Lecture Notes (PDF 1.3MB)</a></p>
 
 </br>
+
+<h2 id ="course82">The Polynomial Method</h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S997F12_lec1.pdf">Introduction (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><strong>Fundamental Examples of the Polynomial Method</strong></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S997F12_lec2.pdf">The Berlekamp-Welch Algorithm (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S997F12_lec3.pdf">The Finite Field Nikodym and Kakeya Theorems (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S997F12_lec4.pdf">The Joints Problem (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S997F12_lec5.pdf">Why Polynomials? (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><strong>Background in Incidence Geometry</strong></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S997F12_lec6.pdf">Introduction to Incidence Geometry (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S997F12_lec7.pdf">Crossing Numbers and the Szemeredi-Trotter Theorem (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S997F12_lec8.pdf">Crossing Numbers and Distance Problems (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S997F12_lec9.pdf">Crossing Numbers and Distinct Distances (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S997F12_lec10.pdf">Reguli; The Zarankiewicz Problem (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S997F12_lec11.pdf">The Elekes-Sharir Approach to the Distinct Distance Problem (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><strong>Algebraic Structure</strong></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S997F12_lec12.pdf">Degree Reduction (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S997F12_lec13.pdf">Bezout Theorem (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S997F12_lec14.pdf">Special Points and Lines of Algebraic Surfaces (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S997F12_lec15.pdf">An Application to Incidence Geometry (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S997F12_lec16.pdf">Taking Stock (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><strong>Cell Decompositions</strong></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S997F12_lec17.pdf">Introduction to the Cellular Method (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S997F12_lec18.pdf">Polynomial Cell Decompositions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S997F12_lec19.pdf">Using Cell Decompositions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S997F12_lec20.pdf">Incidence Bounds in Three Dimensions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S997F12_lec21.pdf">What's Special About Polynomials? (A Geometric Perspective) (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><strong>Ruled Surfaces and Projection Theory</strong></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S997F12_lec22.pdf">Detection Lemmas and Projection Theory (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S997F12_lec23.pdf">Local to Global Arguments (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S997F12_lec24.pdf">The Regulus Detection Lemma (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><strong>The Polynomial Method in Number Theory</strong></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S997F12_lec25.pdf">Introduction to Thue's Theorem on Diophantine Approximation (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S997F12_lec26.pdf">Thue's Proof (Part I) (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S997F12_lec27.pdf">Thue's Proof (Part II): Polynomials of Two Variables (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S997F12_lec28.pdf">Thue's Proof (Part III) (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><strong>Introduction to the Kakeya Problem</strong></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S997F12_lec29.pdf">Background on Connections Between Analysis and Combinatorics (Loomis-Whitney) (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S997F12_lec30.pdf">Hardy-Littlewood-Sobolev Inequality (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S997F12_lec31.pdf">Oscillating Integrals and Besicovitch's Arrangement of Tubes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S997F12_lec32.pdf">Besictovitch's Construction (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S997F12_lec33.pdf">The Kakeya Problem (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S997F12_lec34.pdf">A Version of the Joints Theorem for Long Thin Tubes (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
+
 
 
