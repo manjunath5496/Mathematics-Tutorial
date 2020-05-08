@@ -73,6 +73,7 @@
    <li class="title"><a href="#course72">Geometry of Manifolds</a></li>
     <li class="title"><a href="#course73">Topics in Geometry: Mirror Symmetry</a></li>
      <li class="title"><a href="#course74">Topics in Geometry: Dirac Geometry</a></li>
+      <li class="title"><a href="#course75">Random Matrix Theory and Its Applications</a></li>
 </ul>
 </br>
 
@@ -7287,3 +7288,19 @@
 
 <p>The complete set of lecture notes (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/18_969_geometry.pdf">PDF - 1.2 MB</a>)</p>
 </br>
+<h2 id ="course75">Random Matrix Theory and Its Applications</h2>
+
+<ul>
+<li>Jacobian Code (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/jacobian2by2.pdf">PDF</a>)</li>
+<li>Why are Random Matrices Cool? (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/maamathfest2002.pdf">PDF</a>)</li>
+<li>Class Handout (Chapter 8) (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/chapter8.pdf">PDF</a>)</li>
+<li>Class Handout Addendum (Handbook of Matrix Jacobians) (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/chapter42.pdf">PDF</a>)</li>
+<li>Class Handout (Chapter 9) (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/chapter9.pdf">PDF</a>)</li>
+<li>Professor Edelman's Thesis with some of the Eigenvalue Density Formulas&nbsp;(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/thesis.pdf">PDF - 1.3 MB</a>)</li>
+<li>Multivariate Orthogonal Polynomials Handout (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/mops.pdf">PDF</a>)</li>
+</ul>
+
+</br>
+
+
+
