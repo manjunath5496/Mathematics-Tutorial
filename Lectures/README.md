@@ -76,6 +76,7 @@
       <li class="title"><a href="#course75">Random Matrix Theory and Its Applications</a></li>
     <li class="title"><a href="#course76">Topics in Theoretical Computer Science: Internet Research Problems</a></li>
  <li class="title"><a href="#course77">Simplicity Theory</a></li>
+ <li class="title"><a href="#course78">Topics in Combinatorial Optimization</a></li>
 </ul>
 </br>
 
@@ -7454,5 +7455,103 @@
 
 </br>
 
+<h2 id ="course78">Topics in Combinatorial Optimization</h2>
 
 
+<table class="tablewidth100" summary="Course Table Listing">
+<tbody>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;" headers="col2">Non-Bipartite Matching: Tutte-Berge Formula, Gallai-Edmonds Decomposition, Blossoms</td>
+<td style="height: 13px;" headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/co_lec1.pdf">PDF</a>) by Nick Harvey&nbsp;</td>
+</tr>
+<tr class="alt-row" style="height: 26px;">
+<td style="height: 26px;" headers="col2">Non-Bipartite Matching: Edmonds' Cardinality Algorithm and Proofs of Tutte-Berge Formulas and Gallai-Edmonds Decomposition</td>
+<td style="height: 26px;" headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/co_lec2.pdf">PDF</a>) by Robert Kleinberg&nbsp;</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;" headers="col2">Cubic Graphs and Matchings, Factor-Critical Graphs, Ear Decompositions</td>
+<td style="height: 13px;" headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/co_lec3.pdf">PDF</a>) by&nbsp;Dan Stratila&nbsp;</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;" headers="col2">The Matching Polytope, Total Dual Integrality, and Hilbert Bases</td>
+<td style="height: 13px;" headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/co_lec4.pdf">PDF</a>) by Constantine Caramanis</td>
+</tr>
+<tr class="row" style="height: 39px;">
+<td style="height: 39px;" headers="col2">Total Dual Integrality, Totally Unimodularity<br /><br />Matching Polytope and the Cunningham-Marsh Formula Showing TDI</td>
+<td style="height: 39px;" headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/co_lec5.pdf">PDF</a>) by Ben Recht&nbsp;</td>
+</tr>
+<tr class="alt-row" style="height: 65px;">
+<td style="height: 65px;" headers="col2">Posets and Dilworth Theorem<br /><br />Deduce Konig's Theorem for Bipartite Matchings<br /><br />Weighted Posets and the Chain and Antichain Polytopes</td>
+<td style="height: 65px;" headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/co_lec6.pdf">PDF</a>) by Joungkeun Lim&nbsp;</td>
+</tr>
+<tr class="row" style="height: 65px;">
+<td style="height: 65px;" headers="col2">Partitioning Digraphs by Paths and Covering them by Cycles<br /><br />Gallai-Milgram and Bessy-Thomasse Theorems<br /><br />Cyclic Orderings</td>
+<td style="height: 65px;" headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/co_lec7.pdf">PDF</a>) by Jan Vondr&aacute;k&nbsp;</td>
+</tr>
+<tr class="alt-row" style="height: 39px;">
+<td style="height: 39px;" headers="col2">Proof of the Bessy-Thomasse Result<br /><br />The Cyclic Stable Set Polytope</td>
+<td style="height: 39px;" headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/co_lec8.pdf">PDF</a>) by Constantine Caramanis&nbsp;</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;" headers="col2">Matroids: Defs, Dual, Minor, Representability</td>
+<td style="height: 13px;" headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/co_lec9.pdf">PDF</a>) by Bridget Eileen Tenner&nbsp;</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;" headers="col2">Matroids: Representability, Greedy Algorithm, Matroid Polytope</td>
+<td style="height: 13px;" headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/co_lec10.pdf">PDF</a>) by Nicole Immorlica</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;" headers="col2">Matroid Intersection</td>
+<td style="height: 13px;" headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/co_lec11.pdf">PDF</a>) by Fumei Lam&nbsp;</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;" headers="col2">Matroid Intersection, Matroid Union, Shannon Switching Game</td>
+<td style="height: 13px;" headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/co_lec12.pdf">PDF</a>) by Vahab S. Mirrokni&nbsp;</td>
+</tr>
+<tr class="row" style="height: 26px;">
+<td style="height: 26px;" headers="col2">Matroid Intersection Polytope, Matroid Union</td>
+<td style="height: 26px;" headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/co_lec13.pdf">PDF</a>) by Constantine Caramanis&nbsp;</td>
+</tr>
+<tr class="alt-row" style="height: 26px;">
+<td style="height: 26px;" headers="col2">Matroid Union, Packing and Covering with Spanning Trees, Strong Basis Exchange Properties</td>
+<td style="height: 26px;" headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/co_lec14.pdf">PDF</a>) by Mohamed Mostagir&nbsp;</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;" headers="col2">Matroid Matching: Examples, Complexity, Lovasz's Minmax Relation for Linear Matroids</td>
+<td style="height: 13px;" headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/co_lec15.pdf">PDF</a>) by Supratim Deb</td>
+</tr>
+<tr class="alt-row" style="height: 26px;">
+<td style="height: 26px;" headers="col2">Jump Systems: Definitions, Examples, Operations, Optimization, and Membership</td>
+<td style="height: 26px;" headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/co_lec16.pdf">PDF</a>) by Jonathan Kelner&nbsp;</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;" headers="col2">Jump Systems: Membership (cont.)</td>
+<td style="height: 13px;" headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;" headers="col2">Graph Orientations, Directed Cuts (Lucchesi-Younger Theorem), Submodular Flows</td>
+<td style="height: 13px;" headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/co_lec18.pdf">PDF</a>) by Nick Harvey&nbsp;</td>
+</tr>
+<tr class="row" style="height: 26px;">
+<td style="height: 26px;" headers="col2">Submodular Flows: Examples, Edmonds-Giles Theorem, Reduction to Matroid Intersection in Special Cases</td>
+<td style="height: 26px;" headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/co_lec19.pdf">PDF</a>) by Ben Recht&nbsp;</td>
+</tr>
+<tr class="alt-row" style="height: 39px;">
+<td style="height: 39px;" headers="col2">Splitting Off<br /><br />$k$-Connectivity Orientations and Augmentations</td>
+<td style="height: 39px;" headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/co_lec20.pdf">PDF</a>) by Jan Vondr&aacute;k&nbsp;</td>
+</tr>
+<tr class="row" style="height: 39px;">
+<td style="height: 39px;" headers="col2">Proof of Splitting-Off<br /><br />Submodular&nbsp;Function&nbsp;Minimization</td>
+<td style="height: 39px;" headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/co_lec21.pdf">PDF</a>) by Mohamed Mostagir</td>
+</tr>
+<tr class="alt-row" style="height: 39px;">
+<td style="height: 39px;" headers="col2">Multiflow and Disjoint Path Problems<br /><br />Two-Commodity Flows</td>
+<td style="height: 39px;" headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/co_lec22.pdf">PDF</a>) by Alantha Newman&nbsp;</td>
+</tr>
+<tr class="row" style="height: 39px;">
+<td style="height: 39px;" headers="col2">The Okamura-Seymour Theorem<br /><br />The Wagner-Weihe Algorithm</td>
+<td style="height: 39px;" headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/co_lec23.pdf">PDF</a>) by Dan Stratila</td>
+</tr>
+</tbody>
+</table>
+</br>
