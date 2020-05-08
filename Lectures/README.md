@@ -6672,6 +6672,9 @@
 <td>
 <p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_783S19_lec26.pdf">Fermat's Last Theorem (PDF)</a></p>
 </td>
+ <td>
+<p>&nbsp;</p>
+</td>
 </tr>
 </tbody>
 </table>
