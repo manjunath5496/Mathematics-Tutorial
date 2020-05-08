@@ -81,6 +81,7 @@
   <li class="title"><a href="#course80">Topics in Mathematics with Applications in Finance</a></li>
    <li class="title"><a href="#course81">High-Dimensional Statistics</a></li>
     <li class="title"><a href="#course82">The Polynomial Method</a></li>
+     <li class="title"><a href="#course83">Calculus Revisited: Single Variable Calculus</a></li>
 </ul>
 </br>
 
@@ -7828,6 +7829,6 @@
 </ul>
 
 </br>
-
+<h2 id ="course83">Calculus Revisited: Single Variable Calculus</h2>
 
 
