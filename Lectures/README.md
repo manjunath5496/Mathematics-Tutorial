@@ -82,6 +82,7 @@
    <li class="title"><a href="#course81">High-Dimensional Statistics</a></li>
     <li class="title"><a href="#course82">The Polynomial Method</a></li>
      <li class="title"><a href="#course83">Distributed Algorithms</a></li>
+    <li class="title"><a href="#course84">Quantum Computation</a></li>
 </ul>
 </br>
 
@@ -7938,3 +7939,110 @@
 </table>
 
 </br>
+<h2 id ="course84">Quantum Computation</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Interactive Proofs and Zero-Knowledge Proofs</td>
+<td headers="col2">Scribe Notes&nbsp;1 by Moses Liskov (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/lec020503.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The Notion of Zero-Knowledgeness</td>
+<td headers="col2">Scribe Notes&nbsp;2 by&nbsp;Loizos Michael (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/lec021003.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Zero-Knowledge Proofs (cont.)</td>
+<td headers="col2">Scribe Notes&nbsp;3 by&nbsp;Steve Weis (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/lec021203.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>ZK Proofs and Proofs of Knowledge</td>
+<td headers="col2">Scribe Notes&nbsp;4 by&nbsp;Susan Hohenberger (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/lec021903.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>ZK Proofs for all of NP</td>
+<td headers="col2">Scribe Notes&nbsp;5 by&nbsp;Dah-Yoh Lim (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/lec022403.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Power and Efficiency of ZK</td>
+<td headers="col2">Scribe Notes&nbsp;6 by&nbsp;Abhi Shelat (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/lec022603.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Variations on ZK</td>
+<td headers="col2">Scribe Notes&nbsp;7 by&nbsp;Jo&euml;l Alwen (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/lec030303.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Communication Efficiency for NP Arguments</td>
+<td headers="col2">Scribe Notes&nbsp;8 by&nbsp;Christopher Peikert (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/lec030503.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>A Bounded NIZK Proof System for a Special Language</td>
+<td headers="col2">Scribe Notes&nbsp;9 by&nbsp;Matthew Lepinski (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/lec031003.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Non-Interactive ZK Proofs for all of NP</td>
+<td headers="col2">Scribe Notes&nbsp;10&nbsp;(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/lec031203.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Generalizing Non-Interactive Zero-Knowledge Proofs</td>
+<td headers="col2">Scribe Notes&nbsp;11 by&nbsp;Scott Russell (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/lec031703.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Improved Non-Interactive Zero-Knowledge</td>
+<td headers="col2">Scribe Notes&nbsp;12 by Peng Xie. (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/lec031903.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>NIZK and the Lunchtime Attack</td>
+<td headers="col2">Scribe Notes&nbsp;13 by&nbsp;Jonathan Herzog (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/lec033103.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Lunchtime and Chosen Ciphertext Security</td>
+<td headers="col2">Scribe Notes&nbsp;14 by&nbsp;David Wilson (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/lec040203.pdf">PDF - 1.9 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>A Practical CCA-2 PK Cryptosystem</td>
+<td headers="col2">Scribe Notes&nbsp;15 by&nbsp;Javed&nbsp;Samuel (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/lec040703.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Defining ZK Proofs of Knowledge</td>
+<td headers="col2">Scribe Notes&nbsp;16 by&nbsp;Vitaly Feldman (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/lec040903.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Mutually Independent Commitments</td>
+<td headers="col2">Scribe Notes&nbsp;17 by&nbsp;Shien Jin Ong (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/lec041603.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Concurrent Zero-Knowledge</td>
+<td headers="col2">Scribe Notes&nbsp;18 by&nbsp;Jonathan Derryberry (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/lec042303.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Concurrent Zero-Knowledge in Polylogarithmic Rounds</td>
+<td headers="col2">Scribe Notes&nbsp;19 by&nbsp;Nenad Dedić (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/lec043003.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Secure Multi-Party Computation in the HBC Model</td>
+<td headers="col2">Scribe Notes&nbsp;20 by&nbsp;Yael Tauman (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/lec050503.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Compiling an Honest but Curious Protocol</td>
+<td headers="col2">Scribe Notes&nbsp;21 by&nbsp;Jonathan Derryberry (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/lec050703.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Multi-Party Computation with Perfect Channels</td>
+<td headers="col2">Scribe Notes&nbsp;22 by&nbsp;Chun-Yun Hsiao (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/lec051203.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
+
+
+
+
+
+
+
+
