@@ -5245,13 +5245,8 @@
 <h2 id ="course51">Behavior of Algorithms </h2>
 
 
-
 <table summary="Course Table Listing">
 <tbody>
-<tr class="row">
-<td headers="col2">Introduction</td>
-<td>&nbsp;</td>
-</tr>
 <tr class="alt-row">
 <td headers="col2">The Condition Number</td>
 <td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lect2.pdf">PDF</a>)&nbsp;</td>
@@ -5328,10 +5323,6 @@
 <tr class="row">
 <td headers="col2">The Expected Number of Facets of the Shadow of a Polytope Given by Gaussian Random Constraints</td>
 <td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lect17.pdf">PDF</a>)&nbsp;</td>
-</tr>
-<tr class="alt-row">
-<td headers="col2">The Expected Number of Facets of the Shadow of a Polytope Given by Gaussian Random Constraints: Distance Bound</td>
-<td>&nbsp;</td>
 </tr>
 <tr class="row">
 <td headers="col2">The Expected Number of Facets of the Shadow of a Polytope Given by Gaussian Random Constraints: Angle Bound and Overview of Phase 1</td>
