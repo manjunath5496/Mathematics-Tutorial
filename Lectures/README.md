@@ -72,6 +72,7 @@
    <li class="title"><a href="#course71">Differential Geometry</a></li>
    <li class="title"><a href="#course72">Geometry of Manifolds</a></li>
     <li class="title"><a href="#course73">Topics in Geometry: Mirror Symmetry</a></li>
+     <li class="title"><a href="#course74">Topics in Geometry: Dirac Geometry</a></li>
 </ul>
 </br>
 
@@ -7282,5 +7283,7 @@
 
 </br>
 
+<h2 id ="course74">Topics in Geometry: Dirac Geometry</h2>
 
-
+<p>The complete set of lecture notes (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/18_969_geometry.pdf">PDF - 1.2 MB</a>)</p>
+</br>
