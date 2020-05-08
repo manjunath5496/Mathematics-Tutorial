@@ -5246,7 +5246,100 @@
 
 
 
-
+<table summary="Course Table Listing">
+<tbody>
+<tr class="row">
+<td headers="col2">Introduction</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">The Condition Number</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lect2.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">The Largest Singular Value of a Matrix</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lect3.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Gaussian Elimination Without Pivoting</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lect4.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Smoothed Analysis of Gaussian Elimination Without Pivoting</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lect5.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Growth Factors of Partial and Complete Pivoting<br /><br />Speeding up GE of Graphs with Low Bandwidth or Small Separators</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lect6.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Spectral Partitioning Introduced</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lect7.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Spectral Partitioning of Planar Graphs</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lect8.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">
+<p>Spectral Parititioning of Well-Shaped Meshes and Nearest Neighbor Graphs</p>
+<p>Turner's Theorem for Bandwidth of Semi-Random Graphs</p>
+</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lect9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">
+<p>Smoothed Analysis and Monotone Adversaries for Bandwidth and Graph Bisection</p>
+<p>McSherry's Spectral Bisection Algorithm</p>
+</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lect10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">
+<p>Introduction to Linear Programming</p>
+<p>von Neumann's Algorithm, Primal and Dual Simplex Methods</p>
+<p>Duality</p>
+</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lect11.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">
+<p>Strong Duality Theorem of Linear Programming</p>
+<p>Renegar's Condition Numbers</p>
+</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lect12.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Analysis of von Neumann's Algorithm</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lect13.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Worst-Case Complexity of the Simplex Method</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lect14.pdf">PDF</a>&nbsp;)&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">The Expected Number of Facets of the Convex Hull of Gaussian Random Points in the Plane</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lect15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">The Expected Number of Facets of the Convex Hull of Gaussian Random Points in the Plane (cont.)</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lect16.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">The Expected Number of Facets of the Shadow of a Polytope Given by Gaussian Random Constraints</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lect17.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">The Expected Number of Facets of the Shadow of a Polytope Given by Gaussian Random Constraints: Distance Bound</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">The Expected Number of Facets of the Shadow of a Polytope Given by Gaussian Random Constraints: Angle Bound and Overview of Phase 1</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/lect19.pdf">PDF</a>)&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
 
 
 
