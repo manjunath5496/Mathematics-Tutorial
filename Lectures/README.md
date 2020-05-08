@@ -8034,10 +8034,73 @@
 </tbody>
 </table>
 </br>
+<p> <strong>Assignments: problem sets with solutions</strong> </p>
 
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr class="tableheader">
+<th id="col1" scope="col" abbr="Week Number">ASSIGNMENTS</th>
+<th id="col2" scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col1">Homework 1 (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/homework1.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/solutions1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Homework 2 (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/homework2.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/solutions2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col1">Homework 3 (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/homework3.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/solutions3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Homework 4 (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/homework4.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/solutions4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col1">Homework 5 (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/homework5.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/solutions5.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p><strong>Additional Optional Problems</strong></p>
 
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr class="tableheader">
+<th id="col1" scope="col" abbr="Week Number">ASSIGNMENTS</th>
+<th id="col2" scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col1">Homework 1 (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/ps2.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/ps2sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Homework 2 (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/ps1.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/ps1sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col1">Homework 3 (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/ps6.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/ps6sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Homework 4 (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/ps5.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/ps5sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col1">Homework 5 (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/ps10.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/ps10sol.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
 
-
+</br>
 
 
 
