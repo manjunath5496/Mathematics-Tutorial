@@ -62,6 +62,7 @@
   <li class="title"><a href="#course61">Double Affine Hecke Algebras in Representation Theory, Combinatorics, Geometry, and Mathematical Physics</a></li>
    <li class="title"><a href="#course62">Introduction to Lie Groups</a></li>
     <li class="title"><a href="#course63">Theory of Numbers</a></li>
+ <li class="title"><a href="#course64">Introduction to Arithmetic Geometry</a></li>
 </ul>
 </br>
 
@@ -6378,7 +6379,89 @@
 </table>
 </br>
 
+<h2 id ="course64">Introduction to Arithmetic Geometry</h2>
 
-
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_782F13_lec1.pdf">Introduction to Arithmetic Geometry (PDF)</a>,&nbsp;<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/18.782_Lecture_1.sws">18.782 Lecture 1 (SWS)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_782F13_lec2.pdf">Rational Points on Conics (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_782F13_lec3.pdf">Finite Fields (PDF)</a>,&nbsp;<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/18.782_Lecture_3.sws">18.782 Lecture 3 (SWS)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_782F13_lec4.pdf">The Ring of<em>&nbsp;p</em>-adic Integers (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_782F13_lec5.pdf">The Field of&nbsp;<em>p</em>-adic Numbers, Absolute Values, Ostrowski's Theorem for Q (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Ostrowski's Theorem for Number Fields (No lecture notes but see&nbsp;<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="http://www.math.uconn.edu/~kconrad/blurbs/gradnumthy/ostrowskinumbfield.pdf">Ostrowski's Theorem for Number Fields (PDF)</a>&nbsp;by Keith Conrad)</td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_782F13_lec7.pdf">Product Formula for Number Fields, Completions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_782F13_lec8.pdf">Hensel's Lemma (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_782F13_lec9.pdf">Quadratic Forms (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_782F13_lec10.pdf">Hilbert Symbols (PDF)</a>,&nbsp;<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/18.782_Lecture_10.sws">18.782 Lecture 10 (SWS)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_782F13_lec11.pdf">Weak and Strong Approximation, Hasse-Minkowski Theorem for Q (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_782F13_lec12.pdf">Field Extensions, Algebraic Sets (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_782F13_lec13.pdf">Affine and Projective Varieties (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_782F13_lec14.pdf">Zariski Topology, Morphisms of Affine Varieties and Affine Algebras (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_782F13_lec15.pdf">Rational Maps and Function Fields (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_782F13_lec16.pdf">Products of Varieties and Chevalley's criterion for Completeness (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_782F13_lec17.pdf">Tangent Spaces, Singular Points, Hypersurfaces (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_782F13_lec18.pdf">Smooth Projective Curves (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_782F13_lec19.pdf">Divisors, The Picard Group (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_782F13_lec20.pdf">Degree Theorem for Morphisms of Curves (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_782F13_lec21.pdf">Riemann-Roch Spaces (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_782F13_lec22.pdf">Proof of the Riemann-Roch Theorem for Curves (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_782F13_lec23.pdf">Elliptic Curves and Abelian Varieties (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_782F13_lec24.pdf">Isogenies and Torsion Points, The Nagell-Lutz Theorem (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_782F13_lec25.pdf">The Mordell-Weil Theorem (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_782F13_lec26.pdf">Jacobians of Genus One Curves, The Weil-Chatelet and Tate-Shafarevich Groups (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
 
