@@ -65,6 +65,7 @@
  <li class="title"><a href="#course64">Introduction to Arithmetic Geometry</a></li>
   <li class="title"><a href="#course65">Elliptic Curves</a></li>
    <li class="title"><a href="#course66">Number Theory I</a></li>
+ <li class="title"><a href="#course67">Number Theory II: Class Field Theory</a></li>
 </ul>
 </br>
 
@@ -6775,3 +6776,16 @@
 </tbody>
 </table>
 </br>
+<h2 id ="course67">Number Theory II: Class Field Theory </h2>
+
+<p>This is the complete&nbsp;<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_786S16_notes.pdf">Lecture Notes&nbsp;<span class="nobr">(PDF - 1.6MB)</span></a>&nbsp;file with table of contents, index, and bibliography.&nbsp;</p>
+
+</br>
+
+
+
+
+
+
+
+
