@@ -78,6 +78,7 @@
  <li class="title"><a href="#course77">Simplicity Theory</a></li>
  <li class="title"><a href="#course78">Topics in Combinatorial Optimization</a></li>
   <li class="title"><a href="#course79">Topics in Mathematics of Data Science</a></li>
+  <li class="title"><a href="#course80">Topics in Mathematics with Applications in Finance</a></li>
 </ul>
 </br>
 
@@ -7603,10 +7604,82 @@
 </br>
 <p>Most of the lecture notes were consolidated into a monograph:&nbsp;<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F15_TenLec.pdf">Ten Lectures and Forty Two Open Problems in the Mathematics of Data Science (PDF - 2.7MB)</a></p>
 </br>
+<h2 id ="course80">Topics in Mathematics with Applications in Finance</h2>
 
-
-
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F13_lecnote1.pdf">Introduction &amp; Financial Terms and Concepts (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F13_lecnote2.pdf">Linear Algebra (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F13_lecnote3.pdf">Probability Theory (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F13_lecnote5.pdf">Stochastic Processes I (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F13_lecnote6.pdf">Regression Analysis (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F13_lecnote7.pdf">Value At Risk (VAR) Models (PDF - 1.1MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F13_lecnote8.pdf">Time Series Analysis I (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F13_lecnote9.pdf">Volatility Modeling (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F13_lecnote10.pdf">Regularized Pricing and Risk Models (PDF - 2.0MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F13_lecnote11.pdf">Time Series Analysis II (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F13_lecnote12.pdf">Time Series Analysis III (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F13_lecnote13.pdf">Commodity Models (PDF - 1.1MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F13_lecnote14.pdf">Portfolio Theory (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F13_lecnote15.pdf">Factor Modeling (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F13_lecnote16.pdf">Portfolio Management (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F13_lecnote17.pdf">Stochastic Processes II (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F13_lecnote18.pdf">Itō Calculus (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F13_lecnote19.pdf">Black-Scholes Formula &amp; Risk-neutral Valuation (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F13_lecnote21.pdf">Stochastic Differential Equations (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F13_lecnote23.pdf">Quanto Credit Hedging (PDF - 1.1MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F13_lecnote24.pdf">HJM Model for Interest Rates and Credit (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F13_lecnote25.pdf">Ross Recovery Theorem (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F13_lecnote26.pdf">Introduction to Counterparty Credit Risk Conclusions (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
 
 
 
