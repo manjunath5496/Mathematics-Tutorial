@@ -71,6 +71,7 @@
   <li class="title"><a href="#course70">Algebraic Topology II</a></li>
    <li class="title"><a href="#course71">Differential Geometry</a></li>
    <li class="title"><a href="#course72">Geometry of Manifolds</a></li>
+    <li class="title"><a href="#course73">Topics in Geometry: Mirror Symmetry</a></li>
 </ul>
 </br>
 
@@ -7170,4 +7171,116 @@
 </tbody>
 </table>
 </br>
+<h2 id ="course73">Topics in Geometry: Mirror Symmetry </h2>
+
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>The origins of mirror symmetry; overview of the course</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_969s09_lec01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Deformations of complex structures</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_969s09_lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Deformations continued, Hodge theory; pseudoholomorphic curves, transversality</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_969s09_lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Pseudoholomorphic curves, compactness, Gromov-Witten invariants</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_969s09_lec04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Quantum cohomology and Yukawa coupling on H<sup>1,1</sup>; K&auml;hler moduli space</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_969s09_lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The quintic 3-fold and its mirror; complex degenerations and monodromy</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_969s09_lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Monodromy weight filtration, large complex structure limit, canonical coordinates</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_969s09_lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Canonical coordinates and mirror symmetry; the holomorphic volume form on the mirror quintic and its periods</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_969s09_lec08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Picard-Fuchs equation and canonical coordinates for the quintic mirror family</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_969s09_lec09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Yukawa couplings and numbers of rational curves on the quintic; introduction to homological mirror symmetry</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_969s09_lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Lagrangian Floer homology</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_969s09_lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Lagrangian Floer theory: Hamiltonian isotopy invariance, grading, examples</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_969s09_lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Lagrangian Floer theory: product structures, A_<span style="font-size: medium;">&infin;</span>&nbsp;equations</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_969s09_lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Fukaya categories: first version; Floer homology twisted by flat bundles; defining CF(L,L)</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_969s09_lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Defining CF(L,L) continued; discs and obstruction. Coherent sheaves, examples, introduction to ext.</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_969s09_lec15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Ext groups; motivation for the derived category</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_969s09_lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The derived category; exact triangles; homs and exts.</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_969s09_lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Twisted complexes and the derived Fukaya category; Dehn twists, connected sums and exact triangles</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_969s09_lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Homological mirror symmetry: the elliptic curve; theta functions and Floer products</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_969s09_lec19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>HMS for the elliptic curve: Massey products; motivation for the SYZ conjecture</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_969s09_lec20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The SYZ conjecture; special Lagrangian submanifolds and their deformations</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_969s09_lec21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The moduli space of special Lagrangians: affine structures; mirror complex structure and K&auml;hler form</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_969s09_lec22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>SYZ continued; examples: elliptic curves, K3 surfaces</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_969s09_lec23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>SYZ from toric degenerations (K3 case); Landau-Ginzburg models, superpotentials; example: the mirror of CP<sup>1</sup></td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_969s09_lec24.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Homological mirror symmetry for CP<sup>1</sup>: matrix factorizations, admissible Lagrangians, etc.</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_969s09_lec25.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
 
