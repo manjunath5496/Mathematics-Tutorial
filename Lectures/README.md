@@ -8102,10 +8102,15 @@
 
 </br>
 
+<p> <strong>Exams and solutions</strong> </p>
 
 
-
-
+<ul>
+<li>Quiz 1 (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/quiz1.pdf">PDF</a>)</li>
+<li>Quiz 1 Solutions (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/quiz1_sol.pdf">PDF</a>)</li>
+<li>Quiz 2 (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/test2.pdf">PDF</a>)</li>
+</ul>
+</br>
 
 
 
