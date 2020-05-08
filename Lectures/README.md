@@ -7301,6 +7301,10 @@
 </ul>
 
 </br>
-
-
-
+<p> <strong>Projects and examples</strong> </p>
+<ul>
+<li>Report (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/numrand_report.pdf">PDF</a>)</li>
+<li>Slides 1 (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/numrand_talk1.pdf">PDF</a>)&nbsp;</li>
+<li>Slides 2 (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/numrand_talk2.pdf">PDF</a>)&nbsp;</li>
+</ul>
+</br>
