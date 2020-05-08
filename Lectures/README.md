@@ -50,6 +50,7 @@
    <li class="title"><a href="#course49">Advanced Complexity Theory</a></li>
    <li class="title"><a href="#course50">Algorithmic Aspects of Machine Learning</a></li>
   <li class="title"><a href="#course51">Behavior of Algorithms</a></li>
+   <li class="title"><a href="#course52">Design and Analysis of Algorithms</a></li>
 </ul>
 </br>
 
@@ -5331,11 +5332,194 @@
 </tbody>
 </table>
 </br>
+<h2 id ="course52">Design and Analysis of Algorithms</h2>
 
 
+<table class="tablewidth100" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_lec01.pdf">Overview, Interval Scheduling (PDF)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_writtenlec1.pdf">Overview, Interval Scheduling (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_lec02.pdf">Divide &amp; Conquer: Convex Hull, Median Finding (PDF)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_writtenlec2.pdf">Divide &amp; Conquer: Convex Hull, Median Finding (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_lec03.pdf">Divide &amp; Conquer: FFT (PDF)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_writtenlec3.pdf">Divide &amp; Conquer: FFT (PDF - 4.8MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_lec04.pdf">Divide &amp; Conquer: Van Emde Boas Trees (PDF)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_writtenlec4.pdf">Divide &amp; Conquer: Van Emde Boas Trees (PDF - 4.3MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_lec05.pdf">Amortization: Amortized Analysis (PDF)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_writtenlec5.pdf">Amortization: Amortized Analysis (PDF - 6.2MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_lec06.pdf">Randomization: Matrix Multiply, Quicksort (PDF)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_writtenlec6.pdf">Randomization: Matrix Multiply, Quicksort (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_lec07.pdf">Randomization: Skip Lists (PDF)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_writtenlec7.pdf">Randomization: Skip Lists (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_lec08.pdf">Randomization: Universal &amp; Perfect Hashing (PDF)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_writtenlec8.pdf">Randomization: Universal &amp; Perfect Hashing (PDF - 5.2MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_lec09.pdf">Augmentation: Range Trees (PDF)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_writtenlec9.pdf">Augmentation: Range Trees (PDF - 4.5MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_lec10.pdf">Dynamic Programming: Advanced DP (PDF)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_writtenlec10.pdf">Dynamic Programming: Advanced DP (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_lec11.pdf">Dynamic Programming: All-pairs Shortest Paths (PDF)</a></td>
+<td><span class="nobr"><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_writtenlec11.pdf">Dynamic Programming: All-pairs Shortest Paths 11 (PDF - 5.6MB)</a></span></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_lec12.pdf">Greedy Algorithms: Minimum Spanning Tree (PDF)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_writtenlec12.pdf">Greedy Algorithms: Minimum Spanning Tree (PDF - 5.1MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_lec13.pdf">Incremental Improvement: Max Flow, Min Cut (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_lec14A.pdf">Incremental Improvement: Matching (PDF)</a>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_lec14B.pdf">Baseball Elimination Notes (PDF)</a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_lec15.pdf">Linear Programming: LP, Reductions, Simplex (PDF)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_writtenlec15.pdf">Linear Programming: LP, Reductions, Simplex 15 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_lec16.pdf">Complexity: P, NP, NP-completeness, Reductions (PDF)</a></td>
+<td><span class="nobr"><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_writtenlec16.pdf">Complexity: P, NP, NP-completeness, Reductions 16 (PDF - 8.1MB)</a></span></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_lec17.pdf">Complexity: Approximation Algorithms (PDF)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_writtenlec17.pdf">Complexity: Approximation Algorithms (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_lec18.pdf">Complexity: Fixed-parameter Algorithms (PDF)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_writtenlec18.pdf">Complexity: Fixed-parameter Algorithms (PDF - 6.4MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_lec19.pdf">Synchronous Distributed Algorithms: Symmetry-breaking. Shortest-paths Spanning Trees (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_lec20.pdf">Asynchronous Distributed Algorithms: Shortest-paths Spanning Trees (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_lec21.pdf">Cryptography: Hash Functions (PDF)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_writtenlec21.pdf">Cryptography: Hash Functions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_lec22.pdf">Cryptography: Encryption (PDF)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_writtenlec22.pdf">Cryptography: Encryption (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_lec23.pdf">Cache-oblivious Algorithms: Medians &amp; Matrices (PDF)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_writtenlec23.pdf">Cache-oblivious Algorithms: Medians &amp; Matrices 23 (PDF - 6.1MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_lec24.pdf">Cache-oblivious Algorithms: Searching &amp; Sorting (PDF)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_writtenlec24.pdf">Cache-oblivious Algorithms: Searching &amp; Sorting (PDF - 5.4MB)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_pset1.pdf">Problem Set 1 (PDF)</a></td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_pset1sols.pdf">Solutions to Problem Set 1 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_pset2.pdf">Problem Set 2 (PDF)</a></td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_pset2sols.pdf">Solutions to Problem Set 2 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_pset3.pdf">Problem Set 3 (PDF)</a></td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_pset3sols.pdf">Solutions to Problem Set 3 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_pset4.pdf">Problem Set 4 (PDF)</a></td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_pset4sols.pdf">Solutions to Problem Set 4 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_pset5.pdf">Problem Set 5 (PDF)</a></td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_pset5sols.pdf">Solutions to Problem Set 5 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_pset6.pdf">Problem Set 6 (PDF)</a></td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_pset6sols.pdf">Solutions to Problem Set 6 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_pset7.pdf">Problem Set 7 (PDF)</a></td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_pset7sols.pdf">Solutions to Problem Set 7 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_pset8.pdf">Problem Set 8 (PDF)</a></td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_pset8sols.pdf">Solutions to Problem Set 8 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_pset9.pdf">Problem Set 9 (PDF)</a></td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_pset9sols.pdf">Solutions to Problem Set 9 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_pset10.pdf">Problem Set 10 (PDF)</a></td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_pset10sols.pdf">Solutions to Problem Set 10 (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/template.zip">LaTeX Template for Problem Sets (ZIP)</a>&nbsp;(This file contains: 1 .cls file, 2 .sty files, 1 .pdf file and 1 .tex file.)</p>
+
+</br>
+
+<p> <strong>Exams and solutions</strong> </p>
 
 
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">EXAMS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_quiz1.pdf">Quiz 1 (PDF)</a></td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_quiz1sols.pdf">Solutions to Quiz 1 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_quiz2.pdf">Quiz 2 (PDF)</a></td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_quiz2sols.pdf">Solutions to Quiz 2 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_final.pdf">Final Exam (PDF)</a></td>
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT6_046JS15_finalsols.pdf">Solutions to Final Exam (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
 
 
 
