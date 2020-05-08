@@ -48,6 +48,7 @@
  <li class="title"><a href="#course47">Random Walks and Diffusion</a></li>
   <li class="title"><a href="#course48">Nonlinear Dynamics and Chaos</a></li>
    <li class="title"><a href="#course49">Advanced Complexity Theory</a></li>
+   <li class="title"><a href="#course50">Algorithmic Aspects of Machine Learning</a></li>
 </ul>
 </br>
 
@@ -5200,4 +5201,44 @@
 <li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_405JS16_Data_Struc.pdf">Data Structure Lower Bounds via Communication Complexity (PDF)</a>&nbsp;</li>
 </ul>
 </br>
+<h2 id ="course50">Algorithmic Aspects of Machine Learning</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_409S15_intro.pdf">Introduction (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_409S15_chapp2.pdf">Nonnegative Matrix Factorization (PDF)</a></p>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_409S15_lec1a.pdf">New Algorithms for Nonnegative Matrix Factorization and Beyond (PDF - 1.8MB)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_409S15_chapp3.pdf">Tensor Decompositions (PDF)</a></p>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_409S15_lec2a.pdf">Tensor Decompositions and Their Applications (PDF - 1.9MB)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_409S15_chapp4.pdf">Sparse Coding (PDF)</a></p>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_409S15_lec3a.pdf">Alternating Minimization via Approximate Gradient Descent (PDF - 1.3MB)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_409S15_chapp6.pdf">Learning Mixture Models (PDF)</a></p>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_409S15_lec4a.pdf">Method of Moments and Systems of Polynomial Equations (PDF - 1.5MB)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_409S15_chapp7.pdf">Linear Inverse Problems (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
 
