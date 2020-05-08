@@ -59,6 +59,7 @@
   <li class="title"><a href="#course58">Seminar in Algebra and Number Theory: Rational Points on Elliptic Curves</a></li>
  <li class="title"><a href="#course59">Introduction to Representation Theory</a></li>
   <li class="title"><a href="#course60">Algebraic Geometry</a></li>
+  <li class="title"><a href="#course61">Double Affine Hecke Algebras in Representation Theory, Combinatorics, Geometry, and Mathematical Physics</a></li>
 </ul>
 </br>
 
@@ -6196,5 +6197,16 @@
 
 <h2 id ="course60">Algebraic Geometry </h2>
 <p>All lecture notes in one file:&nbsp;<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_725F15_notes.pdf">18.725 Lecture Notes (PDF)</a></p>
+
+</br>
+
+<h2 id ="course61">Double Affine Hecke Algebras in Representation Theory, Combinatorics, Geometry, and Mathematical Physics</h2>
+
+<p>Complete lecture notes (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_735F09_lec.pdf">PDF - 2.4MB</a>)</p>
+
+</br>
+
+
+
 
 
