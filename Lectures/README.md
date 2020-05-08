@@ -8201,11 +8201,44 @@
 </table>
 </br>
 
+<p> <strong>Assignments: problem sets with solutions</strong> </p>
 
 
-
-
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem set 1 (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/homework1.pdf">PDF</a>)</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/solution1.pdf">PDF - 1.2 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 2 (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/homework2.pdf">PDF</a>)</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/solution2.pdf">PDF - 1.3 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 3 (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/homework3.pdf">PDF</a>)</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/solution3.pdf">PDF - 1.0 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 4 (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/homework4.pdf">PDF</a>)</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/sol4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 5 (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/homework5.pdf">PDF</a>)</td>
+<td>(<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/sol5.pdf">PDF - 1.1 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 6 (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/homework6.pdf">PDF</a>)</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/sol6.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
 
 
 
