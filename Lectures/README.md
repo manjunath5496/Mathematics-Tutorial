@@ -46,6 +46,7 @@
      <li class="title"><a href="#course45">Interfacial Phenomena</a></li>
       <li class="title"><a href="#course46">Introduction to Modeling and Simulation</a></li>
  <li class="title"><a href="#course47">Random Walks and Diffusion</a></li>
+  <li class="title"><a href="#course48">Nonlinear Dynamics and Chaos</a></li>
 </ul>
 </br>
 
@@ -5100,3 +5101,17 @@
 </tbody>
 </table>
 </br>
+<h2 id ="course48">Nonlinear Dynamics and Chaos</h2>
+
+<ul>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_385JF14_SelectedLec.pdf">Selected Lecture Notes from Fall 2012 (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_385JF14_Bead_on_Wire.pdf">Bead Moving along a Thin, Rigid Wire (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_385JF14_BabyNormlFms.pdf">Bifurcations: Baby Normal Forms (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_385JF14_Tricky_Point.pdf">Tricky Asymptotics Fixed Point Notes (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_385JF14_nonoscilatrs.pdf">Weakly Nonlinear Things: Oscilators (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_385JF14_Hopf-Bif.pdf">Hopf Bifurcations (PDF)</a></li>
+</ul>
+</br>
+
+
+
