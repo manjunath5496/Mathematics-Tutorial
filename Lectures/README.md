@@ -52,6 +52,7 @@
   <li class="title"><a href="#course51">Behavior of Algorithms</a></li>
    <li class="title"><a href="#course52">Design and Analysis of Algorithms</a></li>
   <li class="title"><a href="#course53">Probability and Random Variables</a></li>
+   <li class="title"><a href="#course54">Introduction to Stochastic Processes</a></li>
 </ul>
 </br>
 
@@ -5690,7 +5691,90 @@
 
 </br>
 
+<h2 id ="course54">Introduction to Stochastic Processes</h2>
 
 
-
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_445S15_lecture1.pdf">Introduction to Finite Markov Chains (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_445S15_lecture2.pdf">Markov Chains: Stationary Distribution (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_445S15_lecture3.pdf">Markov Chains: Time-reversal (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_445S15_lecture4.pdf">Introduction to Markov Chain Mixing (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_445S15_lecture5.pdf">Stationary Times (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_445S15_lecture6.pdf">Lower Bounds on Mixing Times (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_445S15_lecture7.pdf">Summary on Mixing Times (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_445S15_lecture8.pdf">Random Walk on Networks 1 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_445S15_lecture9.pdf">Random Walk on Networks 2 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_445S15_lecture10.pdf">Hitting Times (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_445S15_lecture11.pdf">Summary on Random Walk on Networks (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_445S15_lecture12.pdf">Countable State Space Chain 1 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_445S15_lecture13.pdf">Countable State Space Chain 2 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_445S15_lecture15.pdf">Conditional Expectation and Introduction to Martingales (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_445S15_lecture16.pdf">Martingales: Optional Stopping Theorem (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_445S15_lecture17.pdf">Martingales: Convergence (PDF)</a></p>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_445S15_Almost_sure.pdf">Almost Sure Convergence (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_445S15_lecture18.pdf">Martingales: Uniformly Integrable (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_445S15_lecture19.pdf">Galton-Watson Tree (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_445S15_lecture20.pdf">Poisson Process (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_445S15_lecture21.pdf">Continuous Time Markov Chain (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_445S15_lecture22.pdf">Infinitesimal Generator (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_445S15_lecture23.pdf">Irreducible and Recurrence (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_445S15_lecture24.pdf">Stationary Distribution (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+<ul>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_445S15_homework4.pdf">Assignments 4 (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_445S15_homework4_sol.pdf">Assignments 4 Solution (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_445S15_homework5.pdf">Assignments 5 (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_445S15_homework5_sol.pdf">Assignments 5 Solution (PDF)</a></li>
+</ul>
+</br>
