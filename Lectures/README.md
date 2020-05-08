@@ -63,6 +63,7 @@
    <li class="title"><a href="#course62">Introduction to Lie Groups</a></li>
     <li class="title"><a href="#course63">Theory of Numbers</a></li>
  <li class="title"><a href="#course64">Introduction to Arithmetic Geometry</a></li>
+  <li class="title"><a href="#course65">Elliptic Curves</a></li>
 </ul>
 </br>
 
@@ -6464,4 +6465,220 @@
 </tbody>
 </table>
 </br>
+<h2 id ="course65">Elliptic Curves</h2>
+
+<table class="tablewidth100" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_783S19_lec1.pdf">Introduction to Elliptic Curves (PDF - 1MB)</a></p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_783S19_lec2.pdf">The Group Law, Weierstrass, and Edwards Equations (PDF)</a></p>
+</td>
+<td>
+<p><a href="https://share.cocalc.com/share/a113e25fbea48a4d5c8076a60cc7f0ec90ee065c/18.783%20Lecture%202%20Proof%20of%20associativity.sagews?viewer=share">18.783 Lecture 2: Proof of Associativity (SAGEWS)</a></p>
+<p><a href="https://share.cocalc.com/share/0a635326a2106bb0c4876214f7b364f6408333b8/18.783%20Lecture%202%20Group%20law%20on%20Edwards%20curves.sagews?viewer=share">18.783 Lecture 2: Group Law on Edwards Curves (SAGEWS)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_783S19_lec3.pdf">Finite Fields and Integer Arithmetic (PDF)</a></p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_783S19_lec4.pdf">Finite Field Arithmetic (PDF)</a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_783S19_lec5.pdf">Isogenies (PDF)</a></p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_783S19_lec6.pdf">Isogeny Kernels and Division Polynomials (PDF)</a></p>
+</td>
+<td>
+<p><a href="https://share.cocalc.com/share/6c380724-2efb-4b0c-9b19-3a7f107ce7e7/18.783%20Lecture%206%20Division%20polynomials.sagews?viewer=share">18.783 Lecture 6: Division Polynomials (SAGEWS)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_783S19_lec7.pdf">Endomorphism Rings (PDF)</a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_783S19_lec8.pdf">Hasse's Theorem, Point Counting (PDF)</a></p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_783S19_lec9.pdf">Schoof's Algorithm (PDF)</a></p>
+</td>
+<td>
+<p><a href="https://share.cocalc.com/share/6c380724-2efb-4b0c-9b19-3a7f107ce7e7/18.783%20Lecture%209%20Schoof's%20algorithm.sagews?viewer=share">18.783 Lecture 9: Schoof's Algorithm (SAGEWS)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_783S19_lec10.pdf">Generic Algorithms for Discrete Logarithms (PDF)</a></p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_783S19_lec11.pdf">Index Calculus, Smooth Numbers, and Factoring Integers (PDF)</a></p>
+</td>
+<td>
+<p><a href="https://share.cocalc.com/share/6c380724-2efb-4b0c-9b19-3a7f107ce7e7/18.783%20Lecture%2011%20Index%20calculus.sagews?viewer=share">18.783 Lecture 11: Index Calculus (SAGEWS)</a></p>
+<p><a href="https://share.cocalc.com/share/6c380724-2efb-4b0c-9b19-3a7f107ce7e7/18.783%20Lecture%2011%20Pollard%20p-1.sagews?viewer=share">18.783 Lecture 11: Pollard P-1 (SAGEWS)</a></p>
+<p><a href="https://share.cocalc.com/share/6c380724-2efb-4b0c-9b19-3a7f107ce7e7/18.783%20Lecture%2011%20Montgomery%20ECM.sagews?viewer=share">18.783 Lecture 11: Montgomery ECM (SAGEWS)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_783S19_lec12.pdf">Elliptic Curve Primality Proving (ECPP) (PDF)</a></p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_783S19_lec13.pdf">Endomorphism Algebras (PDF)</a></p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_783S19_lec14.pdf">Ordinary and Supersingular Curves (PDF)</a></p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_783S19_lec15.pdf">Elliptic Curves over C (Part 1) (PDF)</a></p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_783S19_lec16.pdf">Elliptic Curves over C (Part 2) (PDF)</a></p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_783S19_lec17.pdf">Complex Multiplication (PDF)</a></p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_783S19_lec18.pdf">The CM Torsor (PDF)</a></p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_783S19_lec19.pdf">Riemann Surfaces and Modular Curves (PDF)</a></p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_783S19_lec20.pdf">The Modular Equation (PDF)</a></p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_783S19_lec21.pdf">The Hilbert Class Polynomial (PDF)</a></p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_783S19_lec22.pdf">Ring Class Fields and the CM Method (PDF)</a></p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_783S19_lec23.pdf">Isogeny Volcanoes (PDF)</a></p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_783S19_lec24.pdf">Divisors and the Weil Pairing (PDF)</a></p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_783S19_lec25.pdf">Modular Forms and L-Functions (PDF)</a></p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_783S19_lec26.pdf">Fermat's Last Theorem (PDF)</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
+
+
 
