@@ -54,6 +54,7 @@
   <li class="title"><a href="#course53">Probability and Random Variables</a></li>
    <li class="title"><a href="#course54">Introduction to Stochastic Processes</a></li>
  <li class="title"><a href="#course55">Statistics for Applications</a></li>
+  <li class="title"><a href="#course56">Mathematical Statistics</a></li>
 </ul>
 </br>
 
@@ -5817,6 +5818,74 @@
 
 </br>
 
+<h2 id ="course56">Mathematical Statistics</h2>
 
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_655S16_LecNote1.pdf">Course Overview (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_655S16_LecNote2.pdf">Statistical Models (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_655S16_LecNote3.pdf">Bayesian Models (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_655S16_LecNote4.pdf">Decision Theoretic Framework (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_655S16_LecNote5.pdf">Prediction (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_655S16_LecNote6.pdf">Sufficiency (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_655S16_LecNote7.pdf">Exponential Families I (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_655S16_LecNote8.pdf">Exponential Families II (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_655S16_LecNote9.pdf">Methods of Estimation I (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_655S16_LecNote10.pdf">Methods of Estimation II (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_655S16_LecNote11.pdf">Bayes Procedures (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_655S16_LecNote12.pdf">Minimax Procedures (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_655S16_LecNote13.pdf">Unbiased Estimation and Risk Inequalities (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_655S16_LecNote14.pdf">Convergence of Random Variables Probability Inequalities (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_655S16_LecNote15.pdf">Limit Theorems (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_655S16_LecNote16.pdf">Asymptotics I: Consistency and Delta Method (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_655S16_LecNote17.pdf">Asymptotics II: Limiting Distributions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_655S16_LecNote18.pdf">Asymptotics III: Bayes Inference and Large-Sample Tests (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_655S16_LecNote19.pdf">Gaussian Linear Models (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_655S16_LecNote20_25.pdf">Generalized Linear Models (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_655S16_LecNote26.pdf">Case Study: Applying Generalized Linear Models (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
 
