@@ -64,6 +64,7 @@
     <li class="title"><a href="#course63">Theory of Numbers</a></li>
  <li class="title"><a href="#course64">Introduction to Arithmetic Geometry</a></li>
   <li class="title"><a href="#course65">Elliptic Curves</a></li>
+   <li class="title"><a href="#course66">Number Theory I</a></li>
 </ul>
 </br>
 
@@ -6681,7 +6682,96 @@
 
 </br>
 
+<h2 id ="course66">Number Theory I </h2>
 
+<p>The complete lecture notes:&nbsp;<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s104" /><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_785F19_full_notes.pdf" data-smd-id="s105"><em>Number Theory I</em>&nbsp;(PDF - 8.4MB)</a>&nbsp;</p>
 
-
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s106" /><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_785F19_lec1.pdf" data-smd-id="s107">Absolute values and discrete valuations (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s108" /><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_785F19_lec2.pdf" data-smd-id="s109">Localization and Dedekind domains (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s110" /><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_785F19_lec3.pdf" data-smd-id="s111">Properties of Dedekind domains, ideal class groups, factorization of ideals (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s112" /><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_785F19_lec4.pdf" data-smd-id="s113">&Eacute;tale algebras, norm and trace (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s114" /><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_785F19_lec5.pdf" data-smd-id="s115">Dedekind extensions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s116" /><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_785F19_lec6.pdf" data-smd-id="s117">Ideal norms and the Dedekind-Kummer theorem (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s118" /><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_785F19_lec7.pdf" data-smd-id="s119">Galois extensions, Frobenius elements, and the Artin map (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s120" /><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_785F19_lec8.pdf" data-smd-id="s121">Complete fields and valuation rings (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s122" /><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_785F19_lec9.pdf" data-smd-id="s123">Local fields and Hensel's lemmas (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s124" /><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_785F19_lec10.pdf" data-smd-id="s125">Extensions of complete DVRs (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s126" /><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_785F19_lec11.pdf" data-smd-id="s127">Totally ramified extensions and Krasner's lemma (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s128" /><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_785F19_lec12.pdf" data-smd-id="s129">The different and the discriminant (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s130" /><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_785F19_lec13.pdf" data-smd-id="s131">Global fields and the product formula (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s132" /><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_785F19_lec14.pdf" data-smd-id="s133">The geometry of numbers (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s134" /><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_785F19_lec15.pdf" data-smd-id="s135">Dirichlet's unit theorem (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s136" /><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_785F19_lec16.pdf" data-smd-id="s137">Riemann's zeta function and the prime number theorem (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s138" /><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_785F19_lec17.pdf" data-smd-id="s139">The functional equation (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s140" /><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_785F19_lec18.pdf" data-smd-id="s141">Dirichlet&nbsp;<em>L</em>-functions and primes in arithmetic progressions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_785F19_lec19.pdf" data-smd-id="s142"><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s143" />The analytic class number formula (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s144" /><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_785F19_lec20.pdf" data-smd-id="s145">The Kronecker-Weber theorem (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s146" /><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_785F19_lec21.pdf" data-smd-id="s147">Class field theory: ray class groups and ray class fields (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s148" /><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_785F19_lec22.pdf" data-smd-id="s149">The main theorems of global class field theory (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s150" /><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_785F19_lec23.pdf" data-smd-id="s151">Tate cohomology (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s152" /><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_785F19_lec24.pdf" data-smd-id="s153">Artin reciprocity in the unramified case (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s154" /><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_785F19_lec25.pdf" data-smd-id="s155">The ring of adeles, strong approximation (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s156" /><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_785F19_lec26.pdf" data-smd-id="s157">The idele group, profinite groups, infinite Galois theory (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s158" /><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_785F19_lec27.pdf" data-smd-id="s159">Local class field theory (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." data-smd-id="s160" /><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/MIT18_785F19_lec28.pdf" data-smd-id="s161">Global class field theory and the Chebotarev density theorem (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
