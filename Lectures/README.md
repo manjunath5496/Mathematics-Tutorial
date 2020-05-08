@@ -8120,7 +8120,7 @@
 <tbody>
 <tr class="row">
 <td>Fibonacci heaps</td>
-<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/lec1.pdf">PDF</a>)</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/leck.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
 <td>Network flows</td>
