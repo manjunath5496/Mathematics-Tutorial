@@ -53,6 +53,7 @@
    <li class="title"><a href="#course52">Design and Analysis of Algorithms</a></li>
   <li class="title"><a href="#course53">Probability and Random Variables</a></li>
    <li class="title"><a href="#course54">Introduction to Stochastic Processes</a></li>
+ <li class="title"><a href="#course55">Statistics for Applications</a></li>
 </ul>
 </br>
 
@@ -5778,3 +5779,44 @@
 <li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_445S15_homework5_sol.pdf">Assignments 5 Solution (PDF)</a></li>
 </ul>
 </br>
+<h2 id ="course55">Statistics for Applications</h2>
+<table class="tablewidth50" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_650F16_Introduction.pdf">Introduction to Statistics (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_650F16_Parametric_Inf.pdf">Parametric Inference (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_650F16_Maximum_LE.pdf">Maximum Likelihood Estimation (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_650F16_Method_of_Moments.pdf">The Method of Moments (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_650F16_Parametric_HT.pdf">Parametric Hypothesis Testing (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_650F16_Testing_GF.pdf">Testing Goodness of Fit (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_650F16_Regression.pdf">Regression&nbsp;<span class="nobr">(PDF - 1.2MB)</span></a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_650F16_Bayesian_Statistics.pdf">Bayesian Statistics (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_650F16_PCA.pdf">Principal Component Analysis (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_650F16_GLM.pdf">Generalized Linear Models (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
+
+
