@@ -69,6 +69,7 @@
   <li class="title"><a href="#course68">Introduction to Topology</a></li>
    <li class="title"><a href="#course69">Algebraic Topology I</a></li>
   <li class="title"><a href="#course70">Algebraic Topology II</a></li>
+   <li class="title"><a href="#course71">Differential Geometry</a></li>
 </ul>
 </br>
 
@@ -7037,7 +7038,22 @@
 </tbody>
 </table>
 </br>
+<h2 id ="course71">Differential Geometry</h2>
 
-
-
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Chapter 1: Local and global geometry of plane curves (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/ch1_revised.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Chapter 2: Local geometry of hypersurfaces (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/ch2_revised.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Chapter 3: Global geometry of hypersurfaces (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/ch3_revised.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Chapter 4: Geometry of lengths and distances (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/ch4_revised.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
