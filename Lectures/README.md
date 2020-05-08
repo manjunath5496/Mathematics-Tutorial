@@ -7819,9 +7819,15 @@
 </table>
 </br>
 
+<ul>
+<li class="title">Calculus Online Textbook (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/1_PDFsam_Calculus.pdf">Part I</a>)</li>
+
+<li class="title">Calculus Online Textbook (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/301_PDFsam_Calculus.pdf">Part II</a>)</li>
 
 
+</ul>
 
+</br>
 
 
 
