@@ -84,6 +84,7 @@
      <li class="title"><a href="#course83">Distributed Algorithms</a></li>
     <li class="title"><a href="#course84">Quantum Computation</a></li>
    <li class="title"><a href="#course85">Advanced Algorithms</a></li>
+   <li class="title"><a href="#course86">Error-Correcting Codes Laboratory</a></li>
 </ul>
 </br>
 
@@ -8239,7 +8240,155 @@
 </tbody>
 </table>
 </br>
+<h2 id ="course86">Error-Correcting Codes Laboratory </h2>
 
 
-
-
+<table class="tablewidth50" summary="Course Table Listing">
+<tbody>
+<tr class="gray-row">
+<td headers="col2">
+<p>Signing&nbsp;Up</p>
+<p>First&nbsp;Reading&nbsp;Assignment</p>
+<p>Lecture #1</p>
+</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/lec1.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td headers="col2">
+<p>Channels</p>
+<p>Capacity and Mutual Information</p>
+</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/lect2.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td headers="col2">
+<p>Analysis of Repetition Code Meta-channel</p>
+<p>Capacity of Meta-channel</p>
+<p>Prior, Extrinsic, Posterior and Intrinsic Probabilities</p>
+</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/lect3.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td headers="col2">
+<p>Prior, Extrinsic and Posterior Probabilities, II</p>
+<p>Normalizing Constants</p>
+<p>Example: Symmetric Channels</p>
+<p>Decoding Codes</p>
+<p>Example: Parity</p>
+</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/lect4.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td headers="col2">
+<p>Parity Continued<br />The Gaussian Distribution</p>
+<p>The Gaussian and Erasure Channels</p>
+<p>The Parity Product Code</p>
+<p>BER</p>
+<p>Heuristic Decoding of the Parity Product Code</p>
+<p>Confidence Intervals</p>
+<p>How big should N be?</p>
+<p>Plotting in MATLAB&reg;</p>
+</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/lect5.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td headers="col2">
+<p>Introduction</p>
+<p>Two Variables</p>
+<p>Simplifying Computations</p>
+<p>Three Variables</p>
+<p>Trees</p>
+</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/lect6.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td headers="col2">
+<p>Markov Property</p>
+<p>Simplifying Probability Computation</p>
+</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/lect7.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td headers="col2">
+<p>Vector Spaces</p>
+<p>Duals of vector spaces</p>
+<p>Codes and Matrices</p>
+</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/lect8.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td headers="col2">
+<p>LDPC Codes</p>
+<p>Decoding</p>
+<p>SNR, dB</p>
+</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/lect9.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td headers="col2">In-class debugging session</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="gray-row">
+<td headers="col2">
+<p>Belief Propagation on Trees</p>
+<p>Dynamic Programming</p>
+<p>Infnite Trees</p>
+<p>Small Project 2</p>
+</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/lect11.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td headers="col2">
+<p>Representing Probabilities, Equality Nodes</p>
+<p>Representing Probabilities, Parity Nodes</p>
+</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/lect12.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td headers="col2">
+<p>The Binary Erasure Channel</p>
+<p>Analysis of LDPC on BEC</p>
+<p>Making the Analysis Rigorous on Trees</p>
+<p>Using the Polynomials</p>
+<p>Capacity Estimation, Revisited</p>
+</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/lect13.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td headers="col2">
+<p>Convolutional Codes</p>
+<p>Trellis Representation</p>
+<p>Decoding Convolutional Codes</p>
+</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/lect14.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td headers="col2">
+<p>Remarks on Convolutional Codes</p>
+<p>Turbo Codes</p>
+<p>Decoding</p>
+<p>Exit Charts</p>
+</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/lect15.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td headers="col2">
+<p>Decoding Modules</p>
+<p>Final Projects</p>
+</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/lect16.pdf">PDF</a>)</td>
+</tr>
+<tr class="gray-row">
+<td headers="col2">
+<p>Developments in Iterative Decoding</p>
+<p>Achieving Capacity on the BEC</p>
+<p>Encoding</p>
+<p>Density Evolution</p>
+<p>Exit Charts, Revisited</p>
+<p>Why we use bad codes to make good codes?</p>
+</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/8/lect17.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
