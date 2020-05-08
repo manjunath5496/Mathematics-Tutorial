@@ -7588,7 +7588,7 @@
 <td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F15_Ses15_16.pdf">Johnson-Lindenstrauss Lemma and Gordon's Theorem (PDF)</a></td>
 </tr>
 <tr class="row">
-<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F15_Ses17.pdf">Local Convergence of Graphs and Enumeration of Spanning Trees (PDF)</a>&nbsp;(Courtesy of Mustazee Rahman. Used with permission.)</td>
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F15_Ses17.pdf">Local Convergence of Graphs and Enumeration of Spanning Trees (PDF)</a>&nbsp;</td>
 </tr>
 <tr class="alt-row">
 <td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F15_Ses18_19.pdf">Compressed Sensing and Sparse Recovery (PDF)</a></td>
