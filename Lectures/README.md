@@ -5180,6 +5180,23 @@
 </table>
 
 </br>
-
-
+<ul>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_405JS16_Zig-Zag.pdf">The Zig-Zag Product and USTCON &isin; L (PDF)</a>&nbsp;</li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_405JS16_Quantifiers.pdf">Descriptive Complexity and Some Unusual Quantifiers (PDF)</a>&nbsp;</li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_405JS16_SuinctlyEcod.pdf">A Survey of the Complexity of Succinctly Encoded Problems (PDF)</a>&nbsp;</li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_405JS16_Protocols.pdf">Separations between Information and Communication Complexity for Protocols (PDF)</a>&nbsp;</li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_405JS16_Fourier.pdf">Fourier Analysis and Inapproximability for MAX-CUT: A Case Study (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_405JS16_PolynmalMethod.pdf">The Polynomial Method and All-Pairs Shortest Paths (PDF)</a>&nbsp;</li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_405JS16_QuantumCompt.pdf">Quantum computing and #P-complete Problems (PDF)</a>&nbsp;</li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_405JS16_PaternMatrix.pdf">The Pattern Matrix Method (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_405JS16_RandomOracle.pdf">Random Oracles, The Polynomial-Time Hierarchy, and Constant-depth Circuits (PDF)</a></li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_405JS16_Large_Com.pdf">Large Communication Complexity Classes (PDF)</a>&nbsp;</li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_405JS16_ParalelRepetiton.pdf">A Survey of Parallel Repetition and Projection Games (PDF)</a>&nbsp;</li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_405JS16_Cis_Program.pdf">The Clique vs Independent Set Problem and Related Results in Graph Theory (PDF)</a>&nbsp;</li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_405JS16_Multiparty.pdf">Multiparty Communication Complexity for Set Disjointness: A Lower Bound (PDF)</a>&nbsp;</li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_405JS16_SAT_Problems.pdf">On Polynomial Lower Bounds Based on Complexity of SAT Problems (PDF)</a>&nbsp;</li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_405JS16_Unambiguous.pdf">Unambiguous Computation (PDF)</a>&nbsp;</li>
+<li><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_405JS16_Data_Struc.pdf">Data Structure Lower Bounds via Communication Complexity (PDF)</a>&nbsp;</li>
+</ul>
+</br>
 
