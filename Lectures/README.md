@@ -55,6 +55,7 @@
    <li class="title"><a href="#course54">Introduction to Stochastic Processes</a></li>
  <li class="title"><a href="#course55">Statistics for Applications</a></li>
   <li class="title"><a href="#course56">Mathematical Statistics</a></li>
+  <li class="title"><a href="#course57">Mathematics of Machine Learning</a></li>
 </ul>
 </br>
 
@@ -5888,4 +5889,86 @@
 </tbody>
 </table>
 </br>
+<h2 id ="course57">Mathematics of Machine Learning</h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_657F15_L1.pdf">Introduction (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_657F15_L2.pdf">Binary Classification (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_657F15_L3.pdf">Concentration Inequalities (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_657F15_L4.pdf">Fast Rates and VC Theory (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_657F15_L5.pdf">The VC Inequality (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_657F15_L6.pdf">Covering Numbers (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_657F15_L7.pdf">Chaining (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_657F15_L8.pdf">Convexification (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_657F15_L9.pdf">Boosting (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_657F15_L10.pdf">Support Vector Machines (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_657F15_L11.pdf">Gradient Descent (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_657F15_L12.pdf">Projected Gradient Descent (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_657F15_L13.pdf">Mirror Descent (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_657F15_L14.pdf">Stochastic Gradient Descent (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_657F15_L15.pdf">Prediction with Expert Advice (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_657F15_L16.pdf">Follow the Perturbed Leader (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_657F15_L17.pdf">Online Learning with Structured Experts (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_657F15_L18.pdf">Stochastic Bandits (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_657F15_L19.pdf">Prediction of Individual Sequences (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_657F15_L20.pdf">Adversarial Bandits (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_657F15_L21.pdf">Linear Bandits (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_657F15_L22.pdf">Blackwell's Approachability (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/3/MIT18_657F15_L23.pdf">Potential Based Approachability (PDF)</a>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
+
+
 
