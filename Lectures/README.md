@@ -57,6 +57,7 @@
   <li class="title"><a href="#course56">Mathematical Statistics</a></li>
   <li class="title"><a href="#course57">Mathematics of Machine Learning</a></li>
   <li class="title"><a href="#course58">Seminar in Algebra and Number Theory: Rational Points on Elliptic Curves</a></li>
+ <li class="title"><a href="#course59">Introduction to Representation Theory</a></li>
 </ul>
 </br>
 
@@ -6186,6 +6187,13 @@
 <li>Elliptic Curves in Public Key Cryptography: The Diffie Hellman Key Exchange Protocol and its relationship to the Elliptic Curve Discrete Logarithm Problem (<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/haraksingh.pdf">PDF</a>)</li>
 </ul>
 </br>
+<h2 id ="course59">Introduction to Representation Theory</h2>
+
+<p>Complete Lecture Notes&nbsp;<span class="nobr">(<a href="https://github.com/manjunath5496/List-of-Russian-mathematicians/blob/master/4/MIT18_712F10_replect.pdf">PDF - 1.3MB</a>)</span></p>
+
+</br>
+
+
 
 
 
