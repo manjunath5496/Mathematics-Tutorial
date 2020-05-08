@@ -70,6 +70,7 @@
    <li class="title"><a href="#course69">Algebraic Topology I</a></li>
   <li class="title"><a href="#course70">Algebraic Topology II</a></li>
    <li class="title"><a href="#course71">Differential Geometry</a></li>
+   <li class="title"><a href="#course72">Geometry of Manifolds</a></li>
 </ul>
 </br>
 
@@ -7057,3 +7058,116 @@
 </tbody>
 </table>
 </br>
+<h2 id ="course72">Geometry of Manifolds </h2>
+
+
+<table class="tablewidth75" summary="Course Table Listing">
+<tbody>
+<tr class="row">
+<td headers="col2">Manifolds: Definitions and Examples</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lecture1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Smooth Maps and the&nbsp; Notion of Equivalence<br /><br />Standard Pathologies</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lecture2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">The Derivative of a Map between Vector Spaces</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lecture3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Inverse and Implicit Function Theorems</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lecture4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">More Examples</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lecture5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Vector Bundles and the Differential: New Vector Bundles from Old</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lecture6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Vector Bundles and the Differential: The Tangent Bundle</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lecture7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Connections<br /><br />Partitions of Unity<br /><br />The Grassmanian is Universal</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lecture8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">The Embedding Manifolds in R<sup>N</sup></td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lecture9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Sard's Theorem</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lecture10_11.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Stratified Spaces</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lecture12.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Fiber Bundles</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lecture13.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Whitney's Embedding Theorem, Medium Version</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lecture14.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">A Brief Introduction to Linear Analysis: Basic Definitions<br /><br />A Brief Introduction to Linear Analysis: Compact Operators&nbsp;</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lecture15.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">A Brief Introduction to Linear Analysis: Fredholm Operators</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lecture16_17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Smale's Sard Theorem</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lecture18_19.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Parametric Transversality</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lecture20.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">The Strong Whitney Embedding Theorem</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lecture21_22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Morse Theory</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lecture23_28.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Canonical Forms: The Lie Derivative</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lecture29.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Canonical Forms: The Frobenious Integrability Theorem<br /><br />Canonical Forms: Foliations<br /><br />Characterizing a Codimension One Foliation in Terms of its Normal Vector<br /><br />The Holonomy of Closed Loop in a Leaf<br /><br />Reeb's Stability Theorem</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lecture30.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Differential Forms and de Rham's Theorem: The Exterior Algebra</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lecture31.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Differential Forms and de Rham's Theorem: The Poincar&eacute; Lemma and Homotopy Invariance of the de Rham Cohomology<br /><br />Cech Cohomology</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lecture32.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Refinement The Acyclicity of the Sheaf of p-forms</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lecture33.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">The Poincar&eacute; Lemma Implies the Equality of Cech Cohomology and de Rham Cohomology</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lecture34.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">The Immersion Theorem of Smale</td>
+<td headers="col3">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lecture35.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
