@@ -74,6 +74,7 @@
     <li class="title"><a href="#course73">Topics in Geometry: Mirror Symmetry</a></li>
      <li class="title"><a href="#course74">Topics in Geometry: Dirac Geometry</a></li>
       <li class="title"><a href="#course75">Random Matrix Theory and Its Applications</a></li>
+    <li class="title"><a href="#course76">Topics in Theoretical Computer Science: Internet Research Problems</a></li>
 </ul>
 </br>
 
@@ -7308,3 +7309,89 @@
 <li>Slides 2 (<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/numrand_talk2.pdf">PDF</a>)&nbsp;</li>
 </ul>
 </br>
+<h2 id ="course76">Topics in Theoretical Computer Science: Internet Research Problems </h2>
+
+<table class="tablewidth75" style="width: 441px;" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td style="width: 242px;">Introduction</td>
+<td style="width: 134px;"><span class="nobr">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lec1present.pdf">PDF - 5.2 MB</a>)</span></td>
+<td style="width: 43px;">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lect1_mit.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td style="width: 242px;">Routing Algorithms</td>
+<td style="width: 134px;">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lec2present.pdf">PDF</a>)</td>
+<td style="width: 43px;">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lecture2_mit.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td style="width: 242px;">Routing Algorithms (cont.)</td>
+<td style="width: 134px;">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lect3_talk_mit.pdf">PDF</a>)</td>
+<td style="width: 43px;">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lect3_mit.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td style="width: 242px;">DNS</td>
+<td style="width: 134px;">&nbsp;</td>
+<td style="width: 43px;">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/dns.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td style="width: 242px;">Client-Server DNS</td>
+<td style="width: 134px;">&nbsp;</td>
+<td style="width: 43px;">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lect5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td style="width: 242px;">Load Balancing Problems (Regional)</td>
+<td style="width: 134px;">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lecture_mit_6.pdf">PDF</a>)</td>
+<td style="width: 43px;">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lecture_mit_6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td style="width: 242px;">Load Balancing Problems (Global)</td>
+<td style="width: 134px;">&nbsp;</td>
+<td style="width: 43px;">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lect7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td style="width: 242px;">Spring Break</td>
+<td style="width: 134px;">&nbsp;</td>
+<td style="width: 43px;">&nbsp;</td>
+</tr>
+<tr class="row">
+<td style="width: 242px;">Overlay Routing Networks</td>
+<td style="width: 134px;"><span class="nobr">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lect9present.pdf">PDF - 1.9 MB</a>)</span></td>
+<td style="width: 43px;">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lecture9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td style="width: 242px;">Streaming Content Delivery</td>
+<td style="width: 134px;">&nbsp;</td>
+<td style="width: 43px;">&nbsp;</td>
+</tr>
+<tr class="row">
+<td style="width: 242px;">TCP</td>
+<td style="width: 134px;">&nbsp;(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/load_assignment.pdf">PDF</a>)</td>
+<td style="width: 43px;"><span class="nobr">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lect11a_mit.pdf">PDF 1</a>)</span><br /><span class="nobr">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lect11b_mit.pdf">PDF 2</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td style="width: 242px;">Congestion Control</td>
+<td style="width: 134px;">&nbsp;</td>
+<td style="width: 43px;">&nbsp;</td>
+</tr>
+<tr class="row">
+<td style="width: 242px;">Coding, Compression, and Overlay Network</td>
+<td style="width: 134px;">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lec13present.pdf">PDF</a>)</td>
+<td style="width: 43px;">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lecture13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td style="width: 242px;">Geographically Distributed Applications</td>
+<td style="width: 134px;">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lec14.pdf">PDF</a>)</td>
+<td style="width: 43px;">&nbsp;</td>
+</tr>
+<tr class="row">
+<td style="width: 242px;">Visualization Tools</td>
+<td style="width: 134px;">&nbsp;</td>
+<td style="width: 43px;">(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/5/lect15.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
