@@ -81,7 +81,7 @@
   <li class="title"><a href="#course80">Topics in Mathematics with Applications in Finance</a></li>
    <li class="title"><a href="#course81">High-Dimensional Statistics</a></li>
     <li class="title"><a href="#course82">The Polynomial Method</a></li>
-     <li class="title"><a href="#course83">Calculus Revisited: Single Variable Calculus</a></li>
+     <li class="title"><a href="#course83">Distributed Algorithms</a></li>
 </ul>
 </br>
 
@@ -7829,6 +7829,112 @@
 </ul>
 
 </br>
-<h2 id ="course83">Calculus Revisited: Single Variable Calculus</h2>
+<h2 id ="course83">Distributed Algorithms</h2>
 
 
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>Course overview. Synchronous networks. Leader election in synchronous ring networks.</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT6_852JF09_lec01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Leader election in rings. Basic computational tasks in general synchronous networks: leader election. Breadth-first search. Broadcast and convergecast. Shortest paths.</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT6_852JF09_lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Spanning trees. Minimum spanning trees.</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT6_852JF09_lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Fault-tolerant consensus. Link failures: the two generals problem. Process failures (stopping, Byzantine). Algorithms for agreement with stopping and Byzantine failures. Exponential information gathering.</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT6_852JF09_lec04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Number-of-processor bounds for Byzantine agreement. Weak Byzantine agreement. Time bounds for consensus problems.</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT6_852JF09_lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><em>k</em>-set-agreement. Approximate agreement. Distributed commit.</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT6_852JF09_lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Asynchronous distributed computing. Formal modeling of asynchronous systems using interacting state machines (I/O automata). Proving correctness of distributed algorithms.</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT6_852JF09_lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Non-fault-tolerant algorithms for asynchronous networks. Leader election, breadth-first search, shortest paths, broadcast and convergecast.</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT6_852JF09_lec08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Spanning trees. Gallager&nbsp;<em>et al</em>. minimum spanning trees.</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT6_852JF09_lec09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Synchronizers. Synchronizer applications. Synchronous vs. asynchronous distributed systems.</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT6_852JF09_lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Time, clocks, and the ordering of events. State-machine simulation. Vector timestamps.</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT6_852JF09_lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Stable property detection. Distributed termination. Global snapshots. Deadlock detection.</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT6_852JF09_lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Asynchronous shared-memory systems. The mutual exclusion problem. Mutual exclusion algorithms.</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT6_852JF09_lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>More mutual exclusion algorithms. Bounds on shared memory for mutual exclusion. Resource allocation. The Dining Philosophers problem.</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT6_852JF09_lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Shared-memory multiprocessors. Contention, caching, locality. Practical mutual exclusion algorithms. Reading/writing locks.</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT6_852JF09_lec15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Impossibility of consensus in asynchronous, fault-prone, shared-memory systems.</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT6_852JF09_lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Atomic objects</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT6_852JF09_lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Atomic snapshot algorithms. Atomic read/write register algorithms.</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT6_852JF09_lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>List algorithms: locking algorithms, optimistic algorithms, lock-free algorithms, lazy algorithms.</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT6_852JF09_lec19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Transactional memory: obstruction-free and lock-based implementations.</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT6_852JF09_lec20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Wait-free computability. The wait-free consensus hierarchy.</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT6_852JF09_lec21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Wait-free vs.&nbsp;<em>f</em>-fault-tolerant atomic objects. Boosting fault-tolerance.</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT6_852JF09_lec22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Asynchronous network model vs. asynchronous shared-memory model. Impossibility of consensus in asynchronous networks. Failure detectors and consensus. Paxos consensus algorithm.</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT6_852JF09_lec23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Self-stabilizing algorithms</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT6_852JF09_lec24.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Timing-based systems. Modeling and verification. Timing-based algorithms for mutual exclusion and consensus. Clock synchronization.</td>
+<td>(<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT6_852JF09_lec25.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
