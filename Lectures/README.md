@@ -77,6 +77,7 @@
     <li class="title"><a href="#course76">Topics in Theoretical Computer Science: Internet Research Problems</a></li>
  <li class="title"><a href="#course77">Simplicity Theory</a></li>
  <li class="title"><a href="#course78">Topics in Combinatorial Optimization</a></li>
+  <li class="title"><a href="#course79">Topics in Mathematics of Data Science</a></li>
 </ul>
 </br>
 
@@ -7555,3 +7556,57 @@
 </tbody>
 </table>
 </br>
+
+<h2 id ="course79">Topics in Mathematics of Data Science</h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F15_Ses1.pdf">Overview and Two Open Problems (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F15_Ses2_4.pdf">Principal Component Analysis in High Dimensions and the Spike Model (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F15_Ses5_7.pdf">Graphs, Diffusion Maps, and Semi-supervised Learning (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F15_Ses8_11.pdf">Spectral Clustering and Cheeger's Inequality (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F15_Ses12_14.pdf">Concentration Inequalities, Scalar and Matrix Versions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F15_Ses15_16.pdf">Johnson-Lindenstrauss Lemma and Gordon's Theorem (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F15_Ses17.pdf">Local Convergence of Graphs and Enumeration of Spanning Trees (PDF)</a>&nbsp;(Courtesy of Mustazee Rahman. Used with permission.)</td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F15_Ses18_19.pdf">Compressed Sensing and Sparse Recovery (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F15_Ses20.pdf">Group Testing and Error-Correcting Codes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F15_Ses21.pdf">Approximation Algorithms and Max-Cut (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F15_Ses22.pdf">Community Detection and the Stochastic Block Model (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F15_Ses23.pdf">Synchronization Problems and Alignment (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+<p>Most of the lecture notes were consolidated into a monograph:&nbsp;<a href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/7/MIT18_S096F15_TenLec.pdf">Ten Lectures and Forty Two Open Problems in the Mathematics of Data Science (PDF - 2.7MB)</a></p>
+</br>
+
+
+
+
+
+
+
