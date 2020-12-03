@@ -427,6 +427,7 @@
 <li><a title="" href="https://en.wikipedia.org/wiki/Lists_of_mathematics_topics">Lists of mathematics topics</a></li>
 <li><a title="Areas of mathematics" href="https://en.wikipedia.org/wiki/Areas_of_mathematics">Areas of mathematics</a></li>
 <li><a title="Glossary of areas of mathematics" href="https://en.wikipedia.org/wiki/Glossary_of_areas_of_mathematics">Glossary of areas of mathematics</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Math-Lectures/blob/master/README.md" style="text-decoration:none;">Math Lectures</a></li> 
 </ul>
 </br>
 
